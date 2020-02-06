@@ -1,4 +1,3 @@
-|news  |wuhan2020-timeline|https://github.com/Pratitya/wuhan2020-timeline          |                                                                    |记录自2019年12月起武汉新冠肺炎疫情进展的时间线|
 |       name       |                              repo                              |                                    website                                    |                  decription                  |
 |------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------|----------------------------------------------|
 |wuhan2020         |[repo](https://github.com/wuhan2020/wuhan2020)                  |[website](https://wh.opensource-service.cn/#/)                                 |                                              |
