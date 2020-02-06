@@ -21,5 +21,6 @@ Tribute to all people in the open source community
 * [chinatimeline](https://github.com/chinatimeline/chinatimeline.github.io)
 
 ### 推荐网页
-* github
-* microsoft form
+* 给本站推荐项目请点这里 [Open issue at GitHub](https://github.com/WeileiZeng/OpenSourceWuhan/issues/new?assignees=&labels=&template=------.md&title=%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90%3A+%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0)
+
+* 或者[Contact me](https://weileizeng.com/news/1992/06/29/contact/)
