@@ -1,10 +1,5 @@
 
 
-{% include repo-collection.md %}
-
-<span id="logo"></span>
-
-<span id="logo"></span> == $0
 
 
 * [wuhan2020](https://github.com/wuhan2020/wuhan2020) [新型冠状病毒防疫信息收集平台](https://wh.opensource-service.cn/#/)    
