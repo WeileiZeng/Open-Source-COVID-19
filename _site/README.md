@@ -4,7 +4,7 @@ Tribute to all people in the open source community
 
 这个导航网站统计了开源平台上支援武汉的项目，是一个连结各个开源项目的入口
 
-导航网站：[https://weileizeng.github.io/OpenSourceWuhan/]()
+导航网站：https://weileizeng.github.io/OpenSourceWuhan/
 
 
 ### 推荐网页
