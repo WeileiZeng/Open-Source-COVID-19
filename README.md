@@ -45,6 +45,7 @@ A collection of all Open Source project for defending Wuhan during Coronavirus 2
 * [chinatimeline/chinatimeline.github.io](https://github.com/chinatimeline/chinatimeline.github.io) [时代透镜 武汉肺炎疫情](https://chinatimeline.github.io/wuhan-coronavirus/)
 * [Internet Archive for 2019 nCov](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)
 * [Academic-nCoV/2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV) [关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息](https://github.com/Academic-nCoV/2019-nCoV/wiki)
+* [SaveWuhan/NewsCoverageOnWuhan](https://github.com/SaveWuhan/NewsCoverageOnWuhan) 对媒体报道进行脚本抓取的markdown存档，可通过[GitBook](https://freewuhan2020.gitbook.io/wuhan2020/) 浏览
 
 ### 暂未分类
 * [839Studio/Novel-Coronavirus-Updates](https://github.com/839Studio/Novel-Coronavirus-Updates) 新增确诊新型冠状病毒肺炎统计数据（每日更新）
