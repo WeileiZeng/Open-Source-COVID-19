@@ -7,18 +7,18 @@ Tribute to all people in the open source community
 
 
 ### 数据收集
-* [cuihua/2019_nCov](https://github.com/cuihuan/2019_nCov) [2019-nCov 武汉新型冠状病毒可视化](http://cuihuan.net/wuhan/news.html)
+* ⭐️   317   [shfshanyue/2019-ncov](https://github.com/shfshanyue/2019-ncov)
+[全国新型冠状病毒，肺炎疫情实时省市地图](https://ncov.shanyue.tech)
 * [BlankerL/DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data) [全国新型肺炎疫情实时数据接口](https://lab.isaaclin.cn/nCoV/)
+* [cuihua/2019_nCov](https://github.com/cuihuan/2019_nCov) [2019-nCov 武汉新型冠状病毒可视化](http://cuihuan.net/wuhan/news.html)
 * [肺炎疫情实时动态 · 北美](https://coronavirus.1point3acres.com/?from=timeline&isappinstalled=0) （未开源）
-* [WeileiZeng/red-cross](https://github.com/WeileiZeng/red-cross) [湖北/武汉红十字 云监工平台](https://weileizeng.github.io/red-cross/)
 * [sangyx/nCoV-Map](https://github.com/sangyx/nCoV-Map) [nCoV-Map：新型肺炎疫情地图](http://106.13.58.203:4000/) 包含地级市疫情
 * [Programming-With-Love/2019-nCoV](https://github.com/Programming-With-Love/2019-nCoV) This repo holds the code for crawling the latest news on the pneumonia virus from Clove doctor's website
-* ⭐️  291  [https://github.com/lispczz/pneumonia](https://github.com/lispczz/pneumonia) [中国新型冠状病毒肺炎地级市疫情图](https://lispczz.github.io/pneumonia/)
+* ⭐️  291  [hispczz/pneumonia](https://github.com/lispczz/pneumonia) [中国新型冠状病毒肺炎地级市疫情图](https://lispczz.github.io/pneumonia/)
 *   ⭐     320  [globalcitizen/2019-wuhan-coronavirus-data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data) This public repository archives data over time from various public sources on the web.
 * ⭐️   172        [nextstrain/ncov](https://github.com/nextstrain/ncov) This is a Nextstrain build for novel coronavirus (nCoV), visible at [nextstrain.org/ncov](nextstrain.org/ncov).
 * ⭐️     181 [veaba/ncov](https://github.com/veaba/ncov) [2020-nCov感染可视化(科学上网)](http://2020-ncov.datav.ai/) [2019-nCov新版可视化(全实时通信)](http://2019-ncov.datav.ai/) 关注武汉肺炎2019新型冠状病毒（2019-nCoV），数据可视化感染人群热点图、迁徙扩散轨迹，以提供帮助分析疫情。 愿世界安好。
-* ⭐️   317   [shfshanyue/2019-ncov](https://github.com/shfshanyue/2019-ncov)
-[全国新型冠状病毒，肺炎疫情实时省市地图](https://ncov.shanyue.tech)
+
 
 
 ### 导航网页
@@ -38,6 +38,7 @@ A collection of all Open Source project for defending Wuhan during Coronavirus 2
 
 ### 新闻舆论
 * ⭐️ 2.6k  [2019ncovmemory/nCovMemory](https://github.com/2019ncovmemory/nCovMemory) 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media reports and Non-fiction Writings (Continuously updating)
+* [WeileiZeng/red-cross](https://github.com/WeileiZeng/red-cross) [湖北/武汉红十字 云监工平台](https://weileizeng.github.io/red-cross/)
 * [Anti404 - 2019nCov信息ICU(外)](https://shimo.im/docs/onq7MwVO6pf4FjA9/read) 旨在保存舆情线索，记录个体遭遇，分专题编排。
 * [2020新型冠状病毒报道汇总](https://shimo.im/sheets/QjTYy6rgVV3WDRkh/MODOC/) 分为媒体报道、自媒体评论或报道、热门微博。
 * [公众号文章存档: 2019-nCoV](https://2019-ncov.sogiecn.com/) 收录微信公众号上的文章，含原文链接、网页存档、截图存档。
