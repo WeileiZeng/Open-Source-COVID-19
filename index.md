@@ -21,7 +21,7 @@ Tribute to all people in the open source community
 * [839Studio/Novel-Coronavirus-Updates](https://github.com/839Studio/Novel-Coronavirus-Updates) 新增确诊新型冠状病毒肺炎统计数据（每日更新）
 * [pzhaonet/ncov](https://github.com/pzhaonet/ncov) [新型冠状病毒疫情信息](https://ncov2020.org/)
 * [Moyck/2019NCOV](https://github.com/Moyck/2019NCOV) 一个武汉肺炎的可视化APP
-
+* [JackieZheng/2019-nCoV/](https://github.com/JackieZheng/2019-nCoV/) [全国新型肺炎疫情每日数据动态](https://jackiezheng.github.io/2019-nCoV/web/index.html)
 
 ### 导航网页 Navigation page
 * [wertycn/nCoV](https://github.com/wertycn/nCoV)   [2019-nCoV 武汉新冠状病毒肺炎疫情信息导航](http://nav.werty.cn/)
