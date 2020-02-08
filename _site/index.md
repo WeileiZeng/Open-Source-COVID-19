@@ -57,7 +57,7 @@ A collection of all Open Source project for defending Wuhan during Coronavirus 2
 [https://weileizeng.github.io/OpenSourceWuhan/]()
 本站侧重开源社区，是一个连结各个开源项目的入口，欢迎添加您的项目
 * 给本站推荐项目请点这里 [Open issue at GitHub](https://github.com/WeileiZeng/OpenSourceWuhan/issues/new?assignees=&labels=&template=------.md&title=%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90%3A+%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0)
-* 或者[Contact me](https://weileizeng.com/news/1992/06/29/contact/)
+* 也可评论或者[Contact me](https://weileizeng.com/news/1992/06/29/contact/)
 
 
 <div id="fb-root"></div>
