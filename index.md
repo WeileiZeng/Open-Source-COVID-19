@@ -28,7 +28,7 @@ A collection of all Open Source project for defending Wuhan during Coronavirus 2
 
 
 ### 实用工具
-* [TheWonderingCoel/WuhanPneumoniaBotTelegram](https://github.com/TheWanderingCoel/WuhanPneumoniaBotTelegram) A telegram bot for WuhanPneumonia Status
+* [TheWanderingCoel/WuhanPneumoniaBotTelegram](https://github.com/TheWanderingCoel/WuhanPneumoniaBotTelegram) A telegram bot for WuhanPneumonia Status
 * ⭐️  1.1k [KikiLetGo/VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) [计算机仿真程序告诉你为什么现在还没到出门的时候！！！](https://www.bilibili.com/video/av86478875)
 
 ### 技术组件
