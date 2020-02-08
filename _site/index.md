@@ -1,6 +1,6 @@
 Tribute to all people in the open source community
 
-### 综合平台 Integrated community
+### 综合平台 Integrated platform
 * ⭐️  5.2k [wuhan2020/wuhan2020](https://github.com/wuhan2020/wuhan2020) [新型冠状病毒防疫信息收集平台](https://wh.opensource-service.cn/#/)
 * ⭐️  120 [wuhan-support/wuhan.support](https://github.com/wuhan-support/wuhan.support) [面向疫区内外民众和医疗机构的多维度信息整合平台](https://feiyan.help)
 * [全国抗击新冠肺炎防护物资信息交流平台](http://charity.foodblockchain.com.cn/?from=timeline&isappinstalled=0) (未开源)
@@ -9,7 +9,7 @@ Tribute to all people in the open source community
 ### 数据收集 Data collection and visualization
 * ⭐️   317   [shfshanyue/2019-ncov](https://github.com/shfshanyue/2019-ncov)
 [全国新型冠状病毒，肺炎疫情实时省市地图](https://ncov.shanyue.tech)
-*  ⭐️  677   [BlankerL/DXY-2019-nCoV-Crawler](https://github.com/BlankerL/DXY-2019-nCoV-Crawler) ⭐️   393     [BlankerL/DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data) [全国新型肺炎疫情实时数据接口](https://lab.isaaclin.cn/nCoV/)
+*  ⭐️  677   [BlankerL/DXY-2019-nCoV-Crawler](https://github.com/BlankerL/DXY-2019-nCoV-Crawler) ⭐️   393     [BlankerL/DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data) [全国新型肺炎疫情实时数据API接口](https://lab.isaaclin.cn/nCoV/)
 * [cuihua/2019_nCov](https://github.com/cuihuan/2019_nCov) [2019-nCov 武汉新型冠状病毒可视化](http://cuihuan.net/wuhan/news.html)
 * [肺炎疫情实时动态 · 北美](https://coronavirus.1point3acres.com/?from=timeline&isappinstalled=0) （未开源）
 * [sangyx/nCoV-Map](https://github.com/sangyx/nCoV-Map) [nCoV-Map：新型肺炎疫情地图](http://106.13.58.203:4000/) 包含地级市疫情
@@ -19,7 +19,8 @@ Tribute to all people in the open source community
 * ⭐️   172        [nextstrain/ncov](https://github.com/nextstrain/ncov) This is a Nextstrain build for novel coronavirus (nCoV), visible at [nextstrain.org/ncov](nextstrain.org/ncov).
 * ⭐️     181 [veaba/ncov](https://github.com/veaba/ncov) [2020-nCov感染可视化(科学上网)](http://2020-ncov.datav.ai/) [2019-nCov新版可视化(全实时通信)](http://2019-ncov.datav.ai/) 关注武汉肺炎2019新型冠状病毒（2019-nCoV），数据可视化感染人群热点图、迁徙扩散轨迹，以提供帮助分析疫情。 愿世界安好。
 * [839Studio/Novel-Coronavirus-Updates](https://github.com/839Studio/Novel-Coronavirus-Updates) 新增确诊新型冠状病毒肺炎统计数据（每日更新）
-
+* [pzhaonet/ncov](https://github.com/pzhaonet/ncov) [新型冠状病毒疫情信息](https://ncov2020.org/)
+* [Moyck/2019NCOV](https://github.com/Moyck/2019NCOV) 一个武汉肺炎的可视化APP
 
 
 ### 导航网页 Navigation page
