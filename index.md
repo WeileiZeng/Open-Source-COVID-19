@@ -9,7 +9,7 @@ Tribute to all people in the open source community
 ### 数据收集 Data collection and visualization
 * ⭐️   317   [shfshanyue/2019-ncov](https://github.com/shfshanyue/2019-ncov)
 [全国新型冠状病毒，肺炎疫情实时省市地图](https://ncov.shanyue.tech)
-* ⭐️   393     [BlankerL/DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data) [全国新型肺炎疫情实时数据接口](https://lab.isaaclin.cn/nCoV/)
+*  ⭐️  677   [BlankerL/DXY-2019-nCoV-Crawler](https://github.com/BlankerL/DXY-2019-nCoV-Crawler) ⭐️   393     [BlankerL/DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data) [全国新型肺炎疫情实时数据接口](https://lab.isaaclin.cn/nCoV/)
 * [cuihua/2019_nCov](https://github.com/cuihuan/2019_nCov) [2019-nCov 武汉新型冠状病毒可视化](http://cuihuan.net/wuhan/news.html)
 * [肺炎疫情实时动态 · 北美](https://coronavirus.1point3acres.com/?from=timeline&isappinstalled=0) （未开源）
 * [sangyx/nCoV-Map](https://github.com/sangyx/nCoV-Map) [nCoV-Map：新型肺炎疫情地图](http://106.13.58.203:4000/) 包含地级市疫情
