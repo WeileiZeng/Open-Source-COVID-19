@@ -19,7 +19,7 @@ Tribute to all people in the open source community
 * ⭐️   172        [nextstrain/ncov](https://github.com/nextstrain/ncov) This is a Nextstrain build for novel coronavirus (nCoV), visible at [nextstrain.org/ncov](nextstrain.org/ncov).
 * ⭐️     181 [veaba/ncov](https://github.com/veaba/ncov) [2020-nCov感染可视化(科学上网)](http://2020-ncov.datav.ai/) [2019-nCov新版可视化(全实时通信)](http://2019-ncov.datav.ai/) 关注武汉肺炎2019新型冠状病毒（2019-nCoV），数据可视化感染人群热点图、迁徙扩散轨迹，以提供帮助分析疫情。 愿世界安好。
 * [839Studio/Novel-Coronavirus-Updates](https://github.com/839Studio/Novel-Coronavirus-Updates) 新增确诊新型冠状病毒肺炎统计数据（每日更新）
-* [pzhaonet/ncov](https://github.com/pzhaonet/ncov) [新型冠状病毒疫情信息](https://ncov2020.org/)
+* [pzhaonet/ncov](https://github.com/pzhaonet/ncov) [新型冠状病毒疫情信息](https://ncov2020.org/) [pzhaonet/ncovr](https://github.com/pzhaonet/ncovr) R 语言包获取新型冠状病毒（2019-nCoV）数据
 * [Moyck/2019NCOV](https://github.com/Moyck/2019NCOV) 一个武汉肺炎的可视化APP
 * [JackieZheng/2019-nCoV/](https://github.com/JackieZheng/2019-nCoV/) [全国新型肺炎疫情每日数据动态](https://jackiezheng.github.io/2019-nCoV/web/index.html)
 * ⭐️     154         [fluttercandies/ncov_2019](https://github.com/fluttercandies/ncov_2019) 获取新肺炎实时动态App，支持Android和IOS。
