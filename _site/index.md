@@ -39,23 +39,30 @@ A collection of all Open Source project for defending Wuhan during Coronavirus 2
 * [hack-fang/nCov](https://github.com/hack-fang/nCov) [2019新型肺炎疫情地图(全国、安徽、河北、湖北、浙江)](https://yiqing.ahusmart.com/)
 
 ### 新闻舆论 News
-* ⭐️ 2.6k  [2019ncovmemory/nCovMemory](https://github.com/2019ncovmemory/nCovMemory) 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media reports and Non-fiction Writings (Continuously updating)
-* ⭐️    388      [chinatimeline/chinatimeline.github.io](https://github.com/chinatimeline/chinatimeline.github.io) [时代透镜 武汉肺炎疫情](https://chinatimeline.github.io/wuhan-coronavirus/)
-* [WeileiZeng/red-cross](https://github.com/WeileiZeng/red-cross) [湖北/武汉红十字 云监工平台](https://weileizeng.github.io/red-cross/) 官网公示数据收集与可视化
+* ⭐️ 24.4k  [2019ncovmemory/nCovMemory](https://github.com/2019ncovmemory/nCovMemory) 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media reports and Non-fiction Writings (Continuously updating)
+* ⭐️   110     [jiayiliujiayi/2020nCov_individual_archives](https://github.com/jiayiliujiayi/2020nCov_individual_archives) Every individual matters. Every individual has a role to play. 备份普通人在疫情期间的记录。
+* [Mainland News Outlets Coverage on 2019-nCoV](https://docs.google.com/document/d/1RqYvfEbLhcyH8rhw0xLpjc2w0JqPBQINzj3ORE-Jka0/edit?usp=sharing)
+* [SaveWuhan/NewsCoverageOnWuhan](https://github.com/SaveWuhan/NewsCoverageOnWuhan) 对媒体报道进行脚本抓取的markdown存档，可通过[GitBook](https://freewuhan2020.gitbook.io/wuhan2020/) 浏览
+* [lestweforget/wuhan2019](https://github.com/lestweforget/wuhan2019) 本项目主要就中国国内媒体对新冠肺炎（2019.12-）的报道进行备份、存档。
+* [疫情之下的劳动者——中文媒体报道收集](https://note.youdao.com/ynoteshare1/index.html?id=eee7c8c3d7b8b054dc94d8abd1a211d8&type=note)
 * [Anti404 - 2019nCov信息ICU(外)](https://shimo.im/docs/onq7MwVO6pf4FjA9/read) 旨在保存舆情线索，记录个体遭遇，分专题编排。
 * [2020新型冠状病毒报道汇总](https://shimo.im/sheets/QjTYy6rgVV3WDRkh/MODOC/) 分为媒体报道、自媒体评论或报道、热门微博。
 * [公众号文章存档: 2019-nCoV](https://2019-ncov.sogiecn.com/) 收录微信公众号上的文章，含原文链接、网页存档、截图存档。
-* [Pratitya/wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline)    记录自2019年12月起武汉新冠肺炎疫情进展的时间线
+* [Telegram频道：2019肺炎疫情新闻赛博坟场](https://t.me/wuhancensored) 记录网上曾被消失、篡改的内容。
+*   [chinatimeline/chinatimeline.github.io](https://github.com/chinatimeline/chinatimeline.github.io) [时代透镜 武汉肺炎疫情](https://chinatimeline.github.io/wuhan-coronavirus/)
+* ⭐️    408         [Pratitya/wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline)    记录自2019年12月起武汉新冠肺炎疫情进展的时间线
 * [Internet Archive for 2019 nCov](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)
-* [Academic-nCoV/2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV) [关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息](https://github.com/Academic-nCoV/2019-nCoV/wiki)
-* [SaveWuhan/NewsCoverageOnWuhan](https://github.com/SaveWuhan/NewsCoverageOnWuhan) 对媒体报道进行脚本抓取的markdown存档，可通过[GitBook](https://freewuhan2020.gitbook.io/wuhan2020/) 浏览
+* ⭐️   96      [Academic-nCoV/2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV) [关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息](https://github.com/Academic-nCoV/2019-nCoV/wiki)
+* [WeileiZeng/red-cross](https://github.com/WeileiZeng/red-cross) [湖北/武汉红十字 云监工平台](https://weileizeng.github.io/red-cross/) 官网公示数据收集与可视化
+
+
 
 <!-- ### 暂未分类 -->
 
 
 ### 推荐网页 Site recommendation
 [武汉开源OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/)
-集结了支援武汉的开源项目，是一个连结各个开源项目的入口。
+集结了支援武汉的开源项目，是一个连结各个开源项目的入口。本站持续跟新中
 * 给本站推荐项目请点这里 [Open issue at GitHub](https://github.com/WeileiZeng/OpenSourceWuhan/issues/new?assignees=&labels=&template=------.md&title=%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90%3A+%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0)
 * 也可评论或者[Contact me](https://weileizeng.com/news/1992/06/29/contact/)
 
