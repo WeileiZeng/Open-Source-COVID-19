@@ -7,6 +7,7 @@ Tribute to all people in the open source community
 导航网站website:
 [https://weileizeng.github.io/OpenSourceWuhan/](https://weileizeng.github.io/OpenSourceWuhan/)
 
+超过一万人参与了这个列表中的项目，并获得了超过一万颗星。
 
 ### 推荐网页 to recommend a site
 * 给本站推荐项目请点这里 [Open issue at GitHub](https://github.com/WeileiZeng/OpenSourceWuhan/issues/new?assignees=&labels=&template=------.md&title=%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90%3A+%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0)
