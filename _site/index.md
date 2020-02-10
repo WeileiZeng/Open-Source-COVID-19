@@ -34,7 +34,7 @@ A collection of all Open Source project for defending Wuhan during Coronavirus 2
 
 
 ### 实用工具 Handy applications
-* ⭐️  1.1k [KikiLetGo/VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) [计算机仿真程序告诉你为什么现在还没到出门的时候！！！](https://www.bilibili.com/video/av86478875)
+* ⭐️       1.4k [KikiLetGo/VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast) [计算机仿真程序告诉你为什么现在还没到出门的时候！！！](https://www.bilibili.com/video/av86478875)
 * [TheWanderingCoel/WuhanPneumoniaBotTelegram](https://github.com/TheWanderingCoel/WuhanPneumoniaBotTelegram) A telegram bot for WuhanPneumonia Status
 
 ### 技术组件 Techniquel tools
@@ -43,7 +43,7 @@ A collection of all Open Source project for defending Wuhan during Coronavirus 2
 * [hack-fang/nCov](https://github.com/hack-fang/nCov) [2019新型肺炎疫情地图(全国、安徽、河北、湖北、浙江)](https://yiqing.ahusmart.com/)
 
 ### 新闻舆论 News
-* ⭐️ 2    4.4k  [2019ncovmemory/nCovMemory](https://github.com/2019ncovmemory/nCovMemory) 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media reports and Non-fiction Writings (Continuously updating)
+* ⭐️          4.4k  [2019ncovmemory/nCovMemory](https://github.com/2019ncovmemory/nCovMemory) 2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media reports and Non-fiction Writings (Continuously updating)
 * ⭐️   110     [jiayiliujiayi/2020nCov_individual_archives](https://github.com/jiayiliujiayi/2020nCov_individual_archives) Every individual matters. Every individual has a role to play. 备份普通人在疫情期间的记录。
 * [Mainland News Outlets Coverage on 2019-nCoV](https://docs.google.com/document/d/1RqYvfEbLhcyH8rhw0xLpjc2w0JqPBQINzj3ORE-Jka0/edit?usp=sharing)
 * [SaveWuhan/NewsCoverageOnWuhan](https://github.com/SaveWuhan/NewsCoverageOnWuhan) 对媒体报道进行脚本抓取的markdown存档，可通过[GitBook](https://freewuhan2020.gitbook.io/wuhan2020/) 浏览
