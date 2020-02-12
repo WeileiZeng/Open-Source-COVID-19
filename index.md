@@ -31,6 +31,7 @@
 * [wertycn/nCoV](https://github.com/wertycn/nCoV)   [2019-nCoV 武汉新冠状病毒肺炎疫情信息导航](http://nav.werty.cn/)
 * [WeileiZeng/OpenSourceWuhan](https://github.com/WeileiZeng/OpenSourceWuhan) [武汉开源OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/)
 A collection of all Open Source project for defending Wuhan during Coronavirus 2020 支援武汉开源项目汇总
+* [byrwiki/jiayou](https://github.com/byrwiki/jiayou) [为2020新型肺炎疫情所做专题信息整合站点](http://jiayou.beiyouren.cn/jiayou)
 
 
 ### 实用工具 Handy applications
