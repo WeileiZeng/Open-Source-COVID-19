@@ -53,7 +53,7 @@ A collection of all Open Source project for defending Wuhan during Coronavirus 2
 * [Anti404 - 2019nCov信息ICU(外)](https://shimo.im/docs/onq7MwVO6pf4FjA9/read) 旨在保存舆情线索，记录个体遭遇，分专题编排。
 * [2020新型冠状病毒报道汇总](https://shimo.im/sheets/QjTYy6rgVV3WDRkh/MODOC/) 分为媒体报道、自媒体评论或报道、热门微博。
 * [公众号文章存档: 2019-nCoV](https://2019-ncov.sogiecn.com/) 收录微信公众号上的文章，含原文链接、网页存档、截图存档。
-* [Telegram频道：2019肺炎疫情新闻赛博坟场](https://t.me/wuhancensored) 记录网上曾被消失、篡改的内容。
+<!-- * [Telegram频道：2019肺炎疫情新闻赛博坟场](https://t.me/wuhancensored) 记录网上曾被消失、篡改的内容。 weilei comments: 经人举报有不合时宜的政治行为，相关内容请查看邮件-->
 *   [chinatimeline/chinatimeline.github.io](https://github.com/chinatimeline/chinatimeline.github.io) [时代透镜 武汉肺炎疫情](https://chinatimeline.github.io/wuhan-coronavirus/)
 * ⭐️    408         [Pratitya/wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline)    记录自2019年12月起武汉新冠肺炎疫情进展的时间线
 * [Internet Archive for 2019 nCov](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)
