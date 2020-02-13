@@ -59,7 +59,7 @@ A collection of all Open Source project for defending Wuhan during Coronavirus 2
 * [Internet Archive for 2019 nCov](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)
 * ⭐️   96      [Academic-nCoV/2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV) [关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息](https://github.com/Academic-nCoV/2019-nCoV/wiki)
 * [WeileiZeng/red-cross](https://github.com/WeileiZeng/red-cross) [湖北/武汉红十字 云监工平台](https://weileizeng.github.io/red-cross/) 官网公示数据收集与可视化
-* [wuhancrisis/wuhancrisis.github.io](https://github.com/wuhancrisis/wuhancrisis.github.io) [武汉同胞口罩下的呐喊](www.wuhancrisis.com) 收集自二月三日起微博开设的 _肺炎患者求助_ 超级话题中内累计出现过的几千份来自疫区的患者求助.
+* [wuhancrisis/wuhancrisis.github.io](https://github.com/wuhancrisis/wuhancrisis.github.io) [武汉同胞口罩下的呐喊](https://www.wuhancrisis.com) 收集自二月三日起微博开设的 _肺炎患者求助_ 超级话题中内累计出现过的几千份来自疫区的患者求助.
 
 <!-- ### 暂未分类 -->
 
