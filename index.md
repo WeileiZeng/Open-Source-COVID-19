@@ -6,7 +6,7 @@
 * [全国抗击新冠肺炎防护物资信息交流平台](http://charity.foodblockchain.com.cn/?from=timeline&isappinstalled=0) (未开源)
 
 
-### 数据收集 Data collection and visualization
+###  疫情信息 Data collection and visualization
 * ⭐️   317   [shfshanyue/2019-ncov](https://github.com/shfshanyue/2019-ncov)
 [全国新型冠状病毒，肺炎疫情实时省市地图](https://ncov.shanyue.tech)
 *  ⭐️  677   [BlankerL/DXY-2019-nCoV-Crawler](https://github.com/BlankerL/DXY-2019-nCoV-Crawler) ⭐️   393     [BlankerL/DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data) [全国新型肺炎疫情实时数据API接口](https://lab.isaaclin.cn/nCoV/)
@@ -25,6 +25,11 @@
 * ⭐️     154         [fluttercandies/ncov_2019](https://github.com/fluttercandies/ncov_2019) 获取新肺炎实时动态App，支持Android和IOS。
 * [GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019) [query stats of infected coronavirus cases](https://mp.weixin.qq.com/s/_0D8ENb-4lGm4UV16Ok28A)
 * [canghailan/Wuhan-2019-nCoV](https://github.com/canghailan/Wuhan-2019-nCoV) 2019-nCoV 新冠状病毒 2019-12-01至今国家、省、市三级每日统计数据（支持接口读取）
+
+### 救助信息 People in need
+* [个人求助整理](https://shimo.im/docs/vKV3tRCdkYkqykHv/read)
+* [受困的人](https://shimo.im/docs/9dj9dWYd3HH3CXPR/read)
+* [wuhancrisis/wuhancrisis.github.io](https://github.com/wuhancrisis/wuhancrisis.github.io) [武汉同胞口罩下的呐喊](https://www.wuhancrisis.com) 收集自二月三日起微博开设的 _肺炎患者求助_ 超级话题中内累计出现过的几千份来自疫区的患者求助.
 
 
 ### 导航网页 Navigation page
@@ -59,7 +64,7 @@ A collection of all Open Source project for defending Wuhan during Coronavirus 2
 * [Internet Archive for 2019 nCov](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)
 * ⭐️   96      [Academic-nCoV/2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV) [关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息](https://github.com/Academic-nCoV/2019-nCoV/wiki)
 * [WeileiZeng/red-cross](https://github.com/WeileiZeng/red-cross) [湖北/武汉红十字 云监工平台](https://weileizeng.github.io/red-cross/) 官网公示数据收集与可视化
-* [wuhancrisis/wuhancrisis.github.io](https://github.com/wuhancrisis/wuhancrisis.github.io) [武汉同胞口罩下的呐喊](https://www.wuhancrisis.com) 收集自二月三日起微博开设的 _肺炎患者求助_ 超级话题中内累计出现过的几千份来自疫区的患者求助.
+
 
 <!-- ### 暂未分类 -->
 
