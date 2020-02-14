@@ -6,7 +6,7 @@
 * [全国抗击新冠肺炎防护物资信息交流平台](http://charity.foodblockchain.com.cn/?from=timeline&isappinstalled=0) (未开源)
 
 
-### 数据收集 Data collection and visualization
+###  疫情信息 Data collection and visualization
 * ⭐️   317   [shfshanyue/2019-ncov](https://github.com/shfshanyue/2019-ncov)
 [全国新型冠状病毒，肺炎疫情实时省市地图](https://ncov.shanyue.tech)
 *  ⭐️  677   [BlankerL/DXY-2019-nCoV-Crawler](https://github.com/BlankerL/DXY-2019-nCoV-Crawler) ⭐️   393     [BlankerL/DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data) [全国新型肺炎疫情实时数据API接口](https://lab.isaaclin.cn/nCoV/)
@@ -26,11 +26,17 @@
 * [GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019) [query stats of infected coronavirus cases](https://mp.weixin.qq.com/s/_0D8ENb-4lGm4UV16Ok28A)
 * [canghailan/Wuhan-2019-nCoV](https://github.com/canghailan/Wuhan-2019-nCoV) 2019-nCoV 新冠状病毒 2019-12-01至今国家、省、市三级每日统计数据（支持接口读取）
 
+### 救助信息 People in need
+* [个人求助整理](https://shimo.im/docs/vKV3tRCdkYkqykHv/read)
+* [新冠肺炎互助手册](https://shimo.im/docs/XYjcX9XxJJtxTDpr/read) 新闻资讯、互助信息、求援、咨询等  <!-- [受困的人](https://shimo.im/docs/9dj9dWYd3HH3CXPR/read) 原项目为子条目，更新后删除-->
+* [wuhancrisis/wuhancrisis.github.io](https://github.com/wuhancrisis/wuhancrisis.github.io) [武汉同胞口罩下的呐喊](https://www.wuhancrisis.com) 收集自二月三日起微博开设的 _肺炎患者求助_ 超级话题中内累计出现过的几千份来自疫区的患者求助.
+* [A2N-新型冠状病毒最新疫情信息合集](https://shimo.im/docs/9qrcKpDxHGttRkvP/read)
 
 ### 导航网页 Navigation page
 * [wertycn/nCoV](https://github.com/wertycn/nCoV)   [2019-nCoV 武汉新冠状病毒肺炎疫情信息导航](http://nav.werty.cn/)
 * [WeileiZeng/OpenSourceWuhan](https://github.com/WeileiZeng/OpenSourceWuhan) [武汉开源OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/)
-A collection of all Open Source project for defending Wuhan during Coronavirus 2020 支援武汉开源项目汇总
+A collection of all Open Source project for defending Wuhan during 2019-nCoV 支援武汉开源项目汇总
+* [byrwiki/jiayou](https://github.com/byrwiki/jiayou) [为2020新型肺炎疫情所做专题信息整合站点](http://jiayou.beiyouren.cn/jiayou)
 
 
 ### 实用工具 Handy applications
@@ -52,7 +58,7 @@ A collection of all Open Source project for defending Wuhan during Coronavirus 2
 * [Anti404 - 2019nCov信息ICU(外)](https://shimo.im/docs/onq7MwVO6pf4FjA9/read) 旨在保存舆情线索，记录个体遭遇，分专题编排。
 * [2020新型冠状病毒报道汇总](https://shimo.im/sheets/QjTYy6rgVV3WDRkh/MODOC/) 分为媒体报道、自媒体评论或报道、热门微博。
 * [公众号文章存档: 2019-nCoV](https://2019-ncov.sogiecn.com/) 收录微信公众号上的文章，含原文链接、网页存档、截图存档。
-* [Telegram频道：2019肺炎疫情新闻赛博坟场](https://t.me/wuhancensored) 记录网上曾被消失、篡改的内容。
+<!-- * [Telegram频道：2019肺炎疫情新闻赛博坟场](https://t.me/wuhancensored) 记录网上曾被消失、篡改的内容。 weilei comments: 经人举报有不合时宜的政治行为，相关内容请查看邮件-->
 *   [chinatimeline/chinatimeline.github.io](https://github.com/chinatimeline/chinatimeline.github.io) [时代透镜 武汉肺炎疫情](https://chinatimeline.github.io/wuhan-coronavirus/)
 * ⭐️    408         [Pratitya/wuhan2020-timeline](https://github.com/Pratitya/wuhan2020-timeline)    记录自2019年12月起武汉新冠肺炎疫情进展的时间线
 * [Internet Archive for 2019 nCov](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)
@@ -60,13 +66,12 @@ A collection of all Open Source project for defending Wuhan during Coronavirus 2
 * [WeileiZeng/red-cross](https://github.com/WeileiZeng/red-cross) [湖北/武汉红十字 云监工平台](https://weileizeng.github.io/red-cross/) 官网公示数据收集与可视化
 
 
-
 <!-- ### 暂未分类 -->
 
 
 ### 推荐网页 Site recommendation
 [武汉开源OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/)
-集结了支援武汉的开源项目，是一个连结各个开源项目的入口。本站持续跟新中
+集结了支援武汉的开源项目，是一个连结各个开源项目的入口。本站持续跟新中。
 * 给本站推荐项目请点这里 [Open issue at GitHub](https://github.com/WeileiZeng/OpenSourceWuhan/issues/new?assignees=&labels=&template=------.md&title=%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90%3A+%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0)
 * 也可评论或者[Contact me](https://weileizeng.com/news/1992/06/29/contact/)
 

@@ -28,14 +28,14 @@
 
 ### 救助信息 People in need
 * [个人求助整理](https://shimo.im/docs/vKV3tRCdkYkqykHv/read)
-* [受困的人](https://shimo.im/docs/9dj9dWYd3HH3CXPR/read)
+* [新冠肺炎互助手册](https://shimo.im/docs/XYjcX9XxJJtxTDpr/read) 新闻资讯、互助信息、求援、咨询等  <!-- [受困的人](https://shimo.im/docs/9dj9dWYd3HH3CXPR/read) 原项目为子条目，更新后删除-->
 * [wuhancrisis/wuhancrisis.github.io](https://github.com/wuhancrisis/wuhancrisis.github.io) [武汉同胞口罩下的呐喊](https://www.wuhancrisis.com) 收集自二月三日起微博开设的 _肺炎患者求助_ 超级话题中内累计出现过的几千份来自疫区的患者求助.
-
+* [A2N-新型冠状病毒最新疫情信息合集](https://shimo.im/docs/9qrcKpDxHGttRkvP/read)
 
 ### 导航网页 Navigation page
 * [wertycn/nCoV](https://github.com/wertycn/nCoV)   [2019-nCoV 武汉新冠状病毒肺炎疫情信息导航](http://nav.werty.cn/)
 * [WeileiZeng/OpenSourceWuhan](https://github.com/WeileiZeng/OpenSourceWuhan) [武汉开源OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/)
-A collection of all Open Source project for defending Wuhan during Coronavirus 2020 支援武汉开源项目汇总
+A collection of all Open Source project for defending Wuhan during 2019-nCoV 支援武汉开源项目汇总
 * [byrwiki/jiayou](https://github.com/byrwiki/jiayou) [为2020新型肺炎疫情所做专题信息整合站点](http://jiayou.beiyouren.cn/jiayou)
 
 
@@ -71,7 +71,7 @@ A collection of all Open Source project for defending Wuhan during Coronavirus 2
 
 ### 推荐网页 Site recommendation
 [武汉开源OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/)
-集结了支援武汉的开源项目，是一个连结各个开源项目的入口。本站持续跟新中
+集结了支援武汉的开源项目，是一个连结各个开源项目的入口。本站持续跟新中。
 * 给本站推荐项目请点这里 [Open issue at GitHub](https://github.com/WeileiZeng/OpenSourceWuhan/issues/new?assignees=&labels=&template=------.md&title=%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90%3A+%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0)
 * 也可评论或者[Contact me](https://weileizeng.com/news/1992/06/29/contact/)
 
