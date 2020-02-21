@@ -25,6 +25,8 @@
 * ⭐️     154         [fluttercandies/ncov_2019](https://github.com/fluttercandies/ncov_2019) 获取新肺炎实时动态App，支持Android和IOS。
 * [GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019) [query stats of infected coronavirus cases](https://mp.weixin.qq.com/s/_0D8ENb-4lGm4UV16Ok28A)
 * [canghailan/Wuhan-2019-nCoV](https://github.com/canghailan/Wuhan-2019-nCoV) 2019-nCoV 新冠状病毒 2019-12-01至今国家、省、市三级每日统计数据（支持接口读取）
+* [green512/2019nCoV](https://github.com/green512/2019nCoV) 2019-nCoV 疫情可视化 [疫情散点图](http://nwatch.top:8085/2019ncov/index.html)、 [疫情时空图](http://nwatch.top:8085/2019ncov/heatmaps.html)
+
 
 ### 救助信息 People in need
 * [个人求助整理](https://shimo.im/docs/vKV3tRCdkYkqykHv/read)
@@ -64,7 +66,7 @@ A collection of all Open Source project for defending Wuhan during 2019-nCoV 支
 * [Internet Archive for 2019 nCov](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)
 * ⭐️   96      [Academic-nCoV/2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV) [关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息](https://github.com/Academic-nCoV/2019-nCoV/wiki)
 * [WeileiZeng/red-cross](https://github.com/WeileiZeng/red-cross) [湖北/武汉红十字 云监工平台](https://weileizeng.github.io/red-cross/) 官网公示数据收集与可视化
-
+* [2019新冠肺炎-全球报道](https://2019ncptoday.news.blog/) 网站收录、翻译全球范围内对于2019新冠病毒的英文、西语、德语等其他语种的客观报道
 
 <!-- ### 暂未分类 -->
 
