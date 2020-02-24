@@ -66,6 +66,7 @@ A collection of all Open Source project for defending Wuhan during 2019-nCoV 支
 * [Internet Archive for 2019 nCov](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)
 * ⭐️   96      [Academic-nCoV/2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV) [关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息](https://github.com/Academic-nCoV/2019-nCoV/wiki)
 * [WeileiZeng/red-cross](https://github.com/WeileiZeng/red-cross) [湖北/武汉红十字 云监工平台](https://weileizeng.github.io/red-cross/) 官网公示数据收集与可视化
+* [武汉市新冠肺炎疫情防控指挥部发放捐赠物资统计](https://caysnuts.github.io/monitor/index.html) 物资发放数据可视化，数据来自武汉红会
 * [2019新冠肺炎-全球报道](https://2019ncptoday.news.blog/) 网站收录、翻译全球范围内对于2019新冠病毒的英文、西语、德语等其他语种的客观报道
 
 <!-- ### 暂未分类 -->
