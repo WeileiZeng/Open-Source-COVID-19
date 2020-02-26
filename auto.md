@@ -1,8 +1,19 @@
 10,000+ people have contributed to the projects in this list, which have received 10,000+ stars.
 
+
+{% for group in site.data.projects %}
+### {{ group.group_name }}
+{% for repo in group.repos %}
+* {% if repo.repo_name %} ![](https://img.shields.io/github/stars/{{ repo.repo_name }}?color=yellow&label=%E2%AD%90%EF%B8%8F&logoColor=blue&style=plastic) [{{ repo.repo_name }}](https://github.com/{{ repo.repo_name }}) {% endif %} {% if repo.repo2_name %} ![](https://img.shields.io/github/stars/{{ repo.repo2_name }}?color=yellow&label=%E2%AD%90%EF%B8%8F&logoColor=blue&style=plastic) [{{ repo.repo2_name }}](https://github.com/{{ repo.repo2_name }}) {% endif %} {% if repo.web_name %}[{{ repo.web_name }}]({{ repo.web_url }}){% endif %} {% if repo.web2_name %}[{{ repo.web2_name }}]({{ repo.web2_url }}){% endif %} {{ repo.content }} {% endfor %}
+{% endfor %}
+
+
+
+
 ### 综合平台 Integrated platform
-* ⭐️  5.2k [wuhan2020/wuhan2020](https://github.com/wuhan2020/wuhan2020) [新型冠状病毒防疫信息收集平台](https://wh.opensource-service.cn/#/)
-* ⭐️  120 [wuhan-support/wuhan.support](https://github.com/wuhan-support/wuhan.support) [面向疫区内外民众和医疗机构的多维度信息整合平台](https://feiyan.help)
+{% include repo.md repo-name='wuhan2020/wuhan2020' content=' [新型冠状病毒防疫信息收集平台](https://wh.opensource-service.cn/#/)' %}
+{% include repo.md repo-name='wuhan-support/wuhan.support' content='[面向疫区内外民众和医疗机构的多维度信息整合平台](https://feiyan.help)' %}
+{% include repo.md content='[全国抗击新冠肺炎防护物资信息交流平台](http://charity.foodblockchain.com.cn/?from=timeline&isappinstalled=0) (未开源)' %}
 * [全国抗击新冠肺炎防护物资信息交流平台](http://charity.foodblockchain.com.cn/?from=timeline&isappinstalled=0) (未开源)
 
 
@@ -11,6 +22,7 @@
 [全国新型冠状病毒，肺炎疫情实时省市地图](https://ncov.shanyue.tech)
 *  ⭐️  677   [BlankerL/DXY-2019-nCoV-Crawler](https://github.com/BlankerL/DXY-2019-nCoV-Crawler) ⭐️   393     [BlankerL/DXY-2019-nCoV-Data](https://github.com/BlankerL/DXY-2019-nCoV-Data) [全国新型肺炎疫情实时数据API接口](https://lab.isaaclin.cn/nCoV/)
 * [cuihua/2019_nCov](https://github.com/cuihuan/2019_nCov) [2019-nCov 武汉新型冠状病毒可视化](http://cuihuan.net/wuhan/news.html)
+
 * [肺炎疫情实时动态 · 北美](https://coronavirus.1point3acres.com/?from=timeline&isappinstalled=0) （未开源）
 * [sangyx/nCoV-Map](https://github.com/sangyx/nCoV-Map) [nCoV-Map：新型肺炎疫情地图](http://106.13.58.203:4000/) 包含地级市疫情
 * [Programming-With-Love/2019-nCoV](https://github.com/Programming-With-Love/2019-nCoV) This repo holds the code for crawling the latest news on the pneumonia virus from Clove doctor's website
@@ -25,6 +37,8 @@
 * ⭐️     154         [fluttercandies/ncov_2019](https://github.com/fluttercandies/ncov_2019) 获取新肺炎实时动态App，支持Android和IOS。
 * [GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019) [query stats of infected coronavirus cases](https://mp.weixin.qq.com/s/_0D8ENb-4lGm4UV16Ok28A)
 * [canghailan/Wuhan-2019-nCoV](https://github.com/canghailan/Wuhan-2019-nCoV) 2019-nCoV 新冠状病毒 2019-12-01至今国家、省、市三级每日统计数据（支持接口读取）
+* [green512/2019nCoV](https://github.com/green512/2019nCoV) 2019-nCoV 疫情可视化 [疫情散点图](http://nwatch.top:8085/2019ncov/index.html)、 [疫情时空图](http://nwatch.top:8085/2019ncov/heatmaps.html)
+
 
 ### 救助信息 People in need
 * [个人求助整理](https://shimo.im/docs/vKV3tRCdkYkqykHv/read)
@@ -64,7 +78,8 @@ A collection of all Open Source project for defending Wuhan during 2019-nCoV 支
 * [Internet Archive for 2019 nCov](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)
 * ⭐️   96      [Academic-nCoV/2019-nCoV](https://github.com/Academic-nCoV/2019-nCoV) [关心2019-nCoV疫情，同步国外（学术、正式组织、有影响力的媒体）信息](https://github.com/Academic-nCoV/2019-nCoV/wiki)
 * [WeileiZeng/red-cross](https://github.com/WeileiZeng/red-cross) [湖北/武汉红十字 云监工平台](https://weileizeng.github.io/red-cross/) 官网公示数据收集与可视化
-
+* [武汉市新冠肺炎疫情防控指挥部发放捐赠物资统计](https://caysnuts.github.io/monitor/index.html) 物资发放数据可视化，数据来自武汉红会
+* [2019新冠肺炎-全球报道](https://2019ncptoday.news.blog/) 网站收录、翻译全球范围内对于2019新冠病毒的英文、西语、德语等其他语种的客观报道
 
 <!-- ### 暂未分类 -->
 

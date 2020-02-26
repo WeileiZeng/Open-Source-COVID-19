@@ -1,0 +1,1 @@
+* {% if include.repo-name %} ![](https://img.shields.io/github/stars/{{ include.repo-name }}?color=yellow&label=%E2%AD%90%EF%B8%8F&logoColor=blue&style=plastic) [{{ include.repo-name }}](https://github.com/{{ include.repo-name }}) {% endif %} {{  include.content }}
