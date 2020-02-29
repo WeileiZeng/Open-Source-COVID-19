@@ -1,5 +1,10 @@
 # all projects to be show
 
+- country: World
+  repos:
+  - repo-name: ExpDev07/coronavirus-tracker-api
+    content: An HTTP-based JSON API for tracking the development of the virus.
+
 - country: Iran
   repos:
   - repo_name: par6n/ncov-19
