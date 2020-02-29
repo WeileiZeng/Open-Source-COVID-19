@@ -27,6 +27,7 @@
 * [canghailan/Wuhan-2019-nCoV](https://github.com/canghailan/Wuhan-2019-nCoV) 2019-nCoV 新冠状病毒 2019-12-01至今国家、省、市三级每日统计数据（支持接口读取）
 * [green512/2019nCoV](https://github.com/green512/2019nCoV) 2019-nCoV 疫情可视化 [疫情散点图](http://nwatch.top:8085/2019ncov/index.html)、 [疫情时空图](http://nwatch.top:8085/2019ncov/heatmaps.html)
 * [liu-zoe/wuhancv](https://github.com/liu-zoe/wuhancv) [COVID-19 Outbreak](http://wh2019-ncov.herokuapp.com/) A time lapse of bubble map showing number of confirmed cases of COVID-19 around the globe starting from Jan 22nd. Additionally, a time series plot presents cumulative count of confirmed, recovered, and deaths cases.
+* ⭐️ 23 [ExpDev07/coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) - A HTTP-based JSON API for tracking the development of the virus.
 
 ### 救助信息 People in need
 * [个人求助整理](https://shimo.im/docs/vKV3tRCdkYkqykHv/read)
