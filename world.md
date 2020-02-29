@@ -2,7 +2,7 @@
 title: World
 ---
 As nCoV spread over the world, so as the support from open source community. Here list the projects support different areas all over the world.
-See also [projects for Wuhan](./..)
+See also [projects for Wuhan](.)
 
 
 

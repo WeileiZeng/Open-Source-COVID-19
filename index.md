@@ -1,4 +1,4 @@
-10,000+ people have contributed to the projects in this list, which have received 10,000+ stars. See [projects for the world](./world/)
+10,000+ people have contributed to the projects in this list, which have received 10,000+ stars. See [projects for the world](world)
 
 ### 综合平台 Integrated platform
 * ⭐️  5.2k [wuhan2020/wuhan2020](https://github.com/wuhan2020/wuhan2020) [新型冠状病毒防疫信息收集平台](https://wh.opensource-service.cn/#/) [Hack for Wuhan 黑客马拉松](https://github.com/wuhan2020/Hackathon)
