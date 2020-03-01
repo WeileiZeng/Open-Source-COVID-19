@@ -2,9 +2,16 @@
 
 - country: World
   repos:
+  - repo_name: CSSEGISandData/COVID-19
+    content: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
+    web_name: Visual Dashboard (desktop)
+    web_url: https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+    web2_name: Visual Dashboard (mobile):
+    web2_url: http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
   - repo_name: ExpDev07/coronavirus-tracker-api
     content: An HTTP-based JSON API for tracking the development of the virus.
-
+  - repo_name: AaronWard/covid-19-analysis
+    content: covid-19-analysis
 - country: Iran
   repos:
   - repo_name: par6n/ncov-19
@@ -20,6 +27,11 @@
 
 - country: Japan
   repos:
+  - repo_name: kaz-ogiwara/covid19
+    web_name: Status of new coronavirus infections in Japan
+    web_url: https://toyokeizai.net/sp/visual/tko/covid19/
+    content: 新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。
+    
   - repo_name: swsoyee/2019-ncov-japan
     web_url: https://covid-2019.live/
     web_name: 新型コロナウイルス感染速報
