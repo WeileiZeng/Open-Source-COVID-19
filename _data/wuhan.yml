@@ -113,6 +113,14 @@
   - repo_name: TheWanderingCoel/WuhanPneumoniaBotTelegram
     content: A telegram bot for WuhanPneumonia Status
 
+- group_name: 预测分析 Data analysis
+  repos:
+  - repo_name: wuhan2020/Covid-19-data-science
+    content: 武汉新型冠状病毒防疫-数据科学项目 COVID-19 Open Data
+  - repo_name: YiranJing/Coronavirus-Epidemic-2019-nCov
+    content: Covid-19 estimation and forecast using statistical model; 新型冠状病毒武汉肺炎统计模型预测
+
+  
 - group_name: 技术组件 Techniquel tools
   repos:
   - repo_name: laomocode/yiqin
