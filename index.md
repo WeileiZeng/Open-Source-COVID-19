@@ -12,7 +12,7 @@
 
 ### 推荐网页 Site recommendation
 [武汉开源OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/)
-集结了支援武汉的开源项目，是一个连结各个开源项目的入口。本站持续跟新中。
+集结了支援武汉的开源项目，是一个连结各个开源项目的入口。本站托管于[GitHub](https://github.com/WeileiZeng/OpenSourceWuhan)，持续跟新中。
 * 给本站推荐项目请点这里 [Open issue at GitHub](https://github.com/WeileiZeng/OpenSourceWuhan/issues/new?assignees=&labels=&template=------.md&title=%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90%3A+%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0)
 * 也可评论或者[Contact me](https://weileizeng.com/news/1992/06/29/contact/)
 
