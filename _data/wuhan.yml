@@ -119,8 +119,13 @@
     content: 武汉新型冠状病毒防疫-数据科学项目 COVID-19 Open Data
   - repo_name: YiranJing/Coronavirus-Epidemic-2019-nCov
     content: Covid-19 estimation and forecast using statistical model; 新型冠状病毒武汉肺炎统计模型预测
+  - repo_name: calthaus/ncov-cfr
+    content: R code and documentation to estimate case fatality ratio of COVID-19 from cases outside China
+  - repo_name: leiii/population_flow
+    content: Population flow data for the study of Covid-19
 
-  
+
+
 - group_name: 技术组件 Techniquel tools
   repos:
   - repo_name: laomocode/yiqin
