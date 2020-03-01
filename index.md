@@ -16,10 +16,6 @@
 * 给本站推荐项目请点这里 [Open issue at GitHub](https://github.com/WeileiZeng/OpenSourceWuhan/issues/new?assignees=&labels=&template=------.md&title=%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90%3A+%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0)
 * 也可评论或者[Contact me](https://weileizeng.com/news/1992/06/29/contact/)
 
----
 
-page summary:
-projects: 50, 
-repos: 37,
-stars: 20433,
-forks: 3611,
+{% include page_summary_wuhan.md %}
+

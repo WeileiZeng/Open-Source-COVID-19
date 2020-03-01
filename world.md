@@ -2,7 +2,7 @@
 title: World
 ---
 As nCoV spread over the world, so as the support from open source community. Here list the projects support different areas all over the world.
-See also [projects for Wuhan](index)
+See also [projects for Wuhan, China](index)
 
 
 
@@ -30,11 +30,5 @@ See also [projects for Wuhan](index)
 -->
 
 
----
 
-page summary:
-projects: 5,
-repos: 5,
-stars: 87,
-forks: 12
-
+{% include page_summary_world.md %} 

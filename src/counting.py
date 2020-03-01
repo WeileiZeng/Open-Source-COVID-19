@@ -1,3 +1,4 @@
+#!/Library/Frameworks/Python.framework/Versions/3.8/bin/python3
 # use Github API to get the data of repos, including star_counts
 # do some post processing like statistics of all stars and all forks.
 
@@ -49,7 +50,7 @@ def get_stargazers_count(requests_session,repo_name):
 
 # read  list of repos
 import yaml
-def counting(requests_session, file_name,group_name):
+def counting(requests_session, file_name,group_name,summary_file):
     # prepare output
     statistics={
         'projects_count':0,
@@ -78,12 +79,15 @@ def counting(requests_session, file_name,group_name):
 
     # print output
     print('summary')
-    print(statistics)
+    #print(statistics)
+    with open(summary_file,'w') as f:
+        f.write(jprint(statistics))
     # print('summary:',repos_count,' repos with ',stars_count,' stars in total.')
     
 file_name="../_data/world.yml"
 group_name="country"
 
-counting(requests_session, file_name,group_name)
-counting(requests_session, "../_data/wuhan.yml","group_name")
+#counting(requests_session, file_name,group_name)
+counting(requests_session, "../_data/world.yml","country","../_data/summary_world.json")
+counting(requests_session, "../_data/wuhan.yml","group_name","../_data/summary_wuhan.json")
 
