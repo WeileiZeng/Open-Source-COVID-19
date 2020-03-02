@@ -1,7 +1,12 @@
 # all projects to be show
 
-- country: World
+- country: Global
   repos:
+  - repo_name: theleadio/corona-frontend
+    repo2_name: theleadio/coronatracker
+    web_name: CoronaTracker.com
+    web_url: https://www.coronatracker.com/
+    content: is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public.
   - repo_name: CSSEGISandData/COVID-19
     content: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
     web_name: Visual Dashboard (desktop)
@@ -12,10 +17,17 @@
     content: An HTTP-based JSON API for tracking the development of the virus.
   - repo_name: AaronWard/covid-19-analysis
     content: covid-19-analysis
+  - web_name: Wikipedia - 2019–20 coronavirus outbreak
+    web_url: https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak
+    
+
+
+
 - country: China
   repos:
   - web_name: See full list here
     web_url: index
+
 - country: Iran
   repos:
   - repo_name: par6n/ncov-19
@@ -27,8 +39,14 @@
   repos:
   - repo_name: ricnov/COVID-19-ITALY
     content: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Italy Data Repository by Johns Hopkins CSSE
-
-
+  - repo_name: alessiodl/COVID19Dashboard
+    web_name: COVID19Dashboard
+    web_url: https://alessiodl.github.io/COVID19Dashboard/dist/index.html
+  - repo_name: DavideMagno/ItalianCovidData
+    content: Historical data about Covid19 epidemic in Italy
+  - repo_name: carlotorniai/COVID-19-Italy
+    content: Repository of data related to spread of COVID-19 in Italy.
+    
 - country: Japan
   repos:
   - repo_name: kaz-ogiwara/covid19
@@ -59,3 +77,6 @@
   - web_name: covid-tracker.com
     web_url: https://covid-tracker.com/
     content: tracks the list of cases and cluster hotspots in Singapore
+  - repo_name: xming13/covid-19-sg
+    web_name: Visualisation for Singapore COVID cases
+    web_url: https://xming13.github.io/covid-19-sg/

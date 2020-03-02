@@ -16,9 +16,9 @@ See also [projects for Wuhan, China](index)
 
 
 ### Site recommendation
-[OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/) collects all open source sites that support Wuhan and other places against nCoV/CoVid. It is hosted on [GitHub](https://github.com/WeileiZeng/OpenSourceWuhan). You are welcome to recommend a site through
-* [Open issue at GitHub](https://github.com/WeileiZeng/OpenSourceWuhan/issues/)
-* or [Contact me](https://weileizeng.com/news/1992/06/29/contact/)
+[OpenSourceWuhan](https://weileizeng.github.io/OpenSourceWuhan/) collects all open source sites that support Wuhan and other places against nCoV/CoVid. It is hosted on [GitHub](https://github.com/WeileiZeng/OpenSourceWuhan). You are welcome to recommend a site by
+* [openning issue at GitHub](https://github.com/WeileiZeng/OpenSourceWuhan/issues/)
+* or [contact me](https://weileizeng.com/news/1992/06/29/contact/)
 
 
 <!--
