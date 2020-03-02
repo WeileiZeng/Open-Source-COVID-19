@@ -31,4 +31,6 @@ See also [projects for Wuhan, China](index)
 
 
 
-{% include page_summary_world.md %} 
+{% include page_summary_world.md %}
+
+{% include footer.md %}

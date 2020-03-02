@@ -7,7 +7,9 @@
 * {% if repo.repo_name %} ![](https://img.shields.io/github/stars/{{ repo.repo_name }}?color=yellow&label=%E2%AD%90%EF%B8%8F&logoColor=blue&style=plastic) [{{ repo.repo_name }}](https://github.com/{{ repo.repo_name }}) {% endif %} {% if repo.repo2_name %} ![](https://img.shields.io/github/stars/{{ repo.repo2_name }}?color=yellow&label=%E2%AD%90%EF%B8%8F&logoColor=blue&style=plastic) [{{ repo.repo2_name }}](https://github.com/{{ repo.repo2_name }}) {% endif %} {% if repo.web_name %}[{{ repo.web_name }}]({{ repo.web_url }}){% endif %} {% if repo.web2_name %}[{{ repo.web2_name }}]({{ repo.web2_url }}){% endif %} {{ repo.content }} {% endfor %}
 {% endfor %}
 
-
+### Gitee
+* [dcloud/xinguan2020](https://gitee.com/dcloud/xinguan2020) 抗疫防疫项目大汇总：出入管理、访客登记、健康统计、疫情查询、物资管理、社区代购、消毒登记、同乘查询...
+* [更多项目列表](https://www.dcloud.io/ncp.html)
 
 
 ### 推荐网页 Site recommendation
@@ -19,3 +21,4 @@
 
 {% include page_summary_wuhan.md %}
 
+{% include footer.md %}
