@@ -53,3 +53,9 @@
     - web_name: North America live map 
       web_url: https://coronavirus.1point3acres.com/?from=timeline&isappinstalled=0
       content: 肺炎疫情实时动态 · 北美 (一亩三分地)
+
+- country: Singapore
+  repos:
+  - web_name: covid-tracker.com
+    web_url: https://covid-tracker.com/
+    content: tracks the list of cases and cluster hotspots in Singapore

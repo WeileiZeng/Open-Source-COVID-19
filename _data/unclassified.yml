@@ -1,8 +1,18 @@
-
-- group_name: unclassified
+#not classified yet
+# for example:  not open source, community based, or not directly related to the disease
+- group_name: closed source
+  description: community based, non open source
   repos:
   - web_name: CoronaTracker
     web_url: https://www.coronatracker.com/
     content: CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public.
   - web_name: Wikipedia - 2019–20 coronavirus outbreak
     web_url: https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak
+
+
+- group_name: academic
+  description: academics get affected
+  repos:
+  - web_name: VIRTUAL APS MARCH 2020
+    web_url: https://virtualmarchmeeting.com/
+    content: A free community-driven virtual platform to support speakers at the 2020 APS March Meeting. Supported by Q-ctrl. 
