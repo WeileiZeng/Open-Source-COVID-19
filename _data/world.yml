@@ -32,6 +32,11 @@
   - web_name: See full list here
     web_url: index
 
+- country: Germany
+  repos:
+  - repo_name: iceweasel1/COVID-19-Germany
+    content: All officially confirmed cases of infection in Germany. Listed by federal state, case number, date, county and source.
+
 - country: Iran
   repos:
   - repo_name: par6n/ncov-19
