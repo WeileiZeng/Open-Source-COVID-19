@@ -139,8 +139,12 @@
 - group_name: 新闻舆论 News
   repos:
   - repo_name: 2019ncovmemory/nCovMemory
+    web_name: nCoVMemory
+    web_url: https://2019ncovmemory.github.io/nCovMemory/
     content: 2020新冠肺炎记忆:传媒报道与非虚构写作(持续更新) Memory of 2020 nCov:Media reports and Non-fiction Writings (Continuously updating)
   - repo_name: jiayiliujiayi/2020nCov_individual_archives
+    web_name: 2020 Wuhan Individual Stories
+    web_url: https://2020ncov-individual-archives.netlify.com/
     content: Every individual matters. Every individual has a role to play. 备份普通人在疫情期间的记录。
   - web_name: Mainland News Outlets Coverage on 2019-nCoV
     web_url: https://docs.google.com/document/d/1RqYvfEbLhcyH8rhw0xLpjc2w0JqPBQINzj3ORE-Jka0/edit?usp=sharing
