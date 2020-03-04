@@ -73,7 +73,11 @@
     web_name: COVID-19 Outbreak
     web_url: http://wh2019-ncov.herokuapp.com/
     content: A time lapse of bubble map showing number of confirmed cases of COVID-19 around the globe starting from Jan 22nd. Additionally, a time series plot presents cumulative count of confirmed, recovered, and deaths cases.
-
+  - repo_name: ohdarling/COVID-19-Charts
+    web_name: covid19.tk
+    web_url: https://covid19.tk
+    content: Trending and map charts for COVID-19
+    
 - group_name: 救助信息 People in need
   repos:
   - web_name: 个人求助整理
