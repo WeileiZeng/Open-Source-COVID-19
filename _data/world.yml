@@ -67,8 +67,10 @@
     web_url: https://covid-2019.live/
     web_name: 新型コロナウイルス感染速報
     content: 记录日本新冠肺炎发展情况的看板. A dashboard for situations about CoVid in Japen.
-    
 
+  - repo_name: djsharpnel/CancelledEventsByCOVID19_jp
+    content: Events cancelled or postponed due to COVID-19 infection in Japan
+    
 - country: Korea
   repos:
   - repo_name: soorichu/coronako
