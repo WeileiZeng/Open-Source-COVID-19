@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 10,000+ people have contributed to the projects in this list, which have received 10,000+ stars. See also [projects for the world](world).
 
 
@@ -22,3 +26,4 @@
 {% include page_summary_wuhan.md %}
 
 {% include footer.md %}
+

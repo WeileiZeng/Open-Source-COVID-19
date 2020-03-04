@@ -1,5 +1,6 @@
 ---
 title: World
+comments: true
 ---
 As nCoV/COVID-19 spreads over the world, so as the support from open source community. Here lists the projects supporting different areas all over the world.
 See also [projects for Wuhan, China](index)
