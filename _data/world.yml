@@ -72,6 +72,10 @@
 
 - country: Japan
   repos:
+  - repo_name: tokyo-metropolitan-gov/covid19
+    web_name: Tokyo COVID-19 Task Force website
+    web_url: https://stopcovid19.metro.tokyo.lg.jp/
+    content: 東京都 新型コロナウイルス感染症対策サイト
   - repo_name: kaz-ogiwara/covid19
     web_name: Status of new coronavirus infections in Japan
     web_url: https://toyokeizai.net/sp/visual/tko/covid19/
