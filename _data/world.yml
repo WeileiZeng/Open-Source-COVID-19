@@ -60,6 +60,10 @@
   
 - country: Italy
   repos:
+  - repo_name: pcm-dpc/COVID-19
+    web_name: Dipartimento della Protezione Civile (Italy Dashboard)
+    web_url: http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1
+    content: Dati COVID-19 Italia. Official data and dashboard maintained by Italian goverment
   - repo_name: ricnov/COVID-19-ITALY
     content: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Italy Data Repository by Johns Hopkins CSSE
   - repo_name: alessiodl/COVID19Dashboard
@@ -72,10 +76,7 @@
     content: Repository of data related to spread of COVID-19 in Italy.
   - repo_name: ondata/covid19italia
     content: COVID data in Italy (csv files and json API)
-  - repo_name: pcm-dpc/COVID-19
-    web_name: Dipartimento della Protezione Civile (Italy Dashboard)
-    web_url: http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1
-    content: Dati COVID-19 Italia
+  
 
 - country: Japan
   repos:
