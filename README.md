@@ -21,6 +21,9 @@ We also add a navigation page for projects focusing on countries or areas all ov
 * You can also edit [wuhan.yml or world.yml](_data/) and send a pull request
 * or [Contact me](https://weileizeng.com/news/1992/06/29/contact/)
 
+### Note
+The original repo OpenSourceWuhan is renamed on March 7 2020. The original website still works (by redirecting to the new one).
+
 ### acknowledgement
 * [github api](https://developer.github.com/v3/search/#search-users)
 
