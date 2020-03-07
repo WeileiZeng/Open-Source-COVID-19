@@ -72,6 +72,10 @@
     content: Repository of data related to spread of COVID-19 in Italy.
   - repo_name: ondata/covid19italia
     content: COVID data in Italy (csv files and json API)
+  - repo_name: pcm-dpc/COVID-19
+    web_name: Dipartimento della Protezione Civile (Italy Dashboard)
+    web_url: http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1
+    content: Dati COVID-19 Italia
 
 - country: Japan
   repos:
@@ -109,7 +113,7 @@
   repos:
     - web_name: North America live map 
       web_url: https://coronavirus.1point3acres.com/en
-      content: 肺炎疫情实时动态 · 北美 (一亩三分地)
+      content: Coronavirus in US and Canada, Real Time Updates 肺炎疫情实时动态 · 北美 (一亩三分地)
 
 - country: Singapore
   repos:
@@ -129,6 +133,8 @@
   - repo_name: virtualscienceforum/virtualscienceforum
     web_name: Organization for hosting of online conferences
     web_url: https://virtualscienceforum.org
+  - web_name: Academic Conferences Cancelled due to Coronavirus Caution
+    web_url: https://docs.google.com/spreadsheets/d/1O3wnaFYSZCgY3Ih4yDw3EIH2SC_-vjhyHwrCQSy0J7M/htmlview?fbclid=IwAR3Z5VxuKicyB5h0dAIRhU5TtZq78dzFBZ45f8G7fI1sBhWEyFIj5rGibME#
   - repo_name: phildini/stayinghomeclub
     web_name: stayinghomeclub
     web_url: https://stayinghome.club/
