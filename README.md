@@ -27,5 +27,5 @@ We also add a navigation page for projects focusing on countries or areas all ov
 
 
 ### screenshots
-![](screenshot1.png)
-![](screenshot2.png)
+![](https://github.com/WeileiZeng/OpenSourceWuhan/raw/master/screenshot1.png)
+![](https://github.com/WeileiZeng/OpenSourceWuhan/raw/master/screenshot2.png)
