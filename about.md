@@ -1,5 +1,5 @@
 ### About us
-OpenSourceWuhan collects open source projects that aim to support Wuhan and other places against COVID-19. The projects are not necessarily hosted on GitHub, as long as it coroprate in an open source way, that everyone can access, inspect and improve it.
+Open Source COVID collects open source projects that aim to support Wuhan and other places against COVID-19. The projects are not necessarily hosted on GitHub, as long as it coroprate in an open source way, that everyone can access, inspect and improve it.
 <br>
 The goal of this navigation site is to help people access data, contribute to the projects, or trigger new ideas.
 
@@ -21,3 +21,8 @@ The term [open source](https://opensource.com/article/18/2/coining-term-open-sou
 Open source software is software with source code that anyone can inspect, modify, and enhance.
 Some software has source code that only the person, team, or organization who created it—and maintains exclusive control over it—can modify. People call this kind of software "proprietary" or "closed source" software.
 
+### FAQ
+- I cannot share this website?
+  - Some platform like facebook or wechat may block the domain github.io. I created another link to avoid such problem. Visit [https://cli.im/ARTwYZ](https://cli.im/ARTwYZ) and share.
+- Can I submit my own project?
+  - Self-submission are welcome.
