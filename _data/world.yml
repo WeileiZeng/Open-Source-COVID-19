@@ -31,7 +31,12 @@
   - repo_name: Bost/corona_cases
     web_url: https://t.me/corona_cases_bot
     web_name: Coronavirus disease 2019 (COVID-19) information on Telegram Messenger
-
+  - repo_name: nextstrain/ncov
+    web_url: nextstrain.org/ncov
+    web_name: ncov
+    content:  This is a Nextstrain build for novel coronavirus (nCoV)
+  - repo_name: MhdHejazi/Corona
+    content: Coronavirus tracker app for iOS with maps & charts.
 
 - country: China
   repos:
@@ -57,6 +62,10 @@
   
 - country: Italy
   repos:
+  - repo_name: pcm-dpc/COVID-19
+    web_name: Dipartimento della Protezione Civile (Italy Dashboard)
+    web_url: http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1
+    content: Dati COVID-19 Italia. Official data and dashboard maintained by Italian goverment
   - repo_name: ricnov/COVID-19-ITALY
     content: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Italy Data Repository by Johns Hopkins CSSE
   - repo_name: alessiodl/COVID19Dashboard
@@ -69,9 +78,18 @@
     content: Repository of data related to spread of COVID-19 in Italy.
   - repo_name: ondata/covid19italia
     content: COVID data in Italy (csv files and json API)
+  - repo_name: sasso0101/coronavirus
+    web_name: Coronaviruslive italia
+    web_url: https://coronaviruslive.it/
+    content: A dashboard of the active cases, death and recovered cases in Italy. The site includes also historical data and is constantly updated.
+  
 
 - country: Japan
   repos:
+  - repo_name: tokyo-metropolitan-gov/covid19
+    web_name: Tokyo COVID-19 Task Force website
+    web_url: https://stopcovid19.metro.tokyo.lg.jp/
+    content: 東京都 新型コロナウイルス感染症対策サイト
   - repo_name: kaz-ogiwara/covid19
     web_name: Status of new coronavirus infections in Japan
     web_url: https://toyokeizai.net/sp/visual/tko/covid19/
@@ -102,7 +120,7 @@
   repos:
     - web_name: North America live map 
       web_url: https://coronavirus.1point3acres.com/en
-      content: 肺炎疫情实时动态 · 北美 (一亩三分地)
+      content: Coronavirus in US and Canada, Real Time Updates 肺炎疫情实时动态 · 北美 (一亩三分地)
 
 - country: Singapore
   repos:
@@ -122,3 +140,9 @@
   - repo_name: virtualscienceforum/virtualscienceforum
     web_name: Organization for hosting of online conferences
     web_url: https://virtualscienceforum.org
+  - web_name: Academic Conferences Cancelled due to Coronavirus Caution
+    web_url: https://docs.google.com/spreadsheets/d/1O3wnaFYSZCgY3Ih4yDw3EIH2SC_-vjhyHwrCQSy0J7M/htmlview?fbclid=IwAR3Z5VxuKicyB5h0dAIRhU5TtZq78dzFBZ45f8G7fI1sBhWEyFIj5rGibME#
+  - repo_name: phildini/stayinghomeclub
+    web_name: stayinghomeclub
+    web_url: https://stayinghome.club/
+    content: A list of all the companies WFH or events changed because of covid-19

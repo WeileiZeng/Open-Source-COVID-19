@@ -35,10 +35,6 @@
     web_url: https://lispczz.github.io/pneumonia/
   - repo_name: globalcitizen/2019-wuhan-coronavirus-data
     content: This public repository archives data over time from various public sources on the web.
-  - repo_name: nextstrain/ncov
-    web_url: nextstrain.org/ncov
-    web_name: ncov
-    content:  This is a Nextstrain build for novel coronavirus (nCoV)
   - repo_name: veaba/ncov
     web_name: 2020-nCov感染可视化(科学上网)
     web_url: http://2020-ncov.datav.ai/
@@ -96,9 +92,9 @@
   - repo_name: wertycn/nCoV
     web_name: 2019-nCoV 武汉新冠状病毒肺炎疫情信息导航
     web_url: http://nav.werty.cn/
-  - repo_name: WeileiZeng/OpenSourceWuhan
-    web_name: 武汉开源OpenSourceWuhan
-    web_url: https://weileizeng.github.io/OpenSourceWuhan/
+  - repo_name: WeileiZeng/Open-Source-COVID-19
+    web_name: Open Source COVID-19  武汉开源
+    web_url: https://weileizeng.github.io/Open-Source-COVID-19/
     content: A collection of all Open Source project for defending Wuhan/world during COVID-19 支援武汉开源项目汇总
   - repo_name: byrwiki/jiayou
     web_name: 为2020新型肺炎疫情所做专题信息整合站点
@@ -112,6 +108,8 @@
     web_url: https://www.bilibili.com/video/av86478875
   - repo_name: TheWanderingCoel/WuhanPneumoniaBotTelegram
     content: A telegram bot for WuhanPneumonia Status
+  - repo_name: zhou-xiaojun/jd_mask
+    content: 支持京东预约-抢购-成功后直接提交订单的商品.[口罩]
 
 - group_name: 预测分析 Data analysis
   repos:
