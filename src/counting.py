@@ -2,6 +2,7 @@
 # use Github API to get the data of repos, including star_counts
 # do some post processing like statistics of all stars and all forks.
 
+print("this script calculate the summary of wuhan page and world page. The summary has been saved in _data/*.yml, and will be loaded automatically. You can run this once a while after adding site regularly.")
 
 # save api requests to files
 def save(api_content,repo_name):
