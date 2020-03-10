@@ -37,6 +37,9 @@
     content:  This is a Nextstrain build for novel coronavirus (nCoV)
   - repo_name: MhdHejazi/Corona
     content: Coronavirus tracker app for iOS with maps & charts.
+  - repo_name: arik-so/coronavirus
+    web_url: https://coronavirus.arik.io
+    web_name: global cases visualizer
 
 - country: China
   repos:
@@ -83,7 +86,8 @@
     web_url: https://coronaviruslive.it/
     content: A dashboard of the active cases, death and recovered cases in Italy. The site includes also historical data and is constantly updated.
   - repo_name: doppioandante/covid_andamento_regionale
-    content: Dashboard for regional breakdown of coronavirus trend in Italy.
+    content: for regional breakdown of coronavirus trend in Italy.
+    web_name: Dashboard
     web_url: https://enrico.acqua.team/covid-19/
   
 
