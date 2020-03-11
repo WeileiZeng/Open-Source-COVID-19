@@ -10,6 +10,7 @@ This navigation site collects many open source projects during COVID-19. 10000+ 
 We also add a navigation page for projects focusing on countries or areas all over the world.
 
 * 导航网站website: https://weileizeng.github.io/Open-Source-COVID-19/
+* world page: https://weileizeng.github.io/Open-Source-COVID-19/world 
 * github repo: https://github.com/WeileiZeng/Open-Source-COVID-19
 
 ### Page summary
