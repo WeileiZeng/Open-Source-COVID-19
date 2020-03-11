@@ -26,7 +26,7 @@ The original repo OpenSourceWuhan is renamed on March 7 2020. The original websi
 
 ### acknowledgement
 * [github api](https://developer.github.com/v3/search/#search-users)
-
+* [shields.io](https://shields.io/category/social)
 
 
 ### screenshots
