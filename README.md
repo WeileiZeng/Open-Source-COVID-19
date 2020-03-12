@@ -10,11 +10,11 @@ This navigation site collects many open source projects during COVID-19. 10000+ 
 We also add a navigation page for projects focusing on countries or areas all over the world.
 
 * 导航网站website: https://weileizeng.github.io/Open-Source-COVID-19/
-* world page: https://weileizeng.github.io/Open-Source-COVID-19/world 
+* 中国相关项目页面china page: https://weileizeng.github.io/Open-Source-COVID-19/china （原开源武汉页面）
 * github repo: https://github.com/WeileiZeng/Open-Source-COVID-19
 
 ### Page summary
-* wuhan page summary: 54 projects, 42 repos, 21214 stars, 3806 forks
+* china page summary: 54 projects, 42 repos, 21214 stars, 3806 forks
 * world page summary: 20 projects, 16 repos, 3603 stars, 1037 forks
 
 ### 推荐网页 to recommend a site

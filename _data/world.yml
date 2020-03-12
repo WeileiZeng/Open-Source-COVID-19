@@ -44,6 +44,12 @@
     content: A Jupyter notebook with basic COVID-19 outbreak modeling. 
   - repo_name: worldimprovementlab/coronavirus-cheatsheet
     content: A science-based cheatsheet of information and links about the COVID-19 outbreak.
+  - repo_name: coronafighter/coronaSEIR
+    web_name: COVID-19 Python SEIR model and data plot
+    web_url: https://github.com/coronafighter/coronaSEIR
+    content: Simple SEIR model Python script for the COVID-19 pandemic with real world data comparison.
+
+
 
 - country: China
   repos:
