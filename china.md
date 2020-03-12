@@ -6,7 +6,7 @@ comments: true
 10,000+ people have contributed to the projects in this list, which have received 10,000+ stars. See also [projects for the world](index).
 
 
-{% for group in site.data.wuhan %}
+{% for group in site.data.china %}
 ### {{ group.group_name }}
 {% for repo in group.repos %}
 * {% if repo.repo_name %} ![](https://img.shields.io/github/stars/{{ repo.repo_name }}?color=yellow&label=%E2%AD%90%EF%B8%8F&logoColor=blue&style=plastic) [{{ repo.repo_name }}](https://github.com/{{ repo.repo_name }}) {% endif %} {% if repo.repo2_name %} ![](https://img.shields.io/github/stars/{{ repo.repo2_name }}?color=yellow&label=%E2%AD%90%EF%B8%8F&logoColor=blue&style=plastic) [{{ repo.repo2_name }}](https://github.com/{{ repo.repo2_name }}) {% endif %} {% if repo.web_name %}[{{ repo.web_name }}]({{ repo.web_url }}){% endif %} {% if repo.web2_name %}[{{ repo.web2_name }}]({{ repo.web2_url }}){% endif %} {{ repo.content }} {% endfor %}
@@ -24,7 +24,7 @@ comments: true
 * 也可评论或者[Contact me](https://weileizeng.com/news/1992/06/29/contact/)
 
 
-{% include page_summary_wuhan.md %}
+{% include page_summary_china.md %}
 
 {% include footer.md %}
 

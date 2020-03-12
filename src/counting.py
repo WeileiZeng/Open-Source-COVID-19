@@ -90,6 +90,6 @@ group_name="country"
 
 #counting(requests_session, file_name,group_name)
 counting(requests_session, "../_data/world.yml","country","../_data/summary_world.json")
-counting(requests_session, "../_data/wuhan.yml","group_name","../_data/summary_wuhan.json")
+counting(requests_session, "../_data/china.yml","group_name","../_data/summary_china.json")
 
 print("this script calculate the summary of wuhan page and world page. The summary has been saved in _data/*.yml, and will be loaded automatically. You can run this once a while after adding site regularly.")
