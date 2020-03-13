@@ -48,7 +48,12 @@
     web_name: COVID-19 Python SEIR model and data plot
     web_url: https://github.com/coronafighter/coronaSEIR
     content: Simple SEIR model Python script for the COVID-19 pandemic with real world data comparison.
-
+  - repo_name: JohnCoene/coronavirus
+    web_name: Novel Coronavirus (COVID-19) Tracker
+    web_url: https://coronavirus.john-coene.com/
+    content: with API
+  - repo_name: midas-network/COVID-19
+    content: MIDAS 2019 Novel Coronavirus Repository
 
 
 - group_name: China
@@ -73,6 +78,11 @@
   repos:
   - repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
     content: This is tracker and help information android application for the new coronavirus (2019-nCoV).
+  - repo_name: divy-work/covid19-pune
+    web_name: Corona Virus Situation in Pune City, India.
+    web_url: https://divy-work.github.io/covid19-pune/
+    tags:
+    - tracker
   
 - group_name: Italy
   repos:
@@ -152,6 +162,22 @@
   - repo_name: xming13/covid-19-sg
     web_name: Visualisation for Singapore COVID cases
     web_url: https://xming13.github.io/covid-19-sg/
+
+- grop_name: UK
+  description: England
+  repos:
+  - repo_name: isjeffcom/coronvirusFigureUK
+    content: A data crawler for geting COVID-19 figure from NHS official website
+    tags:
+    - API
+  - repo_name: xshaun/covid-19-uk
+    web_name: Confirmed cases of coronavirus in UK
+    web_url: https://xshaun.github.io/covid-19-uk/
+    tags: 
+    - visualization
+  - repo_name: emmadoughty/Daily_COVID-19
+    content: Visualisation of official UK COVID-19 data
+  
 
 - group_name: Others, Life and Academic
   repos:
