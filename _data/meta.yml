@@ -1,14 +1,24 @@
-#this one define the format
+#this one define the format. Each item in the [repos] array is a project. A project may have 0-2 repo, and 0-2 website.
 - group_name: group_name
   repos:
   - repo_name: owner/name
     repo2_name: owner/name
     web_name: website name
     web_url: https://www.example.com/
+    web2_name:
+    web2_url:
     content: this is a description of the projects, or anything else you want to add in the end
     tags:
+    # though single tag is much cleaner for organization, it may be hard to classify all projects. At this point, multiple tags are allowed for each project
     - visualization
     - data
+    # collected data avaliable for further analysis, visualization, or research
     - API
     - map
+    - analysis
+    # predictions, timeline review
+    - apps
+    # applications on andorid or iphones
+    - communication
+    - community
     
