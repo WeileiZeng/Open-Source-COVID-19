@@ -1,0 +1,14 @@
+#this one define the format
+- group_name: group_name
+  repos:
+  - repo_name: owner/name
+    repo2_name: owner/name
+    web_name: website name
+    web_url: https://www.example.com/
+    content: this is a description of the projects, or anything else you want to add in the end
+    tags:
+    - visualization
+    - data
+    - API
+    - map
+    
