@@ -10,15 +10,22 @@
     content: this is a description of the projects, or anything else you want to add in the end
     tags:
     # though single tag is much cleaner for organization, it may be hard to classify all projects. At this point, multiple tags are allowed for each project
-    - visualization
-    - data
-    # collected data avaliable for further analysis, visualization, or research
-    - API
+    - dashboard
+    # track current cases, may also include visualization and maps
     - map
+    # similar to dashboard, but some may only have a map
+    - visualization
+    # similar to dashboard, but some may only have visualization of data
+    - data
+    # collected data (json, yaml, csv, etc) avaliable for further analysis, visualization, or research
+    - API
+    # data avaliable by curl or wget
     - analysis
     # predictions, timeline review
     - apps
     # applications on andorid or iphones
     - communication
     - community
+    - academic
+    # related to academic and education
     
