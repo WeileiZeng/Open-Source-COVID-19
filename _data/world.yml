@@ -66,6 +66,17 @@
     web_url: china
     content: The list was booming since late January and now covers many aspects of needs.
 
+- group_name: France
+  repos:
+  - repo_name: opencovid19-fr/dashboard
+    repo2_name: opencovid19-fr/data
+    web_name: France COVID-19 Dashboard
+    web_url: https://veille-coronavirus.fr
+    content: French project that aims to consolidate official informations, and making it available in open and easily reusable formats. The project also provides a dashboard.
+    tags:
+    - data
+    - dashboard
+
 - group_name: Germany
   repos:
   - repo_name: iceweasel1/COVID-19-Germany
