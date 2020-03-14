@@ -7,4 +7,4 @@ echo if "ERROR /sw.js not found." happens, it is probabalty due to googale analy
 # @Weileis-Air.attlocal.net.23492
 # save some modify files. then it will fix by removing #files
 
-bundle exec jekyll serve
+bundle exec jekyll serve --verbose
