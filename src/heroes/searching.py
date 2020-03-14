@@ -93,6 +93,8 @@ group_name="country"
 
 keyword="COVID"
 keyword="nCoV"
+keyword="covid19" # a lot of repos start with that name
+
 response=requests_session.get("https://api.github.com/search/repositories?q="+keyword+"&sort=stars&order=desc")
 
 with open("github_search_"+keyword+".json","w") as f:
