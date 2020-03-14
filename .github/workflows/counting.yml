@@ -1,0 +1,34 @@
+name: Push new content to the web
+
+on:
+  [push]
+  schedule:
+  - '0 8 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Regenerating content. The commit would fail if nothing changes
+      run: |
+        echo this is a simple workflow which will run automatically upon each push.
+        cd src
+        pip3 install --upgrade setuptools
+        pip3 install -r requirement.txt
+        python3 counting.py
+        #echo -n new push at >> github-action.log
+        #date >> github-action.log
+
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Add changes by Action" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
