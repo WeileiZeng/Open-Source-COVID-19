@@ -19,14 +19,14 @@ jobs:
         pip3 install --upgrade setuptools
         pip3 install -r requirement.txt
         python3 counting.py
-        #echo -n new push at >> github-action.log
-        #date >> github-action.log
+
 
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Counting summary once a day" -a
+        git add -A
+        git commit -m "Counting summary once a day"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
