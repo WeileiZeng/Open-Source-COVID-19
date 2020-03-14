@@ -31,5 +31,5 @@ The original repo OpenSourceWuhan is renamed on March 7 2020. The original websi
 
 
 ### screenshots
-![](https://github.com/WeileiZeng/Open-Source-COVID-19/raw/master/screenshot1.png)
-![](https://github.com/WeileiZeng/Open-Source-COVID-19/raw/master/screenshot2.png)
+![](https://github.com/WeileiZeng/Open-Source-COVID-19/raw/master/assets/screenshot1.png)
+![](https://github.com/WeileiZeng/Open-Source-COVID-19/raw/master/assets/screenshot2.png)
