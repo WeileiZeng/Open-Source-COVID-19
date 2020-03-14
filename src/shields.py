@@ -39,7 +39,7 @@ def download_image(repo_name):
 
 # read  list of repos
 import yaml
-def counting(requests_session, file_name,group_name,summary_file):
+def counting(pool, requests_session, file_name,group_name,summary_file):
     # prepare output
     statistics={
         'projects_count':0,
@@ -51,6 +51,7 @@ def counting(requests_session, file_name,group_name,summary_file):
     stream = open(file_name,'r')
     # data is a json object
     data=yaml.full_load(stream)
+    shields_repo_name=[]
     stream.close()
     for country in data:
         print( '   --- processing the current group/country: ', country[group_name] )
@@ -58,22 +59,28 @@ def counting(requests_session, file_name,group_name,summary_file):
             statistics['projects_count'] +=1
             try: 
                 repo_name=repo['repo_name']
-                download_image(repo_name)
+                #download_image(repo_name)
+                shields_repo_name.append(repo_name)
             except KeyError:
                 print('no repo for this project')
             #some may have two repo
             try: 
                 repo_name=repo['repo2_name']
-                download_image(repo_name)
+                #download_image(repo_name)
+                shields_repo_name.append(repo_name)
                 print('got repo2: '+repo_name)
             except KeyError:
                 #print('no repo2')
                 pass
-
+    pool.map(download_image,shields_repo_name)
     
 
 #counting(requests_session, file_name,group_name)
 
-counting(requests_session, "../_data/world.yml","group_name","../_data/summary_world.json")
-counting(requests_session, "../_data/china.yml","group_name","../_data/summary_china.json")
+from multiprocessing import Pool
+if __name__ == "__main__":
+    pool=Pool(10)
+    #much faster with pool
+    counting(pool,requests_session, "../_data/world.yml","group_name","../_data/summary_world.json")
+    counting(pool,requests_session, "../_data/china.yml","group_name","../_data/summary_china.json")
 
