@@ -58,10 +58,111 @@
     web_name: Coronavirus infections (COVID-19)
     web_url: https://coronavirusinfections.org/
     content: Health information on coronavirus infections with detailed statistics from around the world. Data can be exported in 7 different formats.
+
+
+
+- group_name: Global (Life and Academic)
+  repos:
+  - web_name: VIRTUAL APS MARCH 2020
+    web_url: https://virtualmarchmeeting.com/
+    content: A free community-driven virtual platform to support speakers at the 2020 APS March Meeting. Supported by Q-ctrl.
+  - repo_name: virtualscienceforum/virtualscienceforum
+    web_name: Organization for hosting of online conferences
+    web_url: https://virtualscienceforum.org
+  - repo_name: goinvo/COVID19
+    web_name: UNDERSTANDING THE NOVEL CORONAVIRUS COVID-19
+    web_url: https://understandingcoronavirus.org
+    web2_name: mirror site
+    web2_url: https://www.goinvo.com/vision/coronavirus/
+
+
+- group_name: Crowdsourcing lists
+  repos:
+  - web_name: Coronavirus Tech Handbook
+    web_url: https://coronavirustechhandbook.com/
   - repo_name: soroushchehresa/awesome-coronavirus
     content: Useful projects and resources for COVID-19 (2019 novel Coronavirus)
     tags:
     - crowdsourced-list
+  - repo_name: WeileiZeng/Cancelled-Academic-Conferences
+    web_name: Academic Conferences Cancelled due to Coronavirus Caution
+    web_url: https://weileizeng.github.io/Cancelled-Academic-Conferences/
+    web2_name: google sheet
+    web2_url: https://docs.google.com/spreadsheets/d/1O3wnaFYSZCgY3Ih4yDw3EIH2SC_-vjhyHwrCQSy0J7M/htmlview?fbclid=IwAR3Z5VxuKicyB5h0dAIRhU5TtZq78dzFBZ45f8G7fI1sBhWEyFIj5rGibME#
+  - repo_name: phildini/stayinghomeclub
+    web_name: stayinghomeclub
+    web_url: https://stayinghome.club/
+    content: A list of all the companies WFH or events changed because of covid-19
+  - web_name: Global University Policy Tracker (crowdsourced)
+    web_url: "https://docs.google.com/spreadsheets/d/1BsS1-2RQvgONdUviUJq1TbSqMmoBhbXPiwTIr__pRns/edit"
+    tags:
+    - education
+  - web_name: Institutional responses (form-based)
+    web_url:  https://docs.google.com/spreadsheets/d/1ocFaNisYzYF7Tc8eHi9wbw_WHyAan29KjcnHtvHiQZE/edit?usp=sharing
+    tags:
+    - education
+  - web_name: Teaching continuity ideas
+    web_url:  https://bit.ly/rtresourcelist
+    tags:
+    - education
+  - web_name: Colleges & universities closed for COVID-19
+    web_url: https://docs.google.com/spreadsheets/u/1/d/19wJZekxpewDQmApULkvZRBpBwcnd5gZlZF2SEU2WQD8/htmlview?usp=sharing&sle=true
+    tags:
+    - education
+  - web_name: Survey for acadmemic libraries and their responses
+    web_url: https://surveys.ithaka.org/jfe/form/SV_8qN8F2274hMBBBz
+    web2_name: Report from submitted libs
+    web2_url: https://ql.tc/JfxeYV
+    tags:
+    - education
+  - web_name: What libraries are planning
+    web_url: https://docs.google.com/document/d/1OrkubjJLzidMBT9atz5GJmJQoF4aWPEuPEpjdL84Cgc/edit?pli=1
+    tags:
+    - education
+  - web_name: Information literacy assignment & coronavirus bibliography
+    web_url: https://docs.google.com/document/d/1NlyNozAKQJIPoYpGjh2kgwfrKhtPn6Rm5vMdPm5dPxw/edit
+    tags:
+    - education
+  - web_name: Teaching in the context of COVID-19
+    web_url: https://docs.google.com/document/d/1yBE1cCqJ_4M-JZ62K4CefmYsZugqAWkGmZmdwESt0IM/edit#
+    tags:
+    - education
+  - web_name: Curated list of Coronavirus (COVID-19) Resources [for higher ed]
+    web_url: http://bit.ly/UPCEA_COVID19
+    content: by University Professional Continuing Education Association (UPCEA)
+    tags:
+    - education
+  - web_name: (Library) Collection Access for Displaced Music Students
+    web_url:  https://docs.google.com/spreadsheets/d/1Ad9lHGdqWchGpTnfR5lqyGJMiNvqkB6asBXlAMcD0YM/edit#gid=0
+    tags:
+    - education
+  - web_name: Remote Academia Reading List
+    web_url: https://docs.google.com/document/d/1Ke3r6dAJwGnHQC229X5V7fDRx8fBuvPaEOFy4MeUr3Q/edit
+    tags:
+    - education
+  - web_name: COVIDLibrary resources
+    web_url: https://docs.google.com/spreadsheets/d/1yIRuEnPwTo9UPkx8VTQE1X0gYOepd89uTD8AVZd_s_s/edit#gid=0
+    tags:
+    - education
+  - web_name: Teaching Theatre Online, A Shift in Pedagogy Amidst Coronavirus Outbreak (helpful for any discipline)
+    web_url: https://docs.google.com/document/u/1/d/1i-keJ_frOOEUa50CLAdz86hq5CxQwBQ2T4hbSI2nYdM/mobilebasic?fbclid=IwAR3GOOaCVt6MkgrF_2YvU4vTtXhze742cAZh4cVjvu0j_dq4jyuoqszxnxM
+    tags:
+    - education
+  - web_name: Canadian Academic Libraries' Responses to COVID-19 Pandemic (PUBLIC)
+    web_url: https://t.co/G4U70IJqcV
+    tags:
+    - education
+  - web_name: School at Home Activity Ideas
+    web_url: https://t.co/XZmxkiDbIt
+    tags:
+    - education
+  - web_name: Archivists At Home
+    content: Accessibility & Disability Section (Society of American Archivists
+    web_url: https://docs.google.com/document/d/16ubmmTtJ7oCjbUFI_75fqG9J62pul9dg_RCd4au4tMw/edit?fbclid=IwAR3kydub18T2mC9Hvo4RAfm-K-_clnLpkN1wTsK_KrNIIfwydSGKC4pTji0#heading=h.mbs65hitovr4
+    tags:
+    - education
+
+
 
 - group_name: China
   repos:
@@ -196,90 +297,3 @@
   - repo_name: emmadoughty/Daily_COVID-19
     content: Visualisation of official UK COVID-19 data
   
-
-- group_name: Others, Life and Academic
-  repos:
-  - web_name: VIRTUAL APS MARCH 2020
-    web_url: https://virtualmarchmeeting.com/
-    content: A free community-driven virtual platform to support speakers at the 2020 APS March Meeting. Supported by Q-ctrl.
-  - repo_name: virtualscienceforum/virtualscienceforum
-    web_name: Organization for hosting of online conferences
-    web_url: https://virtualscienceforum.org
-  - repo_name: WeileiZeng/Cancelled-Academic-Conferences
-    web_name: Academic Conferences Cancelled due to Coronavirus Caution
-    web_url: https://weileizeng.github.io/Cancelled-Academic-Conferences/
-    web2_name: google sheet
-    web2_url: https://docs.google.com/spreadsheets/d/1O3wnaFYSZCgY3Ih4yDw3EIH2SC_-vjhyHwrCQSy0J7M/htmlview?fbclid=IwAR3Z5VxuKicyB5h0dAIRhU5TtZq78dzFBZ45f8G7fI1sBhWEyFIj5rGibME#
-  - repo_name: phildini/stayinghomeclub
-    web_name: stayinghomeclub
-    web_url: https://stayinghome.club/
-    content: A list of all the companies WFH or events changed because of covid-19
-  - web_name: Global University Policy Tracker (crowdsourced)
-    web_url: "https://docs.google.com/spreadsheets/d/1BsS1-2RQvgONdUviUJq1TbSqMmoBhbXPiwTIr__pRns/edit"
-    tags:
-    - education
-  - web_name: Institutional responses (form-based)
-    web_url:  https://docs.google.com/spreadsheets/d/1ocFaNisYzYF7Tc8eHi9wbw_WHyAan29KjcnHtvHiQZE/edit?usp=sharing
-    tags:
-    - education
-  - web_name: Teaching continuity ideas
-    web_url:  https://bit.ly/rtresourcelist
-    tags:
-    - education
-  - web_name: Colleges & universities closed for COVID-19
-    web_url: https://docs.google.com/spreadsheets/u/1/d/19wJZekxpewDQmApULkvZRBpBwcnd5gZlZF2SEU2WQD8/htmlview?usp=sharing&sle=true
-    tags:
-    - education
-  - web_name: Survey for acadmemic libraries and their responses
-    web_url: https://surveys.ithaka.org/jfe/form/SV_8qN8F2274hMBBBz
-    web2_name: Report from submitted libs
-    web2_url: https://ql.tc/JfxeYV
-    tags:
-    - education
-  - web_name: What libraries are planning
-    web_url: https://docs.google.com/document/d/1OrkubjJLzidMBT9atz5GJmJQoF4aWPEuPEpjdL84Cgc/edit?pli=1
-    tags:
-    - education
-  - web_name: Information literacy assignment & coronavirus bibliography
-    web_url: https://docs.google.com/document/d/1NlyNozAKQJIPoYpGjh2kgwfrKhtPn6Rm5vMdPm5dPxw/edit
-    tags:
-    - education
-  - web_name: Teaching in the context of COVID-19
-    web_url: https://docs.google.com/document/d/1yBE1cCqJ_4M-JZ62K4CefmYsZugqAWkGmZmdwESt0IM/edit#
-    tags:
-    - education
-  - web_name: Curated list of Coronavirus (COVID-19) Resources [for higher ed]
-    web_url: http://bit.ly/UPCEA_COVID19
-    content: by University Professional Continuing Education Association (UPCEA)
-    tags:
-    - education
-  - web_name: (Library) Collection Access for Displaced Music Students
-    web_url:  https://docs.google.com/spreadsheets/d/1Ad9lHGdqWchGpTnfR5lqyGJMiNvqkB6asBXlAMcD0YM/edit#gid=0
-    tags:
-    - education
-  - web_name: Remote Academia Reading List
-    web_url: https://docs.google.com/document/d/1Ke3r6dAJwGnHQC229X5V7fDRx8fBuvPaEOFy4MeUr3Q/edit
-    tags:
-    - education
-  - web_name: COVIDLibrary resources
-    web_url: https://docs.google.com/spreadsheets/d/1yIRuEnPwTo9UPkx8VTQE1X0gYOepd89uTD8AVZd_s_s/edit#gid=0
-    tags:
-    - education
-  - web_name: Teaching Theatre Online, A Shift in Pedagogy Amidst Coronavirus Outbreak (helpful for any discipline)
-    web_url: https://docs.google.com/document/u/1/d/1i-keJ_frOOEUa50CLAdz86hq5CxQwBQ2T4hbSI2nYdM/mobilebasic?fbclid=IwAR3GOOaCVt6MkgrF_2YvU4vTtXhze742cAZh4cVjvu0j_dq4jyuoqszxnxM
-    tags:
-    - education
-  - web_name: Canadian Academic Libraries' Responses to COVID-19 Pandemic (PUBLIC)
-    web_url: https://t.co/G4U70IJqcV
-    tags:
-    - education
-  - web_name: School at Home Activity Ideas
-    web_url: https://t.co/XZmxkiDbIt
-    tags:
-    - education
-  - web_name: Archivists At Home
-    content: Accessibility & Disability Section (Society of American Archivists
-    web_url: https://docs.google.com/document/d/16ubmmTtJ7oCjbUFI_75fqG9J62pul9dg_RCd4au4tMw/edit?fbclid=IwAR3kydub18T2mC9Hvo4RAfm-K-_clnLpkN1wTsK_KrNIIfwydSGKC4pTji0#heading=h.mbs65hitovr4
-    tags:
-    - education
-
