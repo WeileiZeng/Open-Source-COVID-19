@@ -1,9 +1,8 @@
 name: Push new content to the web
 
-on:
-  [push]
-  schedule:
-  - '0 8 * * *'
+on: [push]
+  #schedule:
+  #- '0 8 * * *'
 
 jobs:
   build:
