@@ -5,7 +5,6 @@ As nCoV/COVID-19 spreads, so as the support from open source community. Here lis
 See also [projects for China 中国相关项目](china)
 
 
-
 {% assign projects = site.data.world %}
 
 {% include projects.md %}

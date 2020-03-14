@@ -49,6 +49,35 @@ def get_stargazers_count(requests_session,repo_name):
     save( data, repo_name )
     return output
 
+
+
+import shutil
+def download_image(repo_name):
+    [owner,name]=repo_name.split('/')
+    save_folder='../assets/shields/'
+    #save_folder='../'
+    save_filename=save_folder+owner+'-'+name+'.svg'
+    # This is the image url.
+    #image_url="https://img.shields.io/github/stars/theleadio/corona-frontend?color=yellow&label=&logoColor=blue&style=social"
+    image_url="https://img.shields.io/github/stars/"+repo_name+"?color=yellow&label=&logoColor=blue&style=social"
+    
+    # Open the url image, set stream to True, this will return the stream content.
+    resp = requests.get(image_url, stream=True)
+    # Open a local file with wb ( write binary ) permission.
+    local_file = open(save_filename, 'wb')
+    # Set decode_content value to True, otherwise the downloaded image file's size will be zero.
+    resp.raw.decode_content = True
+    # Copy the response stream raw data to local image file.
+    shutil.copyfileobj(resp.raw, local_file)
+    local_file.close()
+    # Remove the image url response object.
+    del resp
+    print(save_filename)
+#repo_name='WeileiZeng/tutorial'
+#download_image(repo_name)
+
+
+
 # read  list of repos
 import yaml
 def counting(requests_session, file_name,group_name,summary_file):
@@ -75,8 +104,24 @@ def counting(requests_session, file_name,group_name,summary_file):
                 statistics['repos_count'] +=1
                 statistics['stars_count'] += data['stargazers_count']
                 statistics['forks_count'] += data['forks']
+                download_image(repo_name)
             except KeyError:
                 print('no repo for this project')
+            #some may have two repo
+            try: 
+                repo_name=repo['repo2_name']
+                # print(repo_name)
+                data = get_stargazers_count(requests_session, repo_name)
+                statistics['repos_count'] +=1
+                statistics['stars_count'] += data['stargazers_count']
+                statistics['forks_count'] += data['forks']
+                download_image(repo_name)
+                print('got repo2: '+repo_name)
+            except KeyError:
+                #print('no repo2')
+                pass
+
+                
 
     # print output
     print('summary')
@@ -89,7 +134,7 @@ file_name="../_data/world.yml"
 group_name="country"
 
 #counting(requests_session, file_name,group_name)
-counting(requests_session, "../_data/world.yml","country","../_data/summary_world.json")
+counting(requests_session, "../_data/world.yml","group_name","../_data/summary_world.json")
 counting(requests_session, "../_data/china.yml","group_name","../_data/summary_china.json")
 
-print("this script calculate the summary of wuhan page and world page. The summary has been saved in _data/*.yml, and will be loaded automatically. You can run this once a while after adding site regularly.")
+print("this script calculate the summary of wuhan page and world page. The summary has been saved in _data/*.yml, and will be loaded automatically. You can run this once a while after adding site regularly.\nThis one also update all shields and json file")
