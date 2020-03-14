@@ -9,4 +9,4 @@ def save(api_content,username):
      
 def getUserInfo(user):
   r = requests.get('https://api.github.com/user'+user)
-  return r
+  save(r, r.login)
