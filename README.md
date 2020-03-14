@@ -7,13 +7,14 @@ Tribute to all people in the open source community
 
 This navigation site collects many open source projects during COVID-19. 10000+ people have contributed to projects in this list, which has attracted 10000+ stars.
 
-We also add a navigation page for projects focusing on countries or areas all over the world.
 
 * 导航网站website: https://weileizeng.github.io/Open-Source-COVID-19/
 * 中国相关项目页面china page: https://weileizeng.github.io/Open-Source-COVID-19/china （原开源武汉页面）
 * github repo: https://github.com/WeileiZeng/Open-Source-COVID-19
 
 ### Page summary
+![.github/workflows/counting.yml](https://github.com/WeileiZeng/Open-Source-COVID-19/workflows/.github/workflows/counting.yml/badge.svg)
+![Update shields](https://github.com/WeileiZeng/Open-Source-COVID-19/workflows/Update%20shields/badge.svg)
 * china page summary: 54 projects, 42 repos, 21214 stars, 3806 forks
 * world page summary: 20 projects, 16 repos, 3603 stars, 1037 forks
 
