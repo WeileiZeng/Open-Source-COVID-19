@@ -1,4 +1,4 @@
-name: Push new content to the web
+name: Update shields
 
 on: [push]
   #schedule:
@@ -19,14 +19,14 @@ jobs:
         pip3 install --upgrade setuptools
         pip3 install -r requirement.txt
         python3 shields.py
-        #echo -n new push at >> github-action.log
-        #date >> github-action.log
+
 
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Add changes by Action" -a
+        git add -A
+        git commit -m "update shields"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
