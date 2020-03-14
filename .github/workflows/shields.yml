@@ -1,8 +1,8 @@
-name: Counting summary once a day
+name: Push new content to the web
 
-on:
-  schedule:
-  - '0 8 * * *'
+on: [push]
+  #schedule:
+  #- '0 8 * * *'
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
         cd src
         pip3 install --upgrade setuptools
         pip3 install -r requirement.txt
-        python3 counting.py
+        python3 shields.py
         #echo -n new push at >> github-action.log
         #date >> github-action.log
 
@@ -26,7 +26,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Counting summary once a day" -a
+        git commit -m "Add changes by Action" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
