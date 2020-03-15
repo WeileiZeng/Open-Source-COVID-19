@@ -5,9 +5,9 @@ The goal of this navigation site is to help people access data, contribute to th
 
 
 ### site map
-* [OpenSourceWuhan](index) projects focusing on wuhan, China
-* [OpenSourceWorld](world) projects for other countries/areas
-* [OpenSourceHeroes](heroes) people contribute to the open source community. (coming soon)
+* [World page](index) projects for all countries/areas
+* [China page](china) projects focusing on wuhan, China.
+* [Heroes page](heroes) people contribute to the open source community. (coming soon)
 * [About us](about)
 
 

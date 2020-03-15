@@ -7,79 +7,129 @@
     web_name: CoronaTracker.com
     web_url: https://www.coronatracker.com/
     content: is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public.
+    tags:
+    - dashboard
   - repo_name: CSSEGISandData/COVID-19
     content: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
     web_name: Visual Dashboard (desktop)
     web_url: https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
     web2_name: Visual Dashboard (mobile)
     web2_url: http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
+    tags:
+    - dashboard
+    - data
   - repo_name: ExpDev07/coronavirus-tracker-api
     content: An HTTP-based JSON API for tracking the development of the virus.
+    tags:
+    - api
   - repo_name: ExpDev07/coronavirus-tracker
     web_url: https://expdev07.github.io/coronavirus-tracker/
     web_name: coronavirus tracker
+    tags:
+    - dashboard
   - repo_name: AaronWard/covid-19-analysis
     content: covid-19-analysis
+    tags:
+    - analysis
   - web_name: Wikipedia - 2019–20 coronavirus outbreak
     web_url: https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak
+    tags:
+    - dashboard
+    - news
   - repo_name: ieee8023/covid-chestxray-dataset 
-    content: We are building an open database of COVID-19 cases with chest X-ray or CT images.     
+    content: We are building an open database of COVID-19 cases with chest X-ray or CT images.
+    tags:
+    - data
   - repo_name: stevenliuyi/covid19
     web_name: COVID-19 Coronavirus Map / 新型冠状病毒肺炎疫情图
     web_url: https://covid19.health
     content: an interactive, animated COVID-19 coronavirus map
+    tags:
+    - map
   - repo_name: Bost/corona_cases
     web_url: https://t.me/corona_cases_bot
     web_name: Coronavirus disease 2019 (COVID-19) information on Telegram Messenger
+    tags:
+    - app
   - repo_name: nextstrain/ncov
-    web_url: nextstrain.org/ncov
+    web_url: https://nextstrain.org/ncov
     web_name: ncov
     content:  This is a Nextstrain build for novel coronavirus (nCoV)
+    tags:
+    - dashboard
+    - analysis
   - repo_name: MhdHejazi/Corona
     content: Coronavirus tracker app for iOS with maps & charts.
+    tags:
+    - app
+    - dashboard
   - repo_name: arik-so/coronavirus
     web_url: https://coronavirus.arik.io
     web_name: global cases visualizer
+    tags:
+    - dashboard
   - repo_name: jpoles1/open_covid19
-    content: A Jupyter notebook with basic COVID-19 outbreak modeling. 
+    content: A Jupyter notebook with basic COVID-19 outbreak modeling.
+    tags:
+    - analysis
   - repo_name: worldimprovementlab/coronavirus-cheatsheet
     content: A science-based cheatsheet of information and links about the COVID-19 outbreak.
+    tags:
+    - crowdsourced-list
   - repo_name: coronafighter/coronaSEIR
     web_name: COVID-19 Python SEIR model and data plot
     web_url: https://github.com/coronafighter/coronaSEIR
     content: Simple SEIR model Python script for the COVID-19 pandemic with real world data comparison.
+    tags:
+    - analysis
   - repo_name: JohnCoene/coronavirus
     web_name: Novel Coronavirus (COVID-19) Tracker
     web_url: https://coronavirus.john-coene.com/
     content: with API
+    tags:
+    - dashboard
+    - api
   - repo_name: midas-network/COVID-19
     content: MIDAS 2019 Novel Coronavirus Repository
+    tags:
+    - data
   - repo_name: kenlog/coronavirusinfections.org
     web_name: Coronavirus infections (COVID-19)
     web_url: https://coronavirusinfections.org/
     content: Health information on coronavirus infections with detailed statistics from around the world. Data can be exported in 7 different formats.
+    tags:
+    - dashboard
+    - data
   - repo_name: brentjackson/OpenIntubator
     web_name: wiki page
     web_url: https://github.com/brentjackson/OpenIntubator/wiki
     content: An open source hardware project to develop intubation kits needed to support medical professionals.
-
+    tags:
+    - health
 
 - group_name: Global (Life and Academic)
   repos:
   - web_name: VIRTUAL APS MARCH 2020
     web_url: https://virtualmarchmeeting.com/
     content: A free community-driven virtual platform to support speakers at the 2020 APS March Meeting. Supported by Q-ctrl.
+    tags:
+    - academic
   - repo_name: virtualscienceforum/virtualscienceforum
     web_name: Organization for hosting of online conferences
     web_url: https://virtualscienceforum.org
+    tags:
+    - academic
   - repo_name: goinvo/COVID19
     web_name: UNDERSTANDING THE NOVEL CORONAVIRUS COVID-19
     web_url: https://understandingcoronavirus.org
     web2_name: mirror site
     web2_url: https://www.goinvo.com/vision/coronavirus/
+    tags:
+    - handbook
   - web_name: Pandemic Ventilator Project
     web_url: https://panvent.blogspot.com/
     content: This blog documents our attempt to construct a ventilator design for use in a Flu Pandemic that can be made from readily available materials at the last minute.
+
 
 - group_name: Crowdsourcing lists
   repos:

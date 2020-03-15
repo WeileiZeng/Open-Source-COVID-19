@@ -18,7 +18,7 @@
     # similar to dashboard, but some may only have visualization of data
     - data
     # collected data (json, yaml, csv, etc) avaliable for further analysis, visualization, or research
-    - API
+    - api
     # data avaliable by curl or wget
     - analysis
     # predictions, timeline review
@@ -28,4 +28,4 @@
     - community
     - academic
     # related to academic and education
-    
+    - health
