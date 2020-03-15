@@ -268,8 +268,12 @@
   - repo_name: parksw3/COVID19-Korea
     content: Public line list and summaries of the COVID-19 outbreak in South Korea
   - repo_name: LiveCoronaDetector/livecod
+    repo2_name: taeukme/covid-19-mask-map
+    web_name: Dashboard of COVID-19
     web_url: https://livecorona.co.kr/
-    content: (Real time update) Bashboard of COVID-19, find nearby pharmacy
+    web2_name: Find nearby pharmacy and masks
+    web2_url: https://mask.livecorona.co.kr
+    content: Real time update
 
 - group_name: North America
   repos:
