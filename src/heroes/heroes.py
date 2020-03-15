@@ -21,4 +21,4 @@ response=requests.get("https://api.github.com/search/repositories?q="+keyword+"&
 for repo in response:
   contributors = requests.get(repo.contributors_url)
   for contributor in contributors:
-    getUserInfo(contributor)
+    save(contributor, contributor.login)
