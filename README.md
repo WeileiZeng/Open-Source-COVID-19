@@ -13,7 +13,7 @@ This navigation site collects many open source projects during COVID-19. 10000+ 
 * github repo: https://github.com/WeileiZeng/Open-Source-COVID-19
 
 ### Page summary
-![Update shields](https://github.com/WeileiZeng/Open-Source-COVID-19/workflows/Update%20shields/badge.svg)
+![Update shields](https://github.com/WeileiZeng/Open-Source-COVID-19/workflows/Update%20shields/badge.svg) It updates at every push. Two frequent pushes may cause failure as well, cause there is nothing changes for commiting.
 * china page summary: 54 projects, 42 repos, 21214 stars, 3806 forks
 * world page summary: 20 projects, 16 repos, 3603 stars, 1037 forks
 
