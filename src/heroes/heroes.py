@@ -6,11 +6,6 @@ def save(api_content,username):
             json.dumps(api_content, sort_keys=True, indent=4)
         )
 
-def getUserInfo(user):
-  r = requests.get('https://api.github.com/user'+user)
-  data = r.json()
-  save(r, r.login)
-
 keyword="COVID"
 keyword="nCoV"
 keyword="covid19" # a lot of repos start with that name
