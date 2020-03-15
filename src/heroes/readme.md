@@ -11,3 +11,6 @@ TODO:
 
 - [ ] Get repo owners
 - [ ] Get repo contributors
+- [ ] visualization
+  - [ ] option1: markdown table
+  - [ ] option2: [pyecharts](https://gallery.pyecharts.org/#/Graph/graph_weibo)
