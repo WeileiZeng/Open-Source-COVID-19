@@ -9,4 +9,5 @@ idea:
 
 TODO:
 
-- [ ] TODO one
+- [ ] Get repo owners
+- [ ] Get repo contributors
