@@ -1,4 +1,3 @@
-import yaml
 import requests
 
 def save(api_content,username):
