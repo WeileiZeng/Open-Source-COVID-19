@@ -3,7 +3,7 @@
 
 # use Github API to get the data of repos, including star_counts
 # do some post processing like statistics of all stars and all forks.
-
+# bug note: invalid repo name with https:// would raise an error: ValueError: too many values to unpack
 print("only update shields at every push")
 
 
