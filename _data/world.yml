@@ -72,10 +72,6 @@
     content: A Jupyter notebook with basic COVID-19 outbreak modeling.
     tags:
     - analysis
-  - repo_name: worldimprovementlab/coronavirus-cheatsheet
-    content: A science-based cheatsheet of information and links about the COVID-19 outbreak.
-    tags:
-    - crowdsourced-list
   - repo_name: coronafighter/coronaSEIR
     web_name: COVID-19 Python SEIR model and data plot
     web_url: https://github.com/coronafighter/coronaSEIR
@@ -131,7 +127,7 @@
     content: This blog documents our attempt to construct a ventilator design for use in a Flu Pandemic that can be made from readily available materials at the last minute.
 
 
-- group_name: Crowdsourcing lists
+- group_name: Crowdsourced lists
   repos:
   - web_name: Coronavirus Tech Handbook
     web_url: https://coronavirustechhandbook.com/
@@ -139,15 +135,23 @@
     content: Useful projects and resources for COVID-19 (2019 novel Coronavirus)
     tags:
     - crowdsourced-list
+  - repo_name: worldimprovementlab/coronavirus-cheatsheet
+    content: A science-based cheatsheet of information and links about the COVID-19 outbreak.
+    tags:
+    - crowdsourced-list
   - repo_name: WeileiZeng/Cancelled-Academic-Conferences
     web_name: Academic Conferences Cancelled due to Coronavirus Caution
     web_url: https://weileizeng.github.io/Cancelled-Academic-Conferences/
     web2_name: google sheet
     web2_url: https://docs.google.com/spreadsheets/d/1O3wnaFYSZCgY3Ih4yDw3EIH2SC_-vjhyHwrCQSy0J7M/htmlview?fbclid=IwAR3Z5VxuKicyB5h0dAIRhU5TtZq78dzFBZ45f8G7fI1sBhWEyFIj5rGibME#
+    tags:
+    - Academic
   - repo_name: phildini/stayinghomeclub
     web_name: stayinghomeclub
     web_url: https://stayinghome.club/
     content: A list of all the companies WFH or events changed because of covid-19
+    tags:
+    - WFH
   - web_name: Global University Policy Tracker (crowdsourced)
     web_url: "https://docs.google.com/spreadsheets/d/1BsS1-2RQvgONdUviUJq1TbSqMmoBhbXPiwTIr__pRns/edit"
     tags:
