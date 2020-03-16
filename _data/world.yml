@@ -119,8 +119,18 @@
     tags: 
     - crowdsourcing-list
     - lockdown
-
-
+  - repo_name: nat236919/Covid2019API
+    web_name: COVID-2019 API, CoronaVirus 2019 Global Cases
+    web_url: https://covid2019-api.herokuapp.com/
+    tags:
+    - api
+  - repo_name: sorxrob/2019-ncov-api
+    repo2_name: sorxrob/2019-ncov-frontend
+    web_name: Map, data and timeline of coronavirus (COVID-19) 
+    web_url: https://the2019ncov.com
+    tags:
+    - dashboard
+    - api
 - group_name: Global (Life and Academic)
   repos:
   - web_name: VIRTUAL APS MARCH 2020
