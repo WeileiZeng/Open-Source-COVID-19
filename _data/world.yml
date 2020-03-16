@@ -107,6 +107,19 @@
     web_name: Border Control status due to covid-19
     tags:
     - map
+  - repo_name: alsnhll/SEIR_COVID19
+    web_name: Modeling COVID-19 Spread vs Healthcare Capacity
+    web_url: https://alhill.shinyapps.io/COVID19seir/
+    tags:
+    - analysis
+  - repo_name: thebeardbe/areweinlockdown-com
+    web_name: Are we in lockdown
+    web_url: https://areweinlockdown.com
+    content: Trying to gather all information about current restrictions in the different countries
+    tags: 
+    - crowdsourcing-list
+    - lockdown
+
 
 - group_name: Global (Life and Academic)
   repos:
@@ -354,6 +367,14 @@
   - repo_name: xming13/covid-19-sg
     web_name: Visualisation for Singapore COVID cases
     web_url: https://xming13.github.io/covid-19-sg/
+
+- group_name: Spanish
+  repos:
+  - web_name: Covid19 en Español Spanish Dashboard
+    web_url: https://covid19esp.herokuapp.com
+    content: "Coronavirus en Español - Panel de estadísticas en Español con los últimos datos recibidos."
+    tags:
+    - dashboard
 
 - group_name: UK
   description: England
