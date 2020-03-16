@@ -1,7 +1,25 @@
+'''
+save data to data_heroes/heroes.json
+file structure
+[
+ {
+   full_name:
+   contributors:
+   [
+   {
+    login:
+    id:
+    contributions:
+   }
+   ]
+ }
+]
+'''
 import requests
+import json
 
 def save(api_content,username):
-    with open('json_api/heroes/'+username.replace('/','.')+'.json','w') as f:
+    with open('data_heroes/'+username.replace('/','.')+'.json','w') as f:
         f.write(
             json.dumps(api_content, sort_keys=True, indent=4)
         )
@@ -10,9 +28,39 @@ keyword="COVID"
 keyword="nCoV"
 keyword="covid19" # a lot of repos start with that name
 
-response=requests.get("https://api.github.com/search/repositories?q="+keyword+"&sort=stars&order=desc")
+#response=requests.get("https://api.github.com/search/repositories?q="+keyword+"&sort=stars&order=desc")
 
-for repo in response:
-  contributors = requests.get(repo.contributors_url)
+
+heroes=[]
+
+#res = response.json()
+f = open('github_search_COVID.json','r')
+res = json.load(f)
+f.close()
+#information keys to save
+contributor_keys=['login','id','contributions']
+repo_keys=['id','full_name','fork']
+for repo in res['items']:
+  #print(repo)
+  repo2={}
+  for k in repo_keys:
+      repo2[k]=repo[k]
+  contributors = requests.get(repo['contributors_url']).json()
+  #print(contributors)
+  #break
+  repo_heroes=[]
   for contributor in contributors:
-    save(contributor, contributor.login)
+      #save(contributor, contributor.login)      
+      #print(json.dumps(contributor,indent=2))
+      hero={}
+      for k in contributor_keys:
+          hero[k]=contributor[k]
+      repo_heroes.append(hero)
+  repo2['contributors']=repo_heroes
+  #print(json.dumps(repo_heroes, indent = 2))  
+  heroes.append(repo2)
+  print(json.dumps(heroes, indent = 2))
+  
+with open('list_heroes.json','w') as f:
+    f.write(json.dumps(heroes, indent = 2))
+    
