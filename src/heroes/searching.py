@@ -95,7 +95,7 @@ keyword="COVID"
 keyword="nCoV"
 keyword="covid19" # a lot of repos start with that name
 
-response=requests_session.get("https://api.github.com/search/repositories?q="+keyword+"&sort=stars&order=desc")
+response=requests_session.get("https://api.github.com/search/repositories?q="+keyword+"&sort=stars&order=desc&per_page=100")
 
 with open("github_search_"+keyword+".json","w") as f:
     f.write(jprint(response.json()))
