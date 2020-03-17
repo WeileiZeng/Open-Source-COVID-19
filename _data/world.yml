@@ -304,6 +304,12 @@
     web_url: https://divy-work.github.io/covid19-pune/
     tags:
     - dashboard
+  - repo_name: sydrawat/covid19.in
+    web_name: Covid-19 India Tracker
+    web_url: https://covid19-in.netlify.com/
+    content: Minimal webpage to display the most important info, numbers.
+    tags: 
+    - dashboard
   
 - group_name: Italy
   repos:
