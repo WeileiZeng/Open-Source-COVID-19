@@ -137,6 +137,15 @@
     content: A multisources in-depth dashboard
     tags: 
     - dashboard
+  - repo_name: virtual-biohackathons/covid-19-bh20
+    content: COVID-19 Biohackathon April 5-11 2020
+    tags:
+    - hackathon
+    - analysis
+ - repo_name: nf-core/covid19
+   web_name: Pipeline
+   web_url: https://nf-co.re/covid19
+   content: UNDER CONSTRUCTION, A pipeline for the analysis of COVID-19 pandemic data. 
     
     
 - group_name: Global (Life and Academic)
