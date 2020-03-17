@@ -142,10 +142,12 @@
     tags:
     - hackathon
     - analysis
- - repo_name: nf-core/covid19
-   web_name: Pipeline
-   web_url: https://nf-co.re/covid19
-   content: UNDER CONSTRUCTION, A pipeline for the analysis of COVID-19 pandemic data. 
+  - repo_name: nf-core/covid19
+    web_name: Pipeline
+    web_url: https://nf-co.re/covid19
+    content: UNDER CONSTRUCTION, A pipeline for the analysis of COVID-19 pandemic data.
+    tags:
+    - analysis
   - repo_name: VincentFokker/Fruitpunch-AI-Covid-19
     web_name: Fruitpunch AI COVID-19 challenge
     web_url: https://fruitpunch.ai/covid-19/
