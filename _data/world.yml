@@ -154,7 +154,14 @@
     content: COVID-19 impacts on economics and health
     tags:
     - analysis
-
+  - web_name: Safecast
+    web_url: https://safecast.org/covid19/
+    web2_name: GitHub organization
+    web2_url: https://github.com/Safecast
+    content: Open crowd-sourcing/sensing environmental project that began after the Fukushima meltdown to measure radiation, now doing air quality and assisting on COVID-19 issues with disaster response and community expertise and experience and developing some solutions as well.
+    tags:
+    - map
+    - api
     
 - group_name: Global (Life and Academic)
   repos:
