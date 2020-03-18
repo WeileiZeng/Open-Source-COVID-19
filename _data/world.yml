@@ -2,13 +2,7 @@
 
 - group_name: Global
   repos:
-  - repo_name: theleadio/corona-frontend
-    repo2_name: theleadio/coronatracker
-    web_name: CoronaTracker.com
-    web_url: https://www.coronatracker.com/
-    content: is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public.
-    tags:
-    - dashboard
+# dashboard with data or api
   - repo_name: CSSEGISandData/COVID-19
     content: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
     web_name: Visual Dashboard (desktop)
@@ -18,39 +12,6 @@
     tags:
     - dashboard
     - data
-  - repo_name: ExpDev07/coronavirus-tracker-api
-    content: An HTTP-based JSON API for tracking the development of the virus.
-    tags:
-    - api
-  - repo_name: ExpDev07/coronavirus-tracker
-    web_url: https://expdev07.github.io/coronavirus-tracker/
-    web_name: coronavirus tracker
-    tags:
-    - dashboard
-  - repo_name: AaronWard/covid-19-analysis
-    content: covid-19-analysis
-    tags:
-    - analysis
-  - web_name: Wikipedia - 2019–20 coronavirus outbreak
-    web_url: https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak
-    tags:
-    - dashboard
-    - news
-  - repo_name: ieee8023/covid-chestxray-dataset 
-    content: We are building an open database of COVID-19 cases with chest X-ray or CT images.
-    tags:
-    - data
-  - repo_name: stevenliuyi/covid19
-    web_name: COVID-19 Coronavirus Map / 新型冠状病毒肺炎疫情图
-    web_url: https://covid19.health
-    content: an interactive, animated COVID-19 coronavirus map
-    tags:
-    - map
-  - repo_name: Bost/corona_cases
-    web_url: https://t.me/corona_cases_bot
-    web_name: Coronavirus disease 2019 (COVID-19) information on Telegram Messenger
-    tags:
-    - app
   - repo_name: nextstrain/ncov
     web_url: https://nextstrain.org/ncov
     web_name: ncov
@@ -63,11 +24,113 @@
     tags:
     - app
     - dashboard
+  - repo_name: sorxrob/2019-ncov-api
+    repo2_name: sorxrob/2019-ncov-frontend
+    web_name: Map, data and timeline of coronavirus (COVID-19) 
+    web_url: https://the2019ncov.com
+    tags:
+    - dashboard
+    - api
+  - web_name: Wikipedia - 2019–20 coronavirus outbreak
+    web_url: https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak
+    tags:
+    - dashboard
+    - news
+  - repo_name: JohnCoene/coronavirus
+    web_name: Novel Coronavirus (COVID-19) Tracker
+    web_url: https://coronavirus.john-coene.com/
+    content: with API
+    tags:
+    - dashboard
+    - api
+  - repo_name: kenlog/coronavirusinfections.org
+    web_name: Coronavirus infections (COVID-19)
+    web_url: https://coronavirusinfections.org/
+    content: Health information on coronavirus infections with detailed statistics from around the world. Data can be exported in 7 different formats.
+    tags:
+    - dashboard
+    - data
+
+# dashboard only
+  - repo_name: theleadio/corona-frontend
+    repo2_name: theleadio/coronatracker
+    web_name: CoronaTracker.com
+    web_url: https://www.coronatracker.com/
+    content: is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public.
+    tags:
+    - dashboard
+  - repo_name: ExpDev07/coronavirus-tracker
+    web_url: https://expdev07.github.io/coronavirus-tracker/
+    web_name: coronavirus tracker
+    tags:
+    - dashboard
   - repo_name: arik-so/coronavirus
     web_url: https://coronavirus.arik.io
     web_name: global cases visualizer
     tags:
     - dashboard
+  - repo_name: gdassori/covid19_data_miner
+    web_name: covid19 grafana dashboard
+    web_url: https://covid19.chatsubo.it
+    content: A multisources in-depth dashboard
+    tags: 
+    - dashboard
+  - repo_name: kiang/covid19-border-controls
+    web_url: https://kiang.github.io/covid19-border-controls/
+    web_name: Border Control status due to covid-19
+    tags:
+    - map
+  - repo_name: stevenliuyi/covid19
+    web_name: COVID-19 Coronavirus Map / 新型冠状病毒肺炎疫情图
+    web_url: https://covid19.health
+    content: an interactive, animated COVID-19 coronavirus map
+    tags:
+    - map
+  - repo_name: Bost/corona_cases
+    web_url: https://t.me/corona_cases_bot
+    web_name: Coronavirus disease 2019 (COVID-19) information on Telegram Messenger
+    tags:
+    - app
+
+
+
+# api/data
+  - repo_name: ExpDev07/coronavirus-tracker-api
+    content: An HTTP-based JSON API for tracking the development of the virus.
+    tags:
+    - api
+  - repo_name: ieee8023/covid-chestxray-dataset 
+    content: We are building an open database of COVID-19 cases with chest X-ray or CT images.
+    tags:
+    - data
+  - repo_name: midas-network/COVID-19
+    content: MIDAS 2019 Novel Coronavirus Repository
+    tags:
+    - data
+  - repo_name: nat236919/Covid2019API
+    web_name: COVID-2019 API, CoronaVirus 2019 Global Cases
+    web_url: https://covid2019-api.herokuapp.com/
+    tags:
+    - api
+  - web_name: Safecast
+    web_url: https://safecast.org/covid19/
+    web2_name: GitHub organization
+    web2_url: https://github.com/Safecast
+    content: Open crowd-sourcing/sensing environmental project that began after the Fukushima meltdown to measure radiation, now doing air quality and assisting on COVID-19 issues with disaster response and community expertise and experience and developing some solutions as well.
+    tags:
+    - map
+    - api
+  - repo_name: NovelCOVID/API
+    content: API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
+    tags:
+    - api
+
+
+# analysis
+  - repo_name: AaronWard/covid-19-analysis
+    content: covid-19-analysis
+    tags:
+    - analysis
   - repo_name: jpoles1/open_covid19
     content: A Jupyter notebook with basic COVID-19 outbreak modeling.
     tags:
@@ -78,65 +141,11 @@
     content: Simple SEIR model Python script for the COVID-19 pandemic with real world data comparison.
     tags:
     - analysis
-  - repo_name: JohnCoene/coronavirus
-    web_name: Novel Coronavirus (COVID-19) Tracker
-    web_url: https://coronavirus.john-coene.com/
-    content: with API
-    tags:
-    - dashboard
-    - api
-  - repo_name: midas-network/COVID-19
-    content: MIDAS 2019 Novel Coronavirus Repository
-    tags:
-    - data
-  - repo_name: kenlog/coronavirusinfections.org
-    web_name: Coronavirus infections (COVID-19)
-    web_url: https://coronavirusinfections.org/
-    content: Health information on coronavirus infections with detailed statistics from around the world. Data can be exported in 7 different formats.
-    tags:
-    - dashboard
-    - data
-  - repo_name: brentjackson/OpenIntubator
-    web_name: wiki page
-    web_url: https://github.com/brentjackson/OpenIntubator/wiki
-    content: An open source hardware project to develop intubation kits needed to support medical professionals.
-    tags:
-    - health
-  - repo_name: kiang/covid19-border-controls
-    web_url: https://kiang.github.io/covid19-border-controls/
-    web_name: Border Control status due to covid-19
-    tags:
-    - map
   - repo_name: alsnhll/SEIR_COVID19
     web_name: Modeling COVID-19 Spread vs Healthcare Capacity
     web_url: https://alhill.shinyapps.io/COVID19seir/
     tags:
     - analysis
-  - repo_name: thebeardbe/areweinlockdown-com
-    web_name: Are we in lockdown
-    web_url: https://areweinlockdown.com
-    content: Trying to gather all information about current restrictions in the different countries
-    tags: 
-    - crowdsourcing-list
-    - lockdown
-  - repo_name: nat236919/Covid2019API
-    web_name: COVID-2019 API, CoronaVirus 2019 Global Cases
-    web_url: https://covid2019-api.herokuapp.com/
-    tags:
-    - api
-  - repo_name: sorxrob/2019-ncov-api
-    repo2_name: sorxrob/2019-ncov-frontend
-    web_name: Map, data and timeline of coronavirus (COVID-19) 
-    web_url: https://the2019ncov.com
-    tags:
-    - dashboard
-    - api
-  - repo_name: gdassori/covid19_data_miner
-    web_name: covid19 grafana dashboard
-    web_url: https://covid19.chatsubo.it
-    content: A multisources in-depth dashboard
-    tags: 
-    - dashboard
   - repo_name: virtual-biohackathons/covid-19-bh20
     content: COVID-19 Biohackathon April 5-11 2020
     tags:
@@ -154,24 +163,22 @@
     content: COVID-19 impacts on economics and health
     tags:
     - analysis
-  - web_name: Safecast
-    web_url: https://safecast.org/covid19/
-    web2_name: GitHub organization
-    web2_url: https://github.com/Safecast
-    content: Open crowd-sourcing/sensing environmental project that began after the Fukushima meltdown to measure radiation, now doing air quality and assisting on COVID-19 issues with disaster response and community expertise and experience and developing some solutions as well.
-    tags:
-    - map
-    - api
-  - repo_name: NovelCOVID/API
-    content: API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
-    tags:
-    - api
   - repo_name: neherlab/covid19_scenarios
     web_name: COVID-19 Scenarios
     web_url: https://neherlab.org/covid19/
     content: A tool to models COVID-19 outbreak trajectory and hospital demand
     tags:
     - analysis
+
+
+# others
+  - repo_name: brentjackson/OpenIntubator
+    web_name: wiki page
+    web_url: https://github.com/brentjackson/OpenIntubator/wiki
+    content: An open source hardware project to develop intubation kits needed to support medical professionals.
+    tags:
+    - health    
+    
   
   
 - group_name: Global (Life and Academic)
@@ -199,7 +206,7 @@
 
 
 - group_name: Crowdsourced lists
-  repos:
+  repos:  
   - web_name: Coronavirus Tech Handbook
     web_url: https://coronavirustechhandbook.com/
   - repo_name: soroushchehresa/awesome-coronavirus
@@ -225,6 +232,12 @@
     content: A list of all the companies WFH or events changed because of covid-19
     tags:
     - WFH
+  - repo_name: thebeardbe/areweinlockdown-com
+    web_name: Are we in lockdown
+    web_url: https://areweinlockdown.com
+    content: Trying to gather all information about current restrictions in the different countries
+    tags: 
+    - lockdown    
   - web_name: Global University Policy Tracker (crowdsourced)
     web_url: "https://docs.google.com/spreadsheets/d/1BsS1-2RQvgONdUviUJq1TbSqMmoBhbXPiwTIr__pRns/edit"
     tags:

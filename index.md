@@ -3,6 +3,8 @@ comments: true
 ---
 As nCoV/COVID-19 spreads, so as the support from open source community. Here lists the projects supporting different areas all over the world.
 See also [projects for China 中国相关项目](china)
+<br>
+{% include page_summary_world.md %}
 
 
 {% assign projects = site.data.world %}
@@ -27,6 +29,6 @@ See also [projects for China 中国相关项目](china)
 
 
 
-{% include page_summary_world.md %}
+
 
 {% include footer.md %}

@@ -2,8 +2,9 @@
 title: China
 comments: true
 ---
-
-10,000+ people have contributed to the projects in this list, which have received 10,000+ stars. See also [projects for the world](index).
+China-based projects started and peaked 2 months earlier than [the world-based projects](index)
+<br>
+{% include page_summary_china.md %}
 
 
 {% assign projects = site.data.china %}
@@ -31,7 +32,7 @@ comments: true
 * 也可评论或者[Contact me](https://weileizeng.com/news/1992/06/29/contact/)
 
 
-{% include page_summary_china.md %}
+
 
 {% include footer.md %}
 

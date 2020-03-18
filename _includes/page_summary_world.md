@@ -1,8 +1,5 @@
----
-
-page summary:
-{{ site.data.summary_world.projects_count }} projects, 
-{{ site.data.summary_world.repos_count }} repos,
-{{ site.data.summary_world.stars_count }} stars:
-{{ site.data.summary_world.forks_count }} forks:
-
+Page summary: 
+<img src="assets/page_summary/world_projects_count.svg" align="top"/>
+<img src="assets/page_summary/world_repos_count.svg" align="top"/>
+<img src="assets/page_summary/world_stars_count.svg" align="top"/>
+<img src="assets/page_summary/world_forks_count.svg" align="top"/> 

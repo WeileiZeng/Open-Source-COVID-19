@@ -1,33 +1,37 @@
-from multiprocessing import Pool
-from time import sleep
+#!/Library/Frameworks/Python.framework/Versions/3.8/bin/python3
+
+
+import json
 import requests
-def f(x):
-    print('hello ',x)
-    sleep(1)
-    print('by ',x)
+# now use json file to produce shields
 
-def get(url):
-    res = requests.get(url)
-    print(res)
-    
-def test1():
-    pool=Pool(100)
-    for i in range(20):
-        #pool.map(f,['weilei','kangkang','love','more','and'])
-        pool.map(f,range(9))
-
-def test2():
-    pool=Pool(100)
-    print('get Pool')
-    url="https://4chan.org"
-    urls=[url]*100
-    print(urls)
-    pool.map(get,urls)
-if __name__ == "__main__":    
-    test2()
-
-
-
-
+import shutil
+def download_svg_by_url(image_url, save_filename):
+    resp = requests.get(image_url, stream=True) 
+    local_file = open(save_filename, 'wb')
+    resp.raw.decode_content = True
+    shutil.copyfileobj(resp.raw, local_file)
+    local_file.close()
+    del resp
     
 
+def update_summary_badge(page_name):
+    filename='../_data/summary_'+page_name+'.json'
+    summary={}
+    with open(filename,'r') as f:
+        summary=json.load(f)
+    print(summary)
+    for k,v in summary.items():
+        print(k)
+        #print(v)
+        label=k[:-6]
+        counts=v
+        url="https://img.shields.io/static/v1?label="+label+"&message="+str(counts)+"&color=brightgreen"
+        print(url)
+        save_filename='../assets/page_summary/'+page_name+'_'+k+'.svg'
+        download_svg_by_url(url, save_filename)
+        requests.get
+
+    
+update_summary_badge('world')
+update_summary_badge('china')
