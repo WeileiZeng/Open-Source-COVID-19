@@ -91,7 +91,12 @@
     web_name: Coronavirus disease 2019 (COVID-19) information on Telegram Messenger
     tags:
     - app
-
+  - repo_name: JanLikar/covid
+    web_name: COVID Report
+    web_url: https://www.covid-report.com
+    content: A map that allows people with COVID-19 to mark their past locations to warn others that might have come into contact with them.
+    tags:
+    - map
 
 
 # api/data
@@ -169,7 +174,10 @@
     content: A tool to models COVID-19 outbreak trajectory and hospital demand
     tags:
     - analysis
-
+  - repo_name: pennsignals/chime
+    content: COVID-19 Hospital Impact Model for Epidemics
+    tags:
+    - analysis
 
 # others
   - repo_name: brentjackson/OpenIntubator
@@ -306,8 +314,16 @@
     web_url: https://docs.google.com/document/d/16ubmmTtJ7oCjbUFI_75fqG9J62pul9dg_RCd4au4tMw/edit?fbclid=IwAR3kydub18T2mC9Hvo4RAfm-K-_clnLpkN1wTsK_KrNIIfwydSGKC4pTji0#heading=h.mbs65hitovr4
     tags:
     - education
+  - web_name: "COVID-19 Slack workspaces – International overview"
+    web_url: https://bit.ly/3bizew3
+    tags:
+    - community
 
-
+- group_name: Africa
+  repos:
+  - repo_name: dsfsi/covid19za
+    web_name: COVID 19 Data and Dashboard for South Africa
+    web_url: https://bitly.com/covid19za-dash
 
 - group_name: China
   repos:
