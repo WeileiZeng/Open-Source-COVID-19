@@ -166,7 +166,14 @@
     content: API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
     tags:
     - api
-    
+  - repo_name: neherlab/covid19_scenarios
+    web_name: COVID-19 Scenarios
+    web_url: https://neherlab.org/covid19/
+    content: A tool to models COVID-19 outbreak trajectory and hospital demand
+    tags:
+    - analysis
+  
+  
 - group_name: Global (Life and Academic)
   repos:
   - web_name: VIRTUAL APS MARCH 2020
