@@ -404,11 +404,16 @@
     web2_url: https://mask.livecorona.co.kr
     content: Real time update
 
-- group_name: North America
+- group_name: North America, US, Canada
   repos:
     - web_name: North America live map 
       web_url: https://coronavirus.1point3acres.com/en
       content: Coronavirus in US and Canada, Real Time Updates 肺炎疫情实时动态 · 北美 (一亩三分地)
+    - repo_name: COVID19Tracking/website
+      web_name: The COVID Tracking Project
+      web_url: https://covidtracking.com/
+      tags:
+      - api
 
 - group_name: Singapore
   repos:
