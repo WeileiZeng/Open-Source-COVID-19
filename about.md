@@ -1,20 +1,23 @@
+---
+title: About
+---
+{% include navigation.md %}
+
+{% include page_summary_total.md %}
+
 ### About us
-Open Source COVID collects open source projects that aim to support Wuhan and other places against COVID-19. The projects are not necessarily hosted on GitHub, as long as it coroprate in an open source way, that everyone can access, inspect and improve it.
+Open Source COVID-19 collects open source projects during COVID-19. The projects are not necessarily hosted on GitHub, as long as it coroprates in an open source way, that everyone can access, inspect and improve it.
 <br>
-The goal of this navigation site is to help people access data, contribute to the projects, or trigger new ideas.
+The goal of this navigation site is to help people access data, contribute to the projects, and trigger new ideas.
 
-
-### site map
-* [World page](index) projects for all countries/areas
-* [China page](china) projects focusing on wuhan, China.
-* [Heroes page](heroes) people contribute to the open source community. (coming soon)
-* [About us](about)
-
+{% include site_recommendation.md %}
 
 ### Media coverage:
 * [thenation.com](https://www.thenation.com/article/world/china-journalism-coronavirus/)
 * [lunux中国](https://linux.cn/article-11820-1.html)
 [机器之心](https://www.jiqizhixin.com/articles/2020-01-29-4)
+
+
 
 ### [what is open source?](https://opensource.com/resources/what-open-source)
 The term [open source](https://opensource.com/article/18/2/coining-term-open-source-software) refers to something people can modify and share because its design is publicly accessible.

@@ -1,6 +1,6 @@
-# all projects to be show
+# all global projects to be show
 
-- group_name: Global
+- group_name: Dashboard, map
   repos:
 # dashboard with data or api
   - repo_name: CSSEGISandData/COVID-19
@@ -99,7 +99,8 @@
     - map
 
 
-# api/data
+- group_name:  API/data
+  repos:
   - repo_name: ExpDev07/coronavirus-tracker-api
     content: An HTTP-based JSON API for tracking the development of the virus.
     tags:
@@ -131,7 +132,8 @@
     - api
 
 
-# analysis
+- group_name:  Analysis
+  repos:
   - repo_name: AaronWard/covid-19-analysis
     content: covid-19-analysis
     tags:
@@ -189,7 +191,7 @@
     
   
   
-- group_name: Global (Life and Academic)
+- group_name: Life and Academic
   repos:
   - web_name: VIRTUAL APS MARCH 2020
     web_url: https://virtualmarchmeeting.com/
@@ -318,173 +320,3 @@
     web_url: https://bit.ly/3bizew3
     tags:
     - community
-
-- group_name: Africa
-  repos:
-  - repo_name: dsfsi/covid19za
-    web_name: COVID 19 Data and Dashboard for South Africa
-    web_url: https://bitly.com/covid19za-dash
-
-- group_name: China
-  repos:
-  - web_name: See full list here.
-    web_url: china
-    content: The list was booming since late January and now covers many aspects of needs.
-
-- group_name: France
-  repos:
-  - repo_name: opencovid19-fr/dashboard
-    repo2_name: opencovid19-fr/data
-    web_name: France COVID-19 Dashboard
-    web_url: https://veille-coronavirus.fr
-    content: French project that aims to consolidate official informations, and making it available in open and easily reusable formats. The project also provides a dashboard.
-    tags:
-    - data
-    - dashboard
-
-- group_name: Germany
-  repos:
-  - repo_name: iceweasel1/COVID-19-Germany
-    content: All officially confirmed cases of infection in Germany. Listed by federal state, case number, date, county and source.
-
-- group_name: Iran
-  repos:
-  - repo_name: par6n/ncov-19
-    web_name: COVID-19 Virus Map in Iran
-    web_url: https://corona.rade.ir/
-    content: According to Iranian Ministry of Health statistics. A simple page featuring an interactive map presenting nCoV-19 spread in Iran
-
-- group_name: India
-  repos:
-  - repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
-    content: This is tracker and help information android application for the new coronavirus (2019-nCoV).
-  - repo_name: divy-work/covid19-pune
-    web_name: Corona Virus Situation in Pune City, India.
-    web_url: https://divy-work.github.io/covid19-pune/
-    tags:
-    - dashboard
-  - repo_name: sydrawat/covid19.in
-    web_name: Covid-19 India Tracker
-    web_url: https://covid19-in.netlify.com/
-    content: Minimal webpage to display the most important info, numbers.
-    tags: 
-    - dashboard
-  
-- group_name: Italy
-  repos:
-  - repo_name: pcm-dpc/COVID-19
-    web_name: Dipartimento della Protezione Civile (Italy Dashboard)
-    web_url: http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1
-    content: Dati COVID-19 Italia. Official data and dashboard maintained by Italian goverment
-  - repo_name: ricnov/COVID-19-ITALY
-    content: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Italy Data Repository by Johns Hopkins CSSE
-  - repo_name: alessiodl/COVID19Dashboard
-    repo2_name: alessiodl/COVID19Feed2Json
-    web_name: COVID19Dashboard
-    web_url: https://alessiodl.github.io/COVID19Dashboard/dist/index.html
-  - repo_name: DavideMagno/ItalianCovidData
-    content: Historical data about Covid19 epidemic in Italy
-  - repo_name: carlotorniai/COVID-19-Italy
-    content: Repository of data related to spread of COVID-19 in Italy.
-  - repo_name: ondata/covid19italia
-    content: COVID data in Italy (csv files and json API)
-  - repo_name: sasso0101/coronavirus
-    web_name: Coronaviruslive italia
-    web_url: https://coronaviruslive.it/
-    content: A dashboard of the active cases, death and recovered cases in Italy. The site includes also historical data and is constantly updated.
-  - repo_name: doppioandante/covid_andamento_regionale
-    content: for regional breakdown of coronavirus trend in Italy.
-    web_name: Dashboard
-    web_url: https://enrico.acqua.team/covid-19/
-  - web_name: Dashboard for Corona Virus Italia COVID-19
-    web_url: https://public.tableau.com/profile/giovanni.caputo#!/vizhome/COVID-19_15836095988890/NewDashboard
-  - repo_name: kenlog/italy.coronavirusinfections.org
-    web_name: Italy Coronavirus infections (COVID-19)
-    web_url: https://italy.coronavirusinfections.org/
-    content: Health information on coronavirus infections with detailed statistics from Italy. The data can be exported in 7 different formats.
-
-  
-
-- group_name: Japan
-  repos:
-  - repo_name: tokyo-metropolitan-gov/covid19
-    web_name: Tokyo COVID-19 Task Force website
-    web_url: https://stopcovid19.metro.tokyo.lg.jp/
-    content: 東京都 新型コロナウイルス感染症対策サイト
-  - repo_name: kaz-ogiwara/covid19
-    web_name: Status of new coronavirus infections in Japan
-    web_url: https://toyokeizai.net/sp/visual/tko/covid19/
-    content: 新型コロナウイルス（COVID19）の国内における感染の状況を厚生労働省の報道発表資料からビジュアルにまとめた。
-    
-  - repo_name: swsoyee/2019-ncov-japan
-    web_url: https://covid-2019.live/
-    web_name: 新型コロナウイルス感染速報
-    content: 记录日本新冠肺炎发展情况的看板. A dashboard for situations about CoVid in Japen.
-
-  - repo_name: reustle/covid19japan
-    web_url: https://covid19japan.com
-    web_name: Japan COVID-19 Coronavirus Tracker
-    content: A metrics dashboard and outbreak map of COVID-19 in Japan.
-
-  - repo_name: djsharpnel/CancelledEventsByCOVID19_jp
-    content: Events cancelled or postponed due to COVID-19 infection in Japan
-    
-- group_name: Korea
-  repos:
-  - repo_name: soorichu/coronako
-    web_name: About 2019 Corona Virus for Korean
-    web_url: https://coronako.herokuapp.com/
-  - repo_name: parksw3/COVID19-Korea
-    content: Public line list and summaries of the COVID-19 outbreak in South Korea
-  - repo_name: LiveCoronaDetector/livecod
-    repo2_name: taeukme/covid-19-mask-map
-    web_name: Dashboard of COVID-19
-    web_url: https://livecorona.co.kr/
-    web2_name: Find nearby pharmacy and masks
-    web2_url: https://mask.livecorona.co.kr
-    content: Real time update
-
-- group_name: North America, US, Canada
-  repos:
-    - web_name: North America live map 
-      web_url: https://coronavirus.1point3acres.com/en
-      content: Coronavirus in US and Canada, Real Time Updates 肺炎疫情实时动态 · 北美 (一亩三分地)
-    - repo_name: COVID19Tracking/website
-      web_name: The COVID Tracking Project
-      web_url: https://covidtracking.com/
-      tags:
-      - api
-
-- group_name: Singapore
-  repos:
-  - repo_name: wentjun/covid-19-sg
-    web_name: covid-tracker.com
-    web_url: https://covid-tracker.com/
-    content: tracks the list of cases and cluster hotspots in Singapore
-  - repo_name: xming13/covid-19-sg
-    web_name: Visualisation for Singapore COVID cases
-    web_url: https://xming13.github.io/covid-19-sg/
-
-- group_name: Spanish
-  repos:
-  - web_name: Covid19 en Español Spanish Dashboard
-    web_url: https://covid19esp.herokuapp.com
-    content: "Coronavirus en Español - Panel de estadísticas en Español con los últimos datos recibidos."
-    tags:
-    - dashboard
-
-- group_name: UK
-  description: England
-  repos:
-  - repo_name: isjeffcom/coronvirusFigureUK
-    content: A data crawler for geting COVID-19 figure from NHS official website
-    tags:
-    - API
-  - repo_name: xshaun/covid-19-uk
-    web_name: Confirmed cases of coronavirus in UK
-    web_url: https://xshaun.github.io/covid-19-uk/
-    tags: 
-    - visualization
-  - repo_name: emmadoughty/Daily_COVID-19
-    content: Visualisation of official UK COVID-19 data
-  

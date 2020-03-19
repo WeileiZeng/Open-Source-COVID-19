@@ -81,6 +81,8 @@ from multiprocessing import Pool
 if __name__ == "__main__":
     pool=Pool(10)
     #much faster with pool
-    counting(pool,requests_session, "../_data/world.yml","group_name","../_data/summary_world.json")
+    counting(pool,requests_session, "../_data/global.yml","group_name","../_data/summary_global.json")
     counting(pool,requests_session, "../_data/china.yml","group_name","../_data/summary_china.json")
+    counting(pool,requests_session, "../_data/areas.yml","group_name","../_data/summary_areas.json")
+
 

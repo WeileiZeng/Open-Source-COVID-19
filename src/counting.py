@@ -130,12 +130,15 @@ def counting(requests_session, file_name,group_name,summary_file):
         f.write(jprint(statistics))
     # print('summary:',repos_count,' repos with ',stars_count,' stars in total.')
     
-file_name="../_data/world.yml"
-group_name="country"
+file_name="../_data/global.yml"
+group_name="group_name"
 
 #counting(requests_session, file_name,group_name)
-counting(requests_session, "../_data/world.yml","group_name","../_data/summary_world.json")
+counting(requests_session, "../_data/global.yml","group_name","../_data/summary_global.json")
 counting(requests_session, "../_data/china.yml","group_name","../_data/summary_china.json")
+counting(requests_session, "../_data/areas.yml","group_name","../_data/summary_areas.json")
+
+
 
 print("this script calculate the summary of wuhan page and world page. The summary has been saved in _data/*.yml, and will be loaded automatically. You can run this once a while after adding site regularly.\nThis one also update all shields and json file")
 
@@ -164,10 +167,17 @@ def update_summary_badge(page_name):
         print(url)
         save_filename='../assets/page_summary/'+page_name+'_'+k+'.svg'
         download_svg_by_url(url, save_filename)        
+    return summary
 
-    
-update_summary_badge('world')
-update_summary_badge('china')
+s1=update_summary_badge('global')
+s2=update_summary_badge('china')
+s3=update_summary_badge('areas')
+total={}
+for k in s1:
+    total[k]=s1[k]+s2[k]+s3[k]
+with open('../_data/summary_total.json','w') as f:
+    f.write( json.dumps(total, indent=2) )
+update_summary_badge('total')
 print("finish generate summary badge")
 
 

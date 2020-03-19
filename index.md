@@ -1,13 +1,13 @@
 ---
 comments: true
 ---
-As nCoV/COVID-19 spreads, so as the support from open source community. Here lists the projects supporting different areas all over the world.
-See also [projects for China 中国相关项目](china)
-<br>
-{% include page_summary_world.md %}
+
+{% include navigation.md %}
+
+{% include page_summary_global.md %}
 
 
-{% assign projects = site.data.world %}
+{% assign projects = site.data.global %}
 
 {% include projects.md %}
 
@@ -21,12 +21,7 @@ See also [projects for China 中国相关项目](china)
 
 
 
-### Site recommendation
-[Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/) collects all open source sites related to  nCoV/COVID-19. It is hosted on [GitHub](https://github.com/WeileiZeng/Open-Source-COVID-19). You are welcome to recommend a site by
-* [openning issue at GitHub](https://github.com/WeileiZeng/Open-Source-COVID-19/issues/)
-* or [contact me](https://weileizeng.com/news/1992/06/29/contact/)
-
-
+{% include site_recommendation.md %}
 
 
 

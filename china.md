@@ -2,8 +2,9 @@
 title: China
 comments: true
 ---
-China-based projects started and peaked 2 months earlier than [the world-based projects](index)
-<br>
+{% include navigation.md %}
+
+
 {% include page_summary_china.md %}
 
 
