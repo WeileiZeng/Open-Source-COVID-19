@@ -1,1 +1,1 @@
-| [Global](index) | [Countries/Areas](areas) | [China](china) | [About](about) |
+| <a href="index" name="top">Global</a> | [Countries/Areas](areas) | [China](china) | [About](about) |
