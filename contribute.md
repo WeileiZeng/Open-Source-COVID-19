@@ -2,7 +2,7 @@
 
 Thanks for your work to help the people in need! Your site has been added! I currently maintain the Open-Source-COVID-19 page, which collects all open source projects related to COVID-19, including maps, data, news, api, analysis, medical and supply information, etc. Please share to anyone who might need the information in the list, or will possibly contribute to some of those projects. You are also welcome to recommend more projects.
 
-https://weileizeng.github.io/Open-Source-COVID-19/
+http://open-source-covid-19.weileizeng.com/
 
 Cheers!
 
