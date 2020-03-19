@@ -99,7 +99,7 @@
     - map
 
 
-- group_name:  API,data
+- group_name:  API, data
   repos:
   - repo_name: ExpDev07/coronavirus-tracker-api
     content: An HTTP-based JSON API for tracking the development of the virus.
@@ -141,6 +141,8 @@
   - repo_name: javieraviles/covidAPI
     web_name: Coronavirus API for Current cases by country COVID-19
     web_url: https://coronavirus-19-api.herokuapp.com/
+    tags:
+    - api
    
 
 - group_name:  Analysis
