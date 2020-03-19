@@ -45,7 +45,7 @@ def get_list_of_repos():
                 #print(i['full_name'])
             #repos = repos + items
             #print(len(repos))
-
+    print('after removing duplicates, we got a list of size')  
     print(len(repos))
     return repos
     # now check the list to remove duplicates and forks
