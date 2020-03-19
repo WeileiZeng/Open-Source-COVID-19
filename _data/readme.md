@@ -1,6 +1,8 @@
 data files:
-* world.yml
-  * data entries for the projects in index.md and world.md(a copy)
+* global.yml
+  * projects applying to global scale
+* areas.yml
+  * projects focusing on some countries or areas
 * china.yml
   * data entries for the projects in china.md
 * unclassified.yml
