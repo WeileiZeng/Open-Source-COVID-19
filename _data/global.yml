@@ -99,7 +99,7 @@
     - map
 
 
-- group_name:  API/data
+- group_name:  API,data
   repos:
   - repo_name: ExpDev07/coronavirus-tracker-api
     content: An HTTP-based JSON API for tracking the development of the virus.
@@ -130,7 +130,18 @@
     content: API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
     tags:
     - api
-
+  - repo_name: sagarkarira/coronavirus-tracker-cli
+    content: Track conronavirus cases from command line.
+    tags:
+    - CLI
+  - repo_name: mathdroid/covid-19-api
+    content: COVID-19 global data (from JHU CSSE for now) as-a-service
+    tags:
+    - api
+  - repo_name: javieraviles/covidAPI
+    web_name: Coronavirus API for Current cases by country COVID-19
+    web_url: https://coronavirus-19-api.herokuapp.com/
+   
 
 - group_name:  Analysis
   repos:
