@@ -132,6 +132,9 @@
     - web_name: North America live map 
       web_url: https://coronavirus.1point3acres.com/en
       content: Coronavirus in US and Canada, Real Time Updates 肺炎疫情实时动态 · 北美 (一亩三分地)
+      tags:
+      - dashboard
+      - api
     - repo_name: COVID19Tracking/website
       web_name: The COVID Tracking Project
       web_url: https://covidtracking.com/
@@ -140,7 +143,7 @@
       
 - group_name: South America
   repos:
-  - repo_name: matiasmicheletto/covid19-autotest-uns/
+  - repo_name: matiasmicheletto/covid19-autotest-uns
     content: "[EN] A COVID-19 autotest web app with a configurable decision tree that logs the test result to a database. An administrator panel to set up the decision tree model and a dashboard to analyze the results. [ES-AR] Una aplicación web para autotest de COVID-19 con un árbol de decisión configurable que registra el resultado en una base de datos. Un panel administrador para configurar el arbol de decisión y un tablero para analizar los resultados."
     tags:
     - analysis
