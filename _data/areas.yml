@@ -154,6 +154,13 @@
     tags:
     - report
     area: Paraguay
+  - repo_name: turicas/covid19-br
+    web_name: Brazilian COVID19 confirmed/deaths per city
+    web_url: https://brasil.io/dataset/covid19
+    tags: 
+    - dashboard
+    - brazil
+    
 
 - group_name: Singapore
   repos:
