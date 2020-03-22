@@ -220,7 +220,13 @@
     content: data visualization, simple short-term prediction per country
     tags:
     - analysis
-
+  - repo_name: https://renkulab.io/gitlab/covid-19/covid-19-public-data
+    web_name: renku_covid
+    web_url: https://renkulab.io/projects/covid-19/covid-19-public-data
+    content: Collaborative project collecting data and analysis with built-in interactive compute environments.
+    tags:
+    - analysis
+    - data
 
 # others
   - repo_name: brentjackson/OpenIntubator
