@@ -97,7 +97,10 @@
     content: A map that allows people with COVID-19 to mark their past locations to warn others that might have come into contact with them.
     tags:
     - map
-
+  - repo_name: DykemaBill/virustracker
+    content: Python Flask application that displays virus information
+    tags:
+    - dashboard
 
 - group_name:  API, data
   repos:
@@ -148,7 +151,8 @@
     web_url: https://pypi.org/project/COVID19Py/
     tags:
     - data
-   
+
+
 
 - group_name:  Analysis
   repos:
