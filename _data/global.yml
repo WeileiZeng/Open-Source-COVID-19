@@ -214,6 +214,13 @@
     tags:
     - analysis
     - ipynb
+  - repo_name: https://github.com/jmoldon/coronavirus_analysis
+    web_name: cvid_report
+    web_url: https://jmoldon.github.io/coronavirus_analysis/cvid_report.html
+    content: data visualization, simple short-term prediction per country
+    tags:
+    - analysis
+
 
 # others
   - repo_name: brentjackson/OpenIntubator
