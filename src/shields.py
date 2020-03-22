@@ -13,6 +13,7 @@ requests_session= None
 
 import shutil
 def download_image(repo_name):
+    print(repo_name)
     [owner,name]=repo_name.split('/')
     save_folder='../assets/shields/'
     #save_folder='../'
@@ -72,7 +73,12 @@ def counting(pool, requests_session, file_name,group_name,summary_file):
             except KeyError:
                 #print('no repo2')
                 pass
-    pool.map(download_image,shields_repo_name)
+    debug = False #True
+    if debug:
+        for r in shields_repo_name :
+            download_image(r)            
+    else:
+        pool.map(download_image,shields_repo_name)
     
 
 #counting(requests_session, file_name,group_name)
