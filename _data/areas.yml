@@ -141,14 +141,7 @@
       tags:
       - api
       
-- group_name: Paraguay
-  repos:
-  - web_name: CovPY Auto Reporte
-    web_url: https://github.com/penguin-academy/covid-19-py
-    content: "This project was created as an initiative by Penguin Academy to build technology that smooths the peak impact of the COVID-19 pandemic on the Paraguayan Health System."
-    tags:
-    - report
-      
+
 - group_name: South America
   repos:
   - repo_name: matiasmicheletto/covid19-autotest-uns
@@ -156,6 +149,11 @@
     tags:
     - analysis
     area: Argentina, pcia. Buenos Aires, Bahía Blanca, Universidad Nacional del Sur - Región Sanitaria I.
+  - repo_name: penguin-academy/covid-19-py
+    content: "CovPY Auto Reporte. This project was created as an initiative by Penguin Academy to build technology that smooths the peak impact of the COVID-19 pandemic on the Paraguayan Health System."
+    tags:
+    - report
+    area: Paraguay
 
 - group_name: Singapore
   repos:
