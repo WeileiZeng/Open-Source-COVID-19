@@ -172,7 +172,20 @@
     content: "Coronavirus en Español - Panel de estadísticas en Español con los últimos datos recibidos."
     tags:
     - dashboard
-
+    
+- group_name: Switzerland
+  repos:
+  - repo_name: daenuprobst/covid19-cases-switzerland
+    content: Data from BAG Tweets made useful.
+    tags:
+    - data
+    - crowdsourced-list
+  - repo_name: openZH/covid_19
+    content: COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL)
+    tags:
+    - data
+    
+    
 - group_name: UK
   description: England
   repos:
