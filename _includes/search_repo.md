@@ -1,0 +1,1 @@
+| {{ repo.stargazers_count }} | {% if repo.fork  %} forked {% endif %}  | {{ repo.forks }} | <a href="https://github.com/{{ repo.full_name }}" target="_blank">{{ repo.full_name }}</a> |
