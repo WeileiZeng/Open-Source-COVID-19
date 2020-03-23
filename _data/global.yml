@@ -151,6 +151,12 @@
     web_url: https://pypi.org/project/COVID19Py/
     tags:
     - data
+  - repo_name: pomber/covid19
+    web_name: json timeseries
+    web_url: https://pomber.github.io/covid19/timeseries.json
+    content: JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
+    tags:
+    - api
 
 
 
