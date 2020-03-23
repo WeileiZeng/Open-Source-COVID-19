@@ -107,6 +107,17 @@
     content: Python Flask application that displays virus information
     tags:
     - dashboard
+  - repo_name: chschoenenberger/covid19_dashboard
+    web_name: COVID-19 Global Cases - Open Source Version
+    web_url: https://chschoenenberger.shinyapps.io/covid19_dashboard/
+    web2_name: Switzerland version
+    web2_url: https://chschoenenberger.shinyapps.io/covid19_dashboard_ch/
+    content: A global R shiny dashboard showing the evolution and current state of the COVID-19 pandemic including map, tables, and plots.
+    tags:
+    - dashboard
+Global, but there is also a version for
+
+
 
 - group_name:  API, data
   repos:
@@ -159,6 +170,13 @@
     content: JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
     tags:
     - api
+  - repo_name: backtrackbaba/covid-api
+    web_name: CovidAPI.info
+    web_url: https://CovidAPI.info
+    content: Blazingly fast, daily updated API's to interact with COVID19 dataset by Johns Hopkins University
+    tags:
+    - api
+
 
 
 - group_name:  Analysis
