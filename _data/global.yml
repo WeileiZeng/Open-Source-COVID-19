@@ -133,10 +133,6 @@
     content: API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
     tags:
     - api
-  - repo_name: sagarkarira/coronavirus-tracker-cli
-    content: Track conronavirus cases from command line.
-    tags:
-    - CLI
   - repo_name: mathdroid/covid-19-api
     content: COVID-19 global data (from JHU CSSE for now) as-a-service
     tags:
@@ -157,7 +153,6 @@
     content: JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
     tags:
     - api
-
 
 
 - group_name:  Analysis
@@ -246,7 +241,11 @@
     web_name: dashboard
     tags:
     - analysis
-    
+  - repo_name: FoldingAtHome/coronavirus
+    web_name: Folding@home COVID-19 efforts
+    web_url: http://foldingathome.org
+    tags:
+    - analysis
 
 # others
   - repo_name: brentjackson/OpenIntubator
@@ -256,8 +255,26 @@
     tags:
     - health    
     
-  
-  
+- group_name: Applications (apps, CLI)
+  repos:
+  - repo_name: julianschiavo/Covidcheck
+    content: Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use interface
+    tags:
+    - APP
+    - IOS
+  - repo_name: ahmadawais/corona-cli
+    web_name: twitter
+    web_url: https://twitter.com/MrAhmadAwais/
+    content: Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain in the command line. Both worldwide for all countries, for one country, or for the US States.
+    tags:
+    - CLI
+  - repo_name: sagarkarira/coronavirus-tracker-cli
+    content: Track conronavirus cases from command line.
+    tags:
+    - CLI
+
+
+
 - group_name: Life and Academic
   repos:
   - web_name: VIRTUAL APS MARCH 2020

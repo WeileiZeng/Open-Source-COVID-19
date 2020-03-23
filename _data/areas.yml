@@ -52,7 +52,15 @@
     content: Minimal webpage to display the most important info, numbers.
     tags: 
     - dashboard
-  
+
+- group_name: Israel
+  repos:
+  - repo_name: MohGovIL/hamagen-react-native
+    web_name: Ministry of Health
+    web_url: https://health.gov.il/
+    content: Israel’s Ministry of Health’s COVID-19 Exposure Prevention App
+
+
 - group_name: Italy
   repos:
   - repo_name: pcm-dpc/COVID-19
@@ -114,6 +122,11 @@
     
 - group_name: Korea
   repos:
+  - repo_name: ThisIsIsaac/COVID-19_Korea_Dataset
+    content: COVID-19 Korea Dataset & Comprehensive Medical Dataset & visualizer
+    tags:
+    - data
+    - dashboard
   - repo_name: soorichu/coronako
     web_name: About 2019 Corona Virus for Korean
     web_url: https://coronako.herokuapp.com/
