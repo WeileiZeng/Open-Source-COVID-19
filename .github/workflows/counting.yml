@@ -19,6 +19,8 @@ jobs:
         pip3 install --upgrade setuptools
         pip3 install -r requirement.txt
         python3 counting.py
+        cd heroes
+        python3 search_repo.py
 
 
     - name: Commit files

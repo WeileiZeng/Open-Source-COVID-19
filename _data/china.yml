@@ -17,8 +17,8 @@
   - repo_name: shfshanyue/2019-ncov
     web_name: 全国新型冠状病毒，肺炎疫情实时省市地图
     web_url: https://ncov.shanyue.tech
-  - repo_name: BlankerL/DXY-2019-nCoV-Crawler
-    repo2_name: BlankerL/DXY-2019-nCoV-Data
+  - repo_name: BlankerL/DXY-COVID-19-Crawler
+    repo2_name: BlankerL/DXY-COVID-19-Data
     web_name: 全国新型肺炎疫情实时数据API接口
     web_url: https://lab.isaaclin.cn/nCoV/
   - repo_name: cuihuan/2019_nCov
@@ -129,8 +129,11 @@
     content: using dynamic SEIR model which considers the parameters changing through time to fit data.
 
 
+
 - group_name: 技术组件 Technical tools
   repos:
+  - repo_name: yijunwang0805/YijunWang
+    content: COVID-19 infectious forecasting using SEIR model and R0 estimation
   - repo_name: laomocode/yiqin
     web_name: 疫情地图
     web_url: https://yiqin.zw2s.ltd/
