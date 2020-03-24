@@ -114,7 +114,19 @@ def remove_existed(repos, my_repos):
     print('raw size: '+ str(len(repos)))
     print('after removed: '+ str(len(repos2)))
     return repos2       
-        
+
+def reduce_repo_size(repos,min_stars):
+    # only remain necessary infor
+    keys=['full_name','stargazers_count','description','fork','forks']
+    repos_short=[]
+    for repo in repos:
+        if repo['stargazers_count'] > min_stars :
+            repo_temp={}
+            for k in keys:
+                repo_temp[k]=repo[k]
+            repos_short.append(repo_temp)
+    return repos_short
+
 my_repos = get_current_repos()
 
 keywords=['COVID','nCoV','covid19']
@@ -127,9 +139,9 @@ repos = remove_duplicates(repos)
 
 repos2 = remove_existed(repos, my_repos)
 
-
+repos3=reduce_repo_size(repos2, 10)
 #now save data
 
 with open("../../_data/github_search.yml","w") as f:
-    yaml.dump(repos2,f)
+    yaml.dump(repos3,f)
 print("done")

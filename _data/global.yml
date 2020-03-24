@@ -19,11 +19,6 @@
     tags:
     - dashboard
     - analysis
-  - repo_name: MhdHejazi/Corona
-    content: Coronavirus tracker app for iOS with maps & charts.
-    tags:
-    - app
-    - dashboard
   - repo_name: sorxrob/2019-ncov-api
     repo2_name: sorxrob/2019-ncov-frontend
     web_name: Map, data and timeline of coronavirus (COVID-19) 
@@ -92,11 +87,6 @@
     content: an interactive, animated COVID-19 coronavirus map
     tags:
     - map
-  - repo_name: Bost/corona_cases
-    web_url: https://t.me/corona_cases_bot
-    web_name: Coronavirus disease 2019 (COVID-19) information on Telegram Messenger
-    tags:
-    - app
   - repo_name: JanLikar/covid
     web_name: COVID Report
     web_url: https://www.covid-report.com
@@ -279,6 +269,12 @@
     
 - group_name: Applications (apps, CLI)
   repos:
+  - repo_name: MhdHejazi/Corona
+    content: Coronavirus tracker app for iOS with maps & charts.
+    tags:
+    - APP
+    - IOS
+    - dashboard
   - repo_name: julianschiavo/Covidcheck
     content: Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use interface
     tags:
@@ -294,6 +290,11 @@
     content: Track conronavirus cases from command line.
     tags:
     - CLI
+  - repo_name: Bost/corona_cases
+    web_url: https://t.me/corona_cases_bot
+    web_name: Coronavirus disease 2019 (COVID-19) information on Telegram Messenger
+    tags:
+    - APP
 
 
 
@@ -345,7 +346,7 @@
     web2_name: google sheet
     web2_url: https://docs.google.com/spreadsheets/d/1O3wnaFYSZCgY3Ih4yDw3EIH2SC_-vjhyHwrCQSy0J7M/htmlview?fbclid=IwAR3Z5VxuKicyB5h0dAIRhU5TtZq78dzFBZ45f8G7fI1sBhWEyFIj5rGibME#
     tags:
-    - Academic
+    - academic
   - repo_name: phildini/stayinghomeclub
     web_name: stayinghomeclub
     web_url: https://stayinghome.club/
