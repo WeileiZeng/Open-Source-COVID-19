@@ -105,6 +105,11 @@
     content: A global R shiny dashboard showing the evolution and current state of the COVID-19 pandemic including map, tables, and plots.
     tags:
     - dashboard
+  - repo_name: bonniesimon/corona.info 
+    web_name: corona.info
+    web_url: https://bonniesimon.github.io/corona.info/
+    tags:
+    - dashboard
 
 
 - group_name:  API, data
@@ -164,7 +169,7 @@
     content: Blazingly fast, daily updated API's to interact with COVID19 dataset by Johns Hopkins University
     tags:
     - API
-
+  
 
 
 - group_name:  Analysis
