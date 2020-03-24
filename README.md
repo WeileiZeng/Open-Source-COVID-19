@@ -27,6 +27,11 @@ This navigation site collects many open source projects during COVID-19. 10000+ 
 * Mar 17, 2020, add domain http://open-source-covid-19.weileizeng.com/ original domain https://weileizeng.github.io/Open-Source-COVID-19/
 * Mar 18, 2020, add navigation header and change layout, now have 3 pages: global, areas/countries, china.
 
+### Contribution
+* First, you are welcome to recommend more site!
+* Daily maintainer needed! ( I am adding 3-5 projects everyday, which would take 10-30 mins. sources are from PR, issues, and [search](http://open-source-covid-19.weileizeng.com/search)
+* You are welcome to add more functions to it, like sorting by tags, or OpenSourceHeroes ( an analysis on the growing contributions in open source community), and etc
+
 ### acknowledgement
 * [github api](https://developer.github.com/v3/search/#search-users)
 * [shields.io](https://shields.io/category/social)
