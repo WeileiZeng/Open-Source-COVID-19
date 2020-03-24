@@ -17,7 +17,9 @@ The goal of this navigation site is to help people access data, contribute to th
 * [lunux中国](https://linux.cn/article-11820-1.html)
 [机器之心](https://www.jiqizhixin.com/articles/2020-01-29-4)
 
-
+### Under development
+* [tags](tags) list projects by tags
+* [searching](search) Finding more projects by searching keywords on github.
 
 ### [what is open source?](https://opensource.com/resources/what-open-source)
 The term [open source](https://opensource.com/article/18/2/coining-term-open-source-software) refers to something people can modify and share because its design is publicly accessible.
