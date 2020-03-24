@@ -37,7 +37,7 @@
     content: with API
     tags:
     - dashboard
-    - api
+    - API
   - repo_name: kenlog/coronavirusinfections.org
     web_name: Coronavirus infections (COVID-19)
     web_url: https://coronavirusinfections.org/
@@ -112,7 +112,7 @@
   - repo_name: ExpDev07/coronavirus-tracker-api
     content: An HTTP-based JSON API for tracking the development of the virus.
     tags:
-    - api
+    - API
   - repo_name: ieee8023/covid-chestxray-dataset 
     content: We are building an open database of COVID-19 cases with chest X-ray or CT images.
     tags:
@@ -125,7 +125,7 @@
     web_name: COVID-2019 API, CoronaVirus 2019 Global Cases
     web_url: https://covid2019-api.herokuapp.com/
     tags:
-    - api
+    - API
   - web_name: Safecast
     web_url: https://safecast.org/covid19/
     web2_name: GitHub organization
@@ -133,20 +133,20 @@
     content: Open crowd-sourcing/sensing environmental project that began after the Fukushima meltdown to measure radiation, now doing air quality and assisting on COVID-19 issues with disaster response and community expertise and experience and developing some solutions as well.
     tags:
     - map
-    - api
+    - API
   - repo_name: NovelCOVID/API
     content: API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain
     tags:
-    - api
+    - API
   - repo_name: mathdroid/covid-19-api
     content: COVID-19 global data (from JHU CSSE for now) as-a-service
     tags:
-    - api
+    - API
   - repo_name: javieraviles/covidAPI
     web_name: Coronavirus API for Current cases by country COVID-19
     web_url: https://coronavirus-19-api.herokuapp.com/
     tags:
-    - api
+    - API
   - repo_name: Kamaropoulos/COVID19Py
     web_name: Python package to easily access up-to-date data about COVID-19
     web_url: https://pypi.org/project/COVID19Py/
@@ -157,13 +157,13 @@
     web_url: https://pomber.github.io/covid19/timeseries.json
     content: JSON time-series of coronavirus cases (confirmed, deaths and recovered) per country - updated daily
     tags:
-    - api
+    - API
   - repo_name: backtrackbaba/covid-api
     web_name: CovidAPI.info
     web_url: https://CovidAPI.info
     content: Blazingly fast, daily updated API's to interact with COVID19 dataset by Johns Hopkins University
     tags:
-    - api
+    - API
 
 
 
