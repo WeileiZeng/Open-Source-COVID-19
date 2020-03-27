@@ -18,6 +18,7 @@ jobs:
         cd src
         pip3 install --upgrade setuptools
         pip3 install -r requirement.txt
+        python3 tags.py
         python3 shields.py
 
 
