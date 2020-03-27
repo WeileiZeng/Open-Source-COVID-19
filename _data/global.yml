@@ -22,7 +22,11 @@
   - repo_name: WorldHealthOrganization/app
     content: WHO's open source build for COVID-19, under development
     tags:
-    - others
+    - organization
+  - repo_name: Tencent/TH_COVID19_International
+    content: COVID-19 Live Updates of Tencent Health
+    tags:
+    - organization
   - repo_name: sorxrob/2019-ncov-api
     repo2_name: sorxrob/2019-ncov-frontend
     web_name: Map, data and timeline of coronavirus (COVID-19) 
@@ -126,6 +130,13 @@
     content: We are building an open database of COVID-19 cases with chest X-ray or CT images.
     tags:
     - data
+  - repo_name: nytimes/covid-19-data
+    web_url: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+    web_name: New York times COVID-19 update
+    content: data repo
+    tags:
+    - data
+    - organization
   - repo_name: midas-network/COVID-19
     content: MIDAS 2019 Novel Coronavirus Repository
     tags:
