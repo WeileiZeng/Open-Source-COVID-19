@@ -1,3 +1,241 @@
+- group_name: others
+  repos:
+  - content: WHO's open source build for COVID-19, under development
+    repo_name: WorldHealthOrganization/app
+    tags:
+    - others
+  - content: This blog documents our attempt to construct a ventilator design for
+      use in a Flu Pandemic that can be made from readily available materials at the
+      last minute.
+    web_name: Pandemic Ventilator Project
+    web_url: https://panvent.blogspot.com/
+  - web_name: Coronavirus Tech Handbook
+    web_url: https://coronavirustechhandbook.com/
+  - content: List of coronavirus applications built in response to the COVID-19 virus
+      from Dec 2019
+    repo_name: abuuzayr/coronavirus-apps
+  - content: "(\u672A\u5F00\u6E90)"
+    web_name: "\u5168\u56FD\u6297\u51FB\u65B0\u51A0\u80BA\u708E\u9632\u62A4\u7269\u8D44\
+      \u4FE1\u606F\u4EA4\u6D41\u5E73\u53F0"
+    web_url: http://charity.foodblockchain.com.cn/?from=timeline&isappinstalled=0
+  - content: "\u5305\u542B\u5730\u7EA7\u5E02\u75AB\u60C5"
+    repo_name: sangyx/nCoV-Map
+    web_name: "nCoV-Map\uFF1A\u65B0\u578B\u80BA\u708E\u75AB\u60C5\u5730\u56FE"
+    web_url: http://106.13.58.203:4000/
+  - content: This repo holds the code for crawling the latest news on the pneumonia
+      virus from Clove doctor's website
+    repo_name: Programming-With-Love/2019-nCoV
+  - repo_name: lispczz/pneumonia
+    web_name: "\u4E2D\u56FD\u65B0\u578B\u51A0\u72B6\u75C5\u6BD2\u80BA\u708E\u5730\u7EA7\
+      \u5E02\u75AB\u60C5\u56FE"
+    web_url: https://lispczz.github.io/pneumonia/
+  - content: This public repository archives data over time from various public sources
+      on the web.
+    repo_name: globalcitizen/2019-wuhan-coronavirus-data
+  - content: "\u5173\u6CE8\u6B66\u6C49\u80BA\u708E2019\u65B0\u578B\u51A0\u72B6\u75C5\
+      \u6BD2\uFF082019-nCoV\uFF09\uFF0C\u6570\u636E\u53EF\u89C6\u5316\u611F\u67D3\u4EBA\
+      \u7FA4\u70ED\u70B9\u56FE\u3001\u8FC1\u5F99\u6269\u6563\u8F68\u8FF9\uFF0C\u4EE5\
+      \u63D0\u4F9B\u5E2E\u52A9\u5206\u6790\u75AB\u60C5\u3002 \u613F\u4E16\u754C\u5B89\
+      \u597D\u3002"
+    repo_name: veaba/ncov
+    web2_name: "2019-nCov\u65B0\u7248\u53EF\u89C6\u5316(\u5168\u5B9E\u65F6\u901A\u4FE1\
+      )"
+    web2_url: http://2019-ncov.datav.ai/
+    web_name: "2020-nCov\u611F\u67D3\u53EF\u89C6\u5316(\u79D1\u5B66\u4E0A\u7F51)"
+    web_url: http://2020-ncov.datav.ai/
+  - content: "\u65B0\u589E\u786E\u8BCA\u65B0\u578B\u51A0\u72B6\u75C5\u6BD2\u80BA\u708E\
+      \u7EDF\u8BA1\u6570\u636E\uFF08\u6BCF\u65E5\u66F4\u65B0\uFF09"
+    repo_name: 839Studio/Novel-Coronavirus-Updates
+  - content: "R \u8BED\u8A00\u5305\u83B7\u53D6\u65B0\u578B\u51A0\u72B6\u75C5\u6BD2\
+      \uFF082019-nCoV\uFF09\u6570\u636E"
+    repo2_name: pzhaonet/ncovr
+    repo_name: pzhaonet/ncov
+    web_name: "\u65B0\u578B\u51A0\u72B6\u75C5\u6BD2\u75AB\u60C5\u4FE1\u606F"
+    web_url: https://ncov2020.org/)
+  - content: "\u4E00\u4E2A\u6B66\u6C49\u80BA\u708E\u7684\u53EF\u89C6\u5316APP"
+    repo_name: Moyck/2019NCOV
+  - repo_name: JackieZheng/2019-nCoV
+    web_name: "\u5168\u56FD\u65B0\u578B\u80BA\u708E\u75AB\u60C5\u6BCF\u65E5\u6570\u636E\
+      \u52A8\u6001"
+    web_url: https://jackiezheng.github.io/2019-nCoV/web/index.html
+  - content: "\u83B7\u53D6\u65B0\u80BA\u708E\u5B9E\u65F6\u52A8\u6001App\uFF0C\u652F\
+      \u6301Android\u548CIOS\u3002"
+    repo_name: fluttercandies/ncov_2019
+  - repo_name: GuangchuangYu/nCov2019
+    web_name: query stats of infected coronavirus cases
+    web_url: https://mp.weixin.qq.com/s/_0D8ENb-4lGm4UV16Ok28A
+  - content: "2019-nCoV \u65B0\u51A0\u72B6\u75C5\u6BD2 2019-12-01\u81F3\u4ECA\u56FD\
+      \u5BB6\u3001\u7701\u3001\u5E02\u4E09\u7EA7\u6BCF\u65E5\u7EDF\u8BA1\u6570\u636E\
+      \uFF08\u652F\u6301\u63A5\u53E3\u8BFB\u53D6\uFF09"
+    repo_name: canghailan/Wuhan-2019-nCoV
+  - repo_name: green512/2019nCoV
+    web2_name: "\u75AB\u60C5\u65F6\u7A7A\u56FE"
+    web2_url: http://nwatch.top:8085/2019ncov/heatmaps.html
+    web_name: "\u75AB\u60C5\u6563\u70B9\u56FE"
+    web_url: http://nwatch.top:8085/2019ncov/index.html
+  - content: A time lapse of bubble map showing number of confirmed cases of COVID-19
+      around the globe starting from Jan 22nd. Additionally, a time series plot presents
+      cumulative count of confirmed, recovered, and deaths cases.
+    repo_name: liu-zoe/wuhancv
+    web_name: COVID-19 Outbreak
+    web_url: http://wh2019-ncov.herokuapp.com/
+  - content: Trending and map charts for COVID-19
+    repo_name: ohdarling/COVID-19-Charts
+    web_name: covid19.tk
+    web_url: https://covid19.tk
+  - web_name: "\u4E2A\u4EBA\u6C42\u52A9\u6574\u7406"
+    web_url: https://shimo.im/docs/vKV3tRCdkYkqykHv/read
+  - web_name: "\u65B0\u51A0\u80BA\u708E\u4E92\u52A9\u624B\u518C"
+    web_url: "https://shimo.im/docs/XYjcX9XxJJtxTDpr/read) \u65B0\u95FB\u8D44\u8BAF\
+      \u3001\u4E92\u52A9\u4FE1\u606F\u3001\u6C42\u63F4\u3001\u54A8\u8BE2\u7B49"
+  - content: "\u6536\u96C6\u81EA\u4E8C\u6708\u4E09\u65E5\u8D77\u5FAE\u535A\u5F00\u8BBE\
+      \u7684 _\u80BA\u708E\u60A3\u8005\u6C42\u52A9_ \u8D85\u7EA7\u8BDD\u9898\u4E2D\
+      \u5185\u7D2F\u8BA1\u51FA\u73B0\u8FC7\u7684\u51E0\u5343\u4EFD\u6765\u81EA\u75AB\
+      \u533A\u7684\u60A3\u8005\u6C42\u52A9."
+    repo_name: wuhancrisis/wuhancrisis.github.io
+    web_name: "\u6B66\u6C49\u540C\u80DE\u53E3\u7F69\u4E0B\u7684\u5450\u558A"
+    web_url: https://www.wuhancrisis.com
+  - web_name: "A2N-\u65B0\u578B\u51A0\u72B6\u75C5\u6BD2\u6700\u65B0\u75AB\u60C5\u4FE1\
+      \u606F\u5408\u96C6"
+    web_url: https://shimo.im/docs/9qrcKpDxHGttRkvP/read
+  - repo_name: wuhan2020/COVID-19-Nav
+    web_name: "2019-nCoV \u6B66\u6C49\u65B0\u51A0\u72B6\u75C5\u6BD2\u80BA\u708E\u75AB\
+      \u60C5\u4FE1\u606F\u5BFC\u822A"
+    web_url: http://nav.werty.cn/
+  - repo_name: byrwiki/jiayou
+    web_name: "\u4E3A2020\u65B0\u578B\u80BA\u708E\u75AB\u60C5\u6240\u505A\u4E13\u9898\
+      \u4FE1\u606F\u6574\u5408\u7AD9\u70B9"
+    web_url: http://jiayou.beiyouren.cn/jiayou
+  - repo_name: KikiLetGo/VirusBroadcast
+    web_name: "\u8BA1\u7B97\u673A\u4EFF\u771F\u7A0B\u5E8F\u544A\u8BC9\u4F60\u4E3A\u4EC0\
+      \u4E48\u73B0\u5728\u8FD8\u6CA1\u5230\u51FA\u95E8\u7684\u65F6\u5019"
+    web_url: https://www.bilibili.com/video/av86478875
+  - content: A telegram bot for WuhanPneumonia Status
+    repo_name: TheWanderingCoel/WuhanPneumoniaBotTelegram
+  - content: "\u652F\u6301\u4EAC\u4E1C\u9884\u7EA6-\u62A2\u8D2D-\u6210\u529F\u540E\
+      \u76F4\u63A5\u63D0\u4EA4\u8BA2\u5355\u7684\u5546\u54C1.[\u53E3\u7F69]"
+    repo_name: zhou-xiaojun/jd_mask
+  - content: "\u6B66\u6C49\u65B0\u578B\u51A0\u72B6\u75C5\u6BD2\u9632\u75AB-\u6570\u636E\
+      \u79D1\u5B66\u9879\u76EE COVID-19 Open Data"
+    repo_name: wuhan2020/Covid-19-data-science
+  - content: "Covid-19 estimation and forecast using statistical model; \u65B0\u578B\
+      \u51A0\u72B6\u75C5\u6BD2\u6B66\u6C49\u80BA\u708E\u7EDF\u8BA1\u6A21\u578B\u9884\
+      \u6D4B"
+    repo_name: YiranJing/Coronavirus-Epidemic-2019-nCov
+  - content: R code and documentation to estimate case fatality ratio of COVID-19
+      from cases outside China
+    repo_name: calthaus/ncov-cfr
+  - content: Population flow data for the study of Covid-19
+    repo_name: leiii/population_flow
+  - content: Pattern of early human-to-human transmission of Wuhan 2019-nCoV
+    repo_name: jriou/wcov
+  - content: using dynamic SEIR model which considers the parameters changing through
+      time to fit data.
+    repo_name: Eddie-yz/Coronavirus-modelling
+    web_name: Coronavirus-modelling
+    web_url: https://github.com/Eddie-yz/Coronavirus-modelling
+  - repo_name: zyq5945/diseasedataanalysis
+    web_name: "\u75BE\u75C5\u6570\u636E\u8FDB\u884C\u5206\u6790\u67E5\u770B\u7684\
+      HTML5\u7F51\u9875\u9879\u76EE"
+    web_url: https://zyq5945.github.io/diseasedataanalysis
+  - content: COVID-19 infectious forecasting using SEIR model and R0 estimation
+    repo_name: yijunwang0805/YijunWang
+  - content: "\u53EF\u5D4C\u5165\u7F51\u9875"
+    repo_name: laomocode/yiqin
+    web_name: "\u75AB\u60C5\u5730\u56FE"
+    web_url: https://yiqin.zw2s.ltd/
+  - repo_name: guanyilun/wuhan_viz
+    web_name: "\u6B66\u6C49\u80BA\u708E\u75AB\u60C5\u53EF\u89C6\u5316"
+    web_url: http://ncov.firslov.cn/
+  - repo_name: hack-fang/nCov
+    web_name: "2019\u65B0\u578B\u80BA\u708E\u75AB\u60C5\u5730\u56FE(\u5168\u56FD\u3001\
+      \u5B89\u5FBD\u3001\u6CB3\u5317\u3001\u6E56\u5317\u3001\u6D59\u6C5F)"
+    web_url: https://yiqing.ahusmart.com/
+  - web_name: Mainland News Outlets Coverage on 2019-nCoV
+    web_url: https://docs.google.com/document/d/1RqYvfEbLhcyH8rhw0xLpjc2w0JqPBQINzj3ORE-Jka0/edit?usp=sharing
+  - content: "\u5BF9\u5A92\u4F53\u62A5\u9053\u8FDB\u884C\u811A\u672C\u6293\u53D6\u7684\
+      markdown\u5B58\u6863\uFF0C\u53EF\u901A\u8FC7[GitBook](https://freewuhan2020.gitbook.io/wuhan2020/)\
+      \ \u6D4F\u89C8"
+    repo_name: SaveWuhan/NewsCoverageOnWuhan
+  - content: "\u672C\u9879\u76EE\u4E3B\u8981\u5C31\u4E2D\u56FD\u56FD\u5185\u5A92\u4F53\
+      \u5BF9\u65B0\u51A0\u80BA\u708E\uFF082019.12-\uFF09\u7684\u62A5\u9053\u8FDB\u884C\
+      \u5907\u4EFD\u3001\u5B58\u6863\u3002"
+    repo_name: lestweforget/wuhan2019
+  - web_name: "\u75AB\u60C5\u4E4B\u4E0B\u7684\u52B3\u52A8\u8005\u2014\u2014\u4E2D\u6587\
+      \u5A92\u4F53\u62A5\u9053\u6536\u96C6"
+    web_url: https://note.youdao.com/ynoteshare1/index.html?id=eee7c8c3d7b8b054dc94d8abd1a211d8&type=note
+  - content: "\u65E8\u5728\u4FDD\u5B58\u8206\u60C5\u7EBF\u7D22\uFF0C\u8BB0\u5F55\u4E2A\
+      \u4F53\u906D\u9047\uFF0C\u5206\u4E13\u9898\u7F16\u6392\u3002"
+    web_name: "Anti404 - 2019nCov\u4FE1\u606FICU(\u5916)"
+    web_url: https://shimo.im/docs/onq7MwVO6pf4FjA9/read
+  - content: "\u5206\u4E3A\u5A92\u4F53\u62A5\u9053\u3001\u81EA\u5A92\u4F53\u8BC4\u8BBA\
+      \u6216\u62A5\u9053\u3001\u70ED\u95E8\u5FAE\u535A\u3002"
+    web_name: "2020\u65B0\u578B\u51A0\u72B6\u75C5\u6BD2\u62A5\u9053\u6C47\u603B"
+    web_url: https://shimo.im/sheets/QjTYy6rgVV3WDRkh/MODOC/
+  - content: "\u6536\u5F55\u5FAE\u4FE1\u516C\u4F17\u53F7\u4E0A\u7684\u6587\u7AE0\uFF0C\
+      \u542B\u539F\u6587\u94FE\u63A5\u3001\u7F51\u9875\u5B58\u6863\u3001\u622A\u56FE\
+      \u5B58\u6863\u3002"
+    web_name: "\u516C\u4F17\u53F7\u6587\u7AE0\u5B58\u6863:2019-nCoV"
+    web_url: https://2019-ncov.sogiecn.com/
+  - repo_name: chinatimeline/chinatimeline.github.io
+    web_name: "\u65F6\u4EE3\u900F\u955C \u6B66\u6C49\u80BA\u708E\u75AB\u60C5"
+    web_url: https://chinatimeline.github.io/wuhan-coronavirus/
+  - web_name: Internet Archive for 2019 nCov
+    web_url: https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132
+  - repo_name: Academic-nCoV/2019-nCoV
+    web_name: "\u5173\u5FC32019-nCoV\u75AB\u60C5\uFF0C\u540C\u6B65\u56FD\u5916\uFF08\
+      \u5B66\u672F\u3001\u6B63\u5F0F\u7EC4\u7EC7\u3001\u6709\u5F71\u54CD\u529B\u7684\
+      \u5A92\u4F53\uFF09\u4FE1\u606F"
+    web_url: https://github.com/Academic-nCoV/2019-nCoV/wiki
+  - content: "\u5B98\u7F51\u516C\u793A\u6570\u636E\u6536\u96C6\u4E0E\u53EF\u89C6\u5316"
+    repo2_name: azurini/data_public
+    repo_name: WeileiZeng/red-cross
+    web-url: https://weileizeng.github.io/red-cross/
+    web_name: "\u6E56\u5317/\u6B66\u6C49\u7EA2\u5341\u5B57 \u4E91\u76D1\u5DE5\u5E73\
+      \u53F0"
+  - content: "\u7269\u8D44\u53D1\u653E\u6570\u636E\u53EF\u89C6\u5316\uFF0C\u6570\u636E\
+      \u6765\u81EA\u6B66\u6C49\u7EA2\u4F1A"
+    web_name: "\u6B66\u6C49\u5E02\u65B0\u51A0\u80BA\u708E\u75AB\u60C5\u9632\u63A7\u6307\
+      \u6325\u90E8\u53D1\u653E\u6350\u8D60\u7269\u8D44\u7EDF\u8BA1"
+    web_url: https://caysnuts.github.io/monitor/index.html
+  - content: "\u7F51\u7AD9\u6536\u5F55\u3001\u7FFB\u8BD1\u5168\u7403\u8303\u56F4\u5185\
+      \u5BF9\u4E8E2019\u65B0\u51A0\u75C5\u6BD2\u7684\u82F1\u6587\u3001\u897F\u8BED\
+      \u3001\u5FB7\u8BED\u7B49\u5176\u4ED6\u8BED\u79CD\u7684\u5BA2\u89C2\u62A5\u9053"
+    web_name: "2019\u65B0\u51A0\u80BA\u708E-\u5168\u7403\u62A5\u9053"
+    web_url: https://2019ncptoday.news.blog/
+  - content: "\u7ED9\u666E\u901A\u7528\u6237\u505A\u7684\u7F51\u7AD9\uFF0C\u7528\u6765\
+      \u8BB0\u5F55\u901D\u8005\u4FE1\u606F\uFF0C\u5E0C\u671B\u80FD\u83B7\u5F97\u771F\
+      \u5B9E\u7684\u6B7B\u4EA1\u60C5\u51B5\u3002"
+    web_name: "\u8BB0\u5F55\u80BA\u708E"
+    web_url: https://www.jilufeiyan.com/
+  - web_name: "\u672A\u88AB\u8BB0\u5F55\u7684TA\u4EEC"
+    web_url: https://www.notion.so/TA-2af4f6e044d94e4580d399dc1d9b2fc5
+  - content: The list was booming since late January and now covers many aspects of
+      needs.
+    web_name: See full list here.
+    web_url: china
+  - content: This is tracker and help information android application for the new
+      coronavirus (2019-nCoV).
+    repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
+  - repo_name: soorichu/coronako
+    web_name: About 2019 Corona Virus for Korean
+    web_url: https://coronako.herokuapp.com/
+  - content: Public line list and summaries of the COVID-19 outbreak in South Korea
+    repo_name: parksw3/COVID19-Korea
+  - content: Real time update
+    repo2_name: taeukme/covid-19-mask-map
+    repo_name: LiveCoronaDetector/livecod
+    web2_name: Find nearby pharmacy and masks
+    web2_url: https://mask.livecorona.co.kr
+    web_name: Dashboard of COVID-19
+    web_url: https://livecorona.co.kr/
+  - content: tracks the list of cases and cluster hotspots in Singapore
+    repo_name: wentjun/covid-19-sg
+    web_name: covid-tracker.com
+    web_url: https://covid-tracker.com/
+  - repo_name: xming13/covid-19-sg
+    web_name: Visualisation for Singapore COVID cases
+    web_url: https://xming13.github.io/covid-19-sg/
 - group_name: dashboard
   repos:
   - &id001
@@ -463,12 +701,6 @@
     repo_name: matiasmicheletto/covid19-autotest-uns
     tags:
     - analysis
-- group_name: others
-  repos:
-  - content: WHO's open source build for COVID-19, under development
-    repo_name: WorldHealthOrganization/app
-    tags:
-    - others
 - group_name: API
   repos:
   - *id012

@@ -61,9 +61,9 @@ for filename in filenames:
             projects = projects + repos
 print(len(projects))
 
-# get all tags
+# get all tags with corresponding projects
 tags={}
-
+tags['others']=[]
 for p in projects:
     try:
         for tag in p['tags']:
@@ -72,7 +72,9 @@ for p in projects:
             except KeyError:
                 tags[tag]=[p]
     except KeyError:
-        pass
+        # if the project doesn't have a tag.
+        tags['others'].append(p)
+
 #print tags
 tags_only=[]
 for k in tags:
@@ -80,6 +82,7 @@ for k in tags:
     print(k)
 
 
+#change dict to list
 tags_projects=[]
 for k,v in tags.items():
     group={ 'group_name':k,
