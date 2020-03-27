@@ -1,9 +1,5 @@
 - group_name: others
   repos:
-  - content: WHO's open source build for COVID-19, under development
-    repo_name: WorldHealthOrganization/app
-    tags:
-    - others
   - content: This blog documents our attempt to construct a ventilator design for
       use in a Flu Pandemic that can be made from readily available materials at the
       last minute.
@@ -709,8 +705,6 @@
     repo_name: matiasmicheletto/covid19-autotest-uns
     tags:
     - analysis
-<<<<<<< HEAD
-=======
 - group_name: organization
   repos:
   - content: WHO's open source build for COVID-19, under development
@@ -722,7 +716,6 @@
     tags:
     - organization
   - *id012
->>>>>>> ad7dab837dcf1984f08924767b5359f32c5fdc33
 - group_name: API
   repos:
   - *id013
