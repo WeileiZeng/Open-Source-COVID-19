@@ -6,7 +6,7 @@ title: About
 {% include page_summary_total.md %}
 
 ### About us
-Open Source COVID-19 collects open source projects during COVID-19. The projects are not necessarily hosted on GitHub, as long as it coroprates in an open source way, that everyone can access, inspect and improve it.
+Open Source COVID-19 collects open source projects during COVID-19. The projects are not necessarily hosted on GitHub, as long as it corporates in an open source way, that everyone can access, inspect and improve it.
 <br>
 The goal of this navigation site is to help people access data, contribute to the projects, and trigger new ideas.
 
@@ -14,8 +14,7 @@ The goal of this navigation site is to help people access data, contribute to th
 
 ### Media coverage:
 * [thenation.com](https://www.thenation.com/article/world/china-journalism-coronavirus/)
-* [lunux中国](https://linux.cn/article-11820-1.html)
-[机器之心](https://www.jiqizhixin.com/articles/2020-01-29-4)
+* [linux中国](https://linux.cn/article-11820-1.html), [机器之心](https://www.jiqizhixin.com/articles/2020-01-29-4)
 
 ### Under development
 * [tags](tags) list projects by tags
