@@ -44,6 +44,11 @@
     web_url: https://www.covid19india.org
     tags:
     - dashboard
+  - - repo_name: someshkar/covid19india-cluster
+      web_url: https://cluster.covid19india.org
+      web_name: COVID19 India Cluster Network
+      tags:
+      - analysis
   - repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
     content: This is tracker and help information android application for the new coronavirus (2019-nCoV).
   - repo_name: divy-work/covid19-pune
@@ -128,6 +133,7 @@
 - group_name: Korea
   repos:
   - repo_name: ThisIsIsaac/COVID-19_Korea_Dataset
+    repo2_name: ThisIsIsaac/Data-Science-for-COVID-19
     content: COVID-19 Korea Dataset & Comprehensive Medical Dataset & visualizer
     tags:
     - data
