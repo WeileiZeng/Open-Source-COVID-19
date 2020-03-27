@@ -534,6 +534,12 @@
     - API
     web_name: The COVID Tracking Project
     web_url: https://covidtracking.com/
+  - content: a Rest-API to get detailed figures about cases in Switzerland.
+    repo_name: apfeuti/covid19-rest
+    tags:
+    - API
+    web_name: API
+    web_url: https://covid19-rest.herokuapp.com
   - content: A data crawler for geting COVID-19 figure from NHS official website
     repo_name: isjeffcom/coronvirusFigureUK
     tags:
