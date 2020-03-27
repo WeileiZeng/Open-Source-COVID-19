@@ -338,7 +338,7 @@
   - *id007
   - *id008
   - *id009
-  - &id023
+  - &id024
     content: Data from BAG Tweets made useful.
     repo_name: daenuprobst/covid19-cases-switzerland
     tags:
@@ -630,6 +630,13 @@
     - APP
     web_name: Coronavirus disease 2019 (COVID-19) information on Telegram Messenger
     web_url: https://t.me/corona_cases_bot
+  - &id023
+    content: Contact-Tracing app for cities. Get alerts when you cross paths with
+      COVID-19.
+    repo_name: yonahforst/trackandtrace
+    tags:
+    - APP
+    - REACT NATIVE
 - group_name: IOS
   repos:
   - *id021
@@ -649,6 +656,9 @@
     tags:
     - CLI
   - *id003
+- group_name: REACT NATIVE
+  repos:
+  - *id023
 - group_name: academic
   repos:
   - content: A free community-driven virtual platform to support speakers at the 2020
@@ -695,7 +705,7 @@
     - crowdsourced-list
     web_name: A science-based cheatsheet
     web_url: https://www.coronaviruscheatsheet.org/
-  - &id024
+  - &id025
     content: Internship status of companies - COVID-19 outbreak
     repo_name: gcreddy42/hiring2020
     tags:
@@ -708,7 +718,7 @@
     - crowdsourced-list
     web_name: "Open Source COVID-19  \u6B66\u6C49\u5F00\u6E90"
     web_url: https://weileizeng.github.io/Open-Source-COVID-19/
-  - *id023
+  - *id024
 - group_name: WFH
   repos:
   - content: A list of all the companies WFH or events changed because of covid-19
@@ -717,7 +727,7 @@
     - WFH
     web_name: stayinghomeclub
     web_url: https://stayinghome.club/
-  - *id024
+  - *id025
 - group_name: lockdown
   repos:
   - content: Trying to gather all information about current restrictions in the different
