@@ -88,6 +88,7 @@
     tags:
     - dashboard
     - data
+    - organization
   - repo_name: ricnov/COVID-19-ITALY
     content: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Italy Data Repository by Johns Hopkins CSSE
     tags:
@@ -145,6 +146,7 @@
     tags:
     - dashboard
     - data
+    - organization
   - repo_name: kaz-ogiwara/covid19
     web_name: Status of new coronavirus infections in Japan
     web_url: https://toyokeizai.net/sp/visual/tko/covid19/
@@ -167,7 +169,7 @@
   - repo_name: djsharpnel/CancelledEventsByCOVID19_jp
     content: Events cancelled or postponed due to COVID-19 infection in Japan
     tags:
-    - crowdsource-list
+    - crowdsourced-list
     
 - group_name: Korea
   repos:
