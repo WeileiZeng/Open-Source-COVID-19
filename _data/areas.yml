@@ -254,7 +254,15 @@
     content: COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL)
     tags:
     - data
-    
+  - repo_name: apfeuti/covid19-rest
+    web_name: API
+    web_url: https://covid19-rest.herokuapp.com
+    content: a Rest-API to get detailed figures about cases in Switzerland.
+    tags:
+    - API
+
+
+
     
 - group_name: UK
   description: England
