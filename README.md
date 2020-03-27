@@ -1,6 +1,6 @@
 Tribute to all people in the open source community
 
-### Open Source COVID-19  [![Gitter](https://badges.gitter.im/OpenSourceCOVID-19/community.svg)](https://gitter.im/OpenSourceCOVID-19/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+### Open Source COVID-19  [![Gitter](https://badges.gitter.im/OpenSourceCOVID-19/community.svg)](https://gitter.im/OpenSourceCOVID-19/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3731437.svg)](https://doi.org/10.5281/zenodo.3731437)
 
 这个导航网站统计了开源平台上抵抗新冠肺炎的项目，是一个连结各个开源项目的入口。
 超过一万人参与了这个列表中的项目，并获得了超过一万颗星。
