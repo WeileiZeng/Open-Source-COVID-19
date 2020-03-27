@@ -117,7 +117,7 @@ def remove_existed(repos, my_repos):
 
 def reduce_repo_size(repos,min_stars):
     # only remain necessary infor
-    keys=['full_name','stargazers_count','description','fork','forks']
+    keys=['full_name','stargazers_count','description','fork','forks','homepage']
     repos_short=[]
     for repo in repos:
         if repo['stargazers_count'] > min_stars :
@@ -139,6 +139,7 @@ repos = remove_duplicates(repos)
 
 repos2 = remove_existed(repos, my_repos)
 
+# at least 10 stars
 repos3=reduce_repo_size(repos2, 10)
 #now save data
 
