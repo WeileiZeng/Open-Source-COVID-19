@@ -773,6 +773,12 @@
     - API
     web_name: CovidAPI.info
     web_url: https://CovidAPI.info
+  - content: JSON API exposing New York Times CSV dataset
+    repo_name: digiphilo/covid
+    tags:
+    - API
+    web_name: covapi nyt data explorer
+    web_url: https://covapi.herokuapp.com/
   - repo2_name: BlankerL/DXY-COVID-19-Data
     repo_name: BlankerL/DXY-COVID-19-Crawler
     tags:
