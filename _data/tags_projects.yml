@@ -11,7 +11,7 @@
     web2_url: http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
     web_name: Visual Dashboard (desktop)
     web_url: https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
-  - &id006
+  - &id010
     content: This is a Nextstrain build for novel coronavirus (nCoV)
     repo_name: nextstrain/ncov
     tags:
@@ -19,7 +19,7 @@
     - analysis
     web_name: ncov
     web_url: https://nextstrain.org/ncov
-  - &id008
+  - &id012
     repo2_name: sorxrob/2019-ncov-frontend
     repo_name: sorxrob/2019-ncov-api
     tags:
@@ -27,13 +27,13 @@
     - API
     web_name: Map, data and timeline of coronavirus (COVID-19)
     web_url: https://the2019ncov.com
-  - &id011
+  - &id016
     tags:
     - dashboard
     - news
     web_name: "Wikipedia - 2019\u201320 coronavirus outbreak"
     web_url: https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak
-  - &id009
+  - &id013
     content: with API
     repo_name: JohnCoene/coronavirus
     tags:
@@ -100,7 +100,7 @@
     - dashboard
     web_name: corona.info
     web_url: https://bonniesimon.github.io/corona.info/
-  - &id016
+  - &id021
     content: Coronavirus tracker app for iOS with maps & charts.
     repo_name: MhdHejazi/Corona
     tags:
@@ -114,6 +114,39 @@
     - dashboard
     - data
     - CLI
+  - content: "\u65B0\u578B\u51A0\u72B6\u75C5\u6BD2\u9632\u75AB\u4FE1\u606F\u6536\u96C6\
+      \u5E73\u53F0"
+    repo_name: wuhan2020/wuhan2020
+    tags:
+    - dashboard
+    web_name: wuhan2020
+    web_url: https://wh.opensource-service.cn/#/
+  - content: "\u9762\u5411\u75AB\u533A\u5185\u5916\u6C11\u4F17\u548C\u533B\u7597\u673A\
+      \u6784\u7684\u591A\u7EF4\u5EA6\u4FE1\u606F\u6574\u5408\u5E73\u53F0"
+    repo_name: wuhan-support/wuhan.support
+    tags:
+    - dashboard
+    web_name: feiyan.help
+    web_url: https://feiyan.help
+  - repo_name: shfshanyue/2019-ncov
+    tags:
+    - dashboard
+    web_name: "\u5168\u56FD\u65B0\u578B\u51A0\u72B6\u75C5\u6BD2\uFF0C\u80BA\u708E\u75AB\
+      \u60C5\u5B9E\u65F6\u7701\u5E02\u5730\u56FE"
+    web_url: https://ncov.shanyue.tech
+  - repo_name: cuihuan/2019_nCov
+    tags:
+    - dashboard
+    web_name: "2019-nCov \u6B66\u6C49\u65B0\u578B\u51A0\u72B6\u75C5\u6BD2\u53EF\u89C6\
+      \u5316"
+    web_url: http://cuihuan.net/wuhan/news.html
+  - &id014
+    repo_name: dsfsi/covid19za
+    tags:
+    - dashboard
+    - API
+    web_name: COVID 19 Data and Dashboard for South Africa
+    web_url: https://bitly.com/covid19za-dash
   - &id004
     content: French project that aims to consolidate official informations, and making
       it available in open and easily reusable formats. The project also provides
@@ -142,13 +175,81 @@
     web_name: Covid-19 India Tracker
     web_url: https://covid19-in.netlify.com/
   - &id005
+    content: Dati COVID-19 Italia. Official data and dashboard maintained by Italian
+      goverment
+    repo_name: pcm-dpc/COVID-19
+    tags:
+    - dashboard
+    - data
+    web_name: Dipartimento della Protezione Civile (Italy Dashboard)
+    web_url: http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1
+  - &id006
+    repo2_name: alessiodl/COVID19Feed2Json
+    repo_name: alessiodl/COVID19Dashboard
+    tags:
+    - dashboard
+    - data
+    web_name: COVID19Dashboard
+    web_url: https://alessiodl.github.io/COVID19Dashboard/dist/index.html
+  - content: A dashboard of the active cases, death and recovered cases in Italy.
+      The site includes also historical data and is constantly updated.
+    repo_name: sasso0101/coronavirus
+    tags:
+    - dashboard
+    web_name: Coronaviruslive italia
+    web_url: https://coronaviruslive.it/
+  - content: for regional breakdown of coronavirus trend in Italy.
+    repo_name: doppioandante/covid_andamento_regionale
+    tags:
+    - dashboard
+    web_name: Dashboard
+    web_url: https://enrico.acqua.team/covid-19/
+  - tags:
+    - dashboard
+    web_name: Dashboard for Corona Virus Italia COVID-19
+    web_url: https://public.tableau.com/profile/giovanni.caputo#!/vizhome/COVID-19_15836095988890/NewDashboard
+  - &id007
+    content: "\u6771\u4EAC\u90FD \u65B0\u578B\u30B3\u30ED\u30CA\u30A6\u30A4\u30EB\u30B9\
+      \u611F\u67D3\u75C7\u5BFE\u7B56\u30B5\u30A4\u30C8"
+    repo_name: tokyo-metropolitan-gov/covid19
+    tags:
+    - dashboard
+    - data
+    web_name: Tokyo COVID-19 Task Force website
+    web_url: https://stopcovid19.metro.tokyo.lg.jp/
+  - &id008
+    content: "\u65B0\u578B\u30B3\u30ED\u30CA\u30A6\u30A4\u30EB\u30B9\uFF08COVID19\uFF09\
+      \u306E\u56FD\u5185\u306B\u304A\u3051\u308B\u611F\u67D3\u306E\u72B6\u6CC1\u3092\
+      \u539A\u751F\u52B4\u50CD\u7701\u306E\u5831\u9053\u767A\u8868\u8CC7\u6599\u304B\
+      \u3089\u30D3\u30B8\u30E5\u30A2\u30EB\u306B\u307E\u3068\u3081\u305F\u3002"
+    repo_name: kaz-ogiwara/covid19
+    tags:
+    - dashboard
+    - data
+    web_name: Status of new coronavirus infections in Japan
+    web_url: https://toyokeizai.net/sp/visual/tko/covid19/
+  - content: "\u8BB0\u5F55\u65E5\u672C\u65B0\u51A0\u80BA\u708E\u53D1\u5C55\u60C5\u51B5\
+      \u7684\u770B\u677F. A dashboard for situations about CoVid in Japen."
+    repo_name: swsoyee/2019-ncov-japan
+    tags:
+    - dashboard
+    web_name: "\u65B0\u578B\u30B3\u30ED\u30CA\u30A6\u30A4\u30EB\u30B9\u611F\u67D3\u901F\
+      \u5831"
+    web_url: https://covid-2019.live/
+  - content: A metrics dashboard and outbreak map of COVID-19 in Japan.
+    repo_name: reustle/covid19japan
+    tags:
+    - dashboard
+    web_name: Japan COVID-19 Coronavirus Tracker
+    web_url: https://covid19japan.com
+  - &id009
     content: COVID-19 Korea Dataset & Comprehensive Medical Dataset & visualizer
     repo2_name: ThisIsIsaac/Data-Science-for-COVID-19
     repo_name: ThisIsIsaac/COVID-19_Korea_Dataset
     tags:
     - data
     - dashboard
-  - &id010
+  - &id015
     content: "Coronavirus in US and Canada, Real Time Updates \u80BA\u708E\u75AB\u60C5\
       \u5B9E\u65F6\u52A8\u6001 \xB7 \u5317\u7F8E (\u4E00\u4EA9\u4E09\u5206\u5730)"
     tags:
@@ -168,6 +269,10 @@
     - dashboard
     web_name: "Covid19 en Espa\xF1ol Spanish Dashboard"
     web_url: https://covid19esp.herokuapp.com
+  - content: Visualisation of official UK COVID-19 data
+    repo_name: emmadoughty/Daily_COVID-19
+    tags:
+    - dashboard
 - group_name: data
   repos:
   - *id001
@@ -186,7 +291,7 @@
     - data
     web_name: Python package to easily access up-to-date data about COVID-19
     web_url: https://pypi.org/project/COVID19Py/
-  - &id007
+  - &id011
     content: Collaborative project collecting data and analysis with built-in interactive
       compute environments.
     tags:
@@ -196,8 +301,44 @@
     web_url: https://renkulab.io/projects/covid-19/covid-19-public-data
   - *id003
   - *id004
+  - content: All officially confirmed cases of infection in Germany. Listed by federal
+      state, case number, date, county and source.
+    repo_name: iceweasel1/COVID-19-Germany
+    tags:
+    - data
+  - content: "Israel\u2019s Ministry of Health\u2019s COVID-19 Exposure Prevention\
+      \ App"
+    repo_name: MohGovIL/hamagen-react-native
+    tags:
+    - data
+    web_name: Ministry of Health
+    web_url: https://health.gov.il/
   - *id005
-  - &id018
+  - content: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Italy Data Repository by
+      Johns Hopkins CSSE
+    repo_name: ricnov/COVID-19-ITALY
+    tags:
+    - data
+  - *id006
+  - content: Historical data about Covid19 epidemic in Italy
+    repo_name: DavideMagno/ItalianCovidData
+    tags:
+    - data
+  - content: Repository of data related to spread of COVID-19 in Italy.
+    repo_name: carlotorniai/COVID-19-Italy
+    tags:
+    - data
+  - content: Health information on coronavirus infections with detailed statistics
+      from Italy. The data can be exported in 7 different formats.
+    repo_name: kenlog/italy.coronavirusinfections.org
+    tags:
+    - data
+    web_name: Italy Coronavirus infections (COVID-19)
+    web_url: https://italy.coronavirusinfections.org/
+  - *id007
+  - *id008
+  - *id009
+  - &id023
     content: Data from BAG Tweets made useful.
     repo_name: daenuprobst/covid19-cases-switzerland
     tags:
@@ -210,7 +351,7 @@
     - data
 - group_name: analysis
   repos:
-  - *id006
+  - *id010
   - content: covid-19-analysis
     repo_name: AaronWard/covid-19-analysis
     tags:
@@ -231,7 +372,7 @@
     - analysis
     web_name: Modeling COVID-19 Spread vs Healthcare Capacity
     web_url: https://alhill.shinyapps.io/COVID19seir/
-  - &id013
+  - &id018
     content: COVID-19 Biohackathon April 5-11 2020
     repo_name: virtual-biohackathons/covid-19-bh20
     tags:
@@ -264,7 +405,7 @@
     repo_name: elcronos/COVID-19
     tags:
     - analysis
-  - &id014
+  - &id019
     content: API & Webapp to answer questions about COVID-19. Using NLP (Question
       Answering) and trusted, curated data sources.
     repo_name: deepset-ai/COVID-QA
@@ -273,7 +414,7 @@
     - AI
     web_name: corona scholar
     web_url: https://covid.deepset.ai/
-  - &id015
+  - &id020
     content: "Dados e plots sobre as informa\xE7\xF5es do Corona Virus levantadas\
       \ pelo Peixe Babel."
     repo_name: peixebabel/COVID-19
@@ -286,7 +427,7 @@
     - analysis
     web_name: covid_report
     web_url: https://jmoldon.github.io/coronavirus_analysis/cvid_report.html
-  - *id007
+  - *id011
   - content: Wolfram Language code and notebooks related to the coronavirus outbreak
     repo_name: arnoudbuzing/wolfram-coronavirus
     tags:
@@ -324,8 +465,8 @@
     - analysis
 - group_name: API
   repos:
-  - *id008
-  - *id009
+  - *id012
+  - *id013
   - content: An HTTP-based JSON API for tracking the development of the virus.
     repo_name: ExpDev07/coronavirus-tracker-api
     tags:
@@ -335,7 +476,7 @@
     - API
     web_name: COVID-2019 API, CoronaVirus 2019 Global Cases
     web_url: https://covid2019-api.herokuapp.com/
-  - &id012
+  - &id017
     content: Open crowd-sourcing/sensing environmental project that began after the
       Fukushima meltdown to measure radiation, now doing air quality and assisting
       on COVID-19 issues with disaster response and community expertise and experience
@@ -375,7 +516,19 @@
     - API
     web_name: CovidAPI.info
     web_url: https://CovidAPI.info
-  - *id010
+  - repo2_name: BlankerL/DXY-COVID-19-Data
+    repo_name: BlankerL/DXY-COVID-19-Crawler
+    tags:
+    - API
+    web_name: "\u5168\u56FD\u65B0\u578B\u80BA\u708E\u75AB\u60C5\u5B9E\u65F6\u6570\u636E\
+      API\u63A5\u53E3"
+    web_url: https://lab.isaaclin.cn/nCoV/
+  - *id014
+  - content: COVID data in Italy (csv files and json API)
+    repo_name: ondata/covid19italia
+    tags:
+    - API
+  - *id015
   - repo_name: COVID19Tracking/website
     tags:
     - API
@@ -387,7 +540,29 @@
     - API
 - group_name: news
   repos:
-  - *id011
+  - *id016
+  - content: "2020\u65B0\u51A0\u80BA\u708E\u8BB0\u5FC6:\u4F20\u5A92\u62A5\u9053\u4E0E\
+      \u975E\u865A\u6784\u5199\u4F5C(\u6301\u7EED\u66F4\u65B0) Memory of 2020 nCov:Media\
+      \ reports and Non-fiction Writings (Continuously updating)"
+    repo_name: 2019ncovmemory/nCovMemory
+    tags:
+    - news
+    web_name: nCoVMemory
+    web_url: https://2019ncovmemory.github.io/nCovMemory/
+  - content: "Every individual matters. Every individual has a role to play. \u5907\
+      \u4EFD\u666E\u901A\u4EBA\u5728\u75AB\u60C5\u671F\u95F4\u7684\u8BB0\u5F55\u3002"
+    repo_name: jiayiliujiayi/2020nCov_individual_archives
+    tags:
+    - news
+    web_name: 2020 Wuhan Individual Stories
+    web_url: https://2020ncov-individual-archives.netlify.com/
+  - content: "\u8BB0\u5F55\u81EA2019\u5E7412\u6708\u8D77\u6B66\u6C49\u65B0\u51A0\u80BA\
+      \u708E\u75AB\u60C5\u8FDB\u5C55\u7684\u65F6\u95F4\u7EBF"
+    repo_name: Pratitya/wuhan2020-timeline
+    tags:
+    - news
+    web_name: wuhan2020 timeline
+    web_url: https://pratitya.github.io/wuhan2020-timeline/
 - group_name: map
   repos:
   - repo_name: kiang/covid19-border-controls
@@ -409,16 +584,23 @@
     - map
     web_name: COVID Report
     web_url: https://www.covid-report.com
-  - *id012
+  - *id017
+  - content: According to Iranian Ministry of Health statistics. A simple page featuring
+      an interactive map presenting nCoV-19 spread in Iran
+    repo_name: par6n/ncov-19
+    tags:
+    - map
+    web_name: COVID-19 Virus Map in Iran
+    web_url: https://corona.rade.ir/
 - group_name: hackathon
   repos:
-  - *id013
+  - *id018
 - group_name: AI
   repos:
-  - *id014
+  - *id019
 - group_name: ipynb
   repos:
-  - *id015
+  - *id020
 - group_name: health
   repos:
   - content: Open source webapp that let people report their health status to get
@@ -435,8 +617,8 @@
     web_url: https://github.com/brentjackson/OpenIntubator/wiki
 - group_name: APP
   repos:
-  - *id016
-  - &id017
+  - *id021
+  - &id022
     content: Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use
       interface
     repo_name: julianschiavo/Covidcheck
@@ -450,8 +632,8 @@
     web_url: https://t.me/corona_cases_bot
 - group_name: IOS
   repos:
-  - *id016
-  - *id017
+  - *id021
+  - *id022
 - group_name: CLI
   repos:
   - content: Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain
@@ -513,13 +695,20 @@
     - crowdsourced-list
     web_name: A science-based cheatsheet
     web_url: https://www.coronaviruscheatsheet.org/
-  - &id019
+  - &id024
     content: Internship status of companies - COVID-19 outbreak
     repo_name: gcreddy42/hiring2020
     tags:
     - crowdsourced-list
     - WFH
-  - *id018
+  - content: "A collection of all Open Source project for defending Wuhan/world during\
+      \ COVID-19 \u652F\u63F4\u6B66\u6C49\u5F00\u6E90\u9879\u76EE\u6C47\u603B"
+    repo_name: WeileiZeng/Open-Source-COVID-19
+    tags:
+    - crowdsourced-list
+    web_name: "Open Source COVID-19  \u6B66\u6C49\u5F00\u6E90"
+    web_url: https://weileizeng.github.io/Open-Source-COVID-19/
+  - *id023
 - group_name: WFH
   repos:
   - content: A list of all the companies WFH or events changed because of covid-19
@@ -528,7 +717,7 @@
     - WFH
     web_name: stayinghomeclub
     web_url: https://stayinghome.club/
-  - *id019
+  - *id024
 - group_name: lockdown
   repos:
   - content: Trying to gather all information about current restrictions in the different
@@ -621,6 +810,12 @@
     - community
     web_name: "COVID-19 Slack workspaces \u2013 International overview"
     web_url: https://bit.ly/3bizew3
+- group_name: crowdsource-list
+  repos:
+  - content: Events cancelled or postponed due to COVID-19 infection in Japan
+    repo_name: djsharpnel/CancelledEventsByCOVID19_jp
+    tags:
+    - crowdsource-list
 - group_name: report
   repos:
   - area: Paraguay

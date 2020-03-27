@@ -7,7 +7,7 @@ comments: true
 <a name="top" id="top"></a>
 {% include page_summary_total.md %}
 
-Here lists all projects classified by tags. A project may appear under multiple tags.
+Here lists all projects classified by tags. A project may appear under multiple tags. Help me to add [more.](https://github.com/WeileiZeng/Open-Source-COVID-19/issues/68)
 {% assign tags_sorted = site.data.tags | sort %}{% for tag in tags_sorted %}
 <button type="button" style="background-color:#83E583;color=#F392F3" onclick='myFunction("{{ tag | downcase }}")'>{{tag}}</button> {% endfor %}
 

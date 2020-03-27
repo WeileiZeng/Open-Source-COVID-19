@@ -3,11 +3,17 @@
 - group_name: 综合平台 Integrated platform
   repos:
   - repo_name: wuhan2020/wuhan2020
-    web_name: 新型冠状病毒防疫信息收集平台
+    web_name: wuhan2020
+    content: 新型冠状病毒防疫信息收集平台
     web_url: https://wh.opensource-service.cn/#/
+    tags:
+    - dashboard
   - repo_name: wuhan-support/wuhan.support
     web_url: https://feiyan.help
-    web_name: 面向疫区内外民众和医疗机构的多维度信息整合平台
+    web_name: feiyan.help
+    content: 面向疫区内外民众和医疗机构的多维度信息整合平台
+    tags:
+    - dashboard
   - web_name: 全国抗击新冠肺炎防护物资信息交流平台
     web_url: http://charity.foodblockchain.com.cn/?from=timeline&isappinstalled=0
     content: (未开源)
@@ -17,13 +23,19 @@
   - repo_name: shfshanyue/2019-ncov
     web_name: 全国新型冠状病毒，肺炎疫情实时省市地图
     web_url: https://ncov.shanyue.tech
+    tags:
+    - dashboard
   - repo_name: BlankerL/DXY-COVID-19-Crawler
     repo2_name: BlankerL/DXY-COVID-19-Data
     web_name: 全国新型肺炎疫情实时数据API接口
     web_url: https://lab.isaaclin.cn/nCoV/
+    tags:
+    - API
   - repo_name: cuihuan/2019_nCov
     web_name: 2019-nCov 武汉新型冠状病毒可视化
     web_url: http://cuihuan.net/wuhan/news.html
+    tags:
+    - dashboard
   - repo_name: sangyx/nCoV-Map
     web_name: nCoV-Map：新型肺炎疫情地图
     web_url: http://106.13.58.203:4000/
@@ -95,6 +107,8 @@
   - repo_name: WeileiZeng/Open-Source-COVID-19
     web_name: Open Source COVID-19  武汉开源
     web_url: https://weileizeng.github.io/Open-Source-COVID-19/
+    tags:
+    - crowdsourced-list
     content: A collection of all Open Source project for defending Wuhan/world during COVID-19 支援武汉开源项目汇总
   - repo_name: byrwiki/jiayou
     web_name: 为2020新型肺炎疫情所做专题信息整合站点
@@ -154,10 +168,14 @@
     web_name: nCoVMemory
     web_url: https://2019ncovmemory.github.io/nCovMemory/
     content: 2020新冠肺炎记忆:传媒报道与非虚构写作(持续更新) Memory of 2020 nCov:Media reports and Non-fiction Writings (Continuously updating)
+    tags:
+    - news
   - repo_name: jiayiliujiayi/2020nCov_individual_archives
     web_name: 2020 Wuhan Individual Stories
     web_url: https://2020ncov-individual-archives.netlify.com/
     content: Every individual matters. Every individual has a role to play. 备份普通人在疫情期间的记录。
+    tags:
+    - news
   - web_name: Mainland News Outlets Coverage on 2019-nCoV
     web_url: https://docs.google.com/document/d/1RqYvfEbLhcyH8rhw0xLpjc2w0JqPBQINzj3ORE-Jka0/edit?usp=sharing
   - repo_name: SaveWuhan/NewsCoverageOnWuhan
@@ -179,7 +197,11 @@
     web_name: 时代透镜 武汉肺炎疫情
     web_url: https://chinatimeline.github.io/wuhan-coronavirus/
   - repo_name: Pratitya/wuhan2020-timeline
+    web_name: wuhan2020 timeline
+    web_url: https://pratitya.github.io/wuhan2020-timeline/
     content: 记录自2019年12月起武汉新冠肺炎疫情进展的时间线
+    tags:
+    - news
   - web_name:  Internet Archive for 2019 nCov
     web_url: https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132
   - repo_name: Academic-nCoV/2019-nCoV

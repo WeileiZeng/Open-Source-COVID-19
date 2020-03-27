@@ -31,3 +31,6 @@ Some software has source code that only the person, team, or organization who cr
   - Some platform like facebook or wechat may block the domain github.io. I created another link to avoid such problem. Visit [https://cli.im/ARTwYZ](https://cli.im/ARTwYZ) and share.
 - Can I submit my own project?
   - Self-submission are welcome.
+- Citation
+  - You are welcome to link or mention this site in your projects. If you need a formal citation, you can use the DOI identifier 
+  <a alt="DOI" href="https://doi.org/10.5281/zenodo.3731437" target="_blank"> <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3731437.svg" align="top"> </a>
