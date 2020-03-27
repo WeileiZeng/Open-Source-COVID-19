@@ -263,6 +263,14 @@
     web_url: http://foldingathome.org
     tags:
     - analysis
+  - repo_name: BustByte/coronastatus
+    content: Open source webapp that let people report their health status to get overview of COVID-19
+    tags:
+    - health
+  - repo_name: lindawangg/COVID-Net
+    content: COVID-Net model for COVID-19 detection on COVIDx dataset
+    tags:
+    - analysis
 
 # others
   - repo_name: brentjackson/OpenIntubator
@@ -300,6 +308,12 @@
     web_name: Coronavirus disease 2019 (COVID-19) information on Telegram Messenger
     tags:
     - APP
+  - repo_name: AaronWard/covidify
+    content: Covidify - corona virus report and dataset generator for python
+    tags:
+    - dashboard
+    - data
+    - CLI
 
 
 
@@ -363,6 +377,12 @@
     content: A list of all the companies WFH or events changed because of covid-19
     tags:
     - WFH
+  - repo_name: gcreddy42/hiring2020
+    content: Internship status of companies - COVID-19 outbreak
+    tags:
+    - crowdsourced-list
+    - WFH
+
   - repo_name: thebeardbe/areweinlockdown-com
     web_name: Are we in lockdown
     web_url: https://areweinlockdown.com
