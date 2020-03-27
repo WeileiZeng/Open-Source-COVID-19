@@ -39,6 +39,11 @@
 
 - group_name: India
   repos:
+  - repo_name: covid19india/covid19india-react
+    web_name: INDIA COVID-19 TRACKER
+    web_url: https://www.covid19india.org
+    tags:
+    - dashboard
   - repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
     content: This is tracker and help information android application for the new coronavirus (2019-nCoV).
   - repo_name: divy-work/covid19-pune
