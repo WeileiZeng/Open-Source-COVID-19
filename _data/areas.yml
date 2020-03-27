@@ -7,6 +7,9 @@
   - repo_name: dsfsi/covid19za
     web_name: COVID 19 Data and Dashboard for South Africa
     web_url: https://bitly.com/covid19za-dash
+    tags:
+    - dashboard
+    - API
 
 - group_name: China
   repos:
@@ -29,6 +32,8 @@
   repos:
   - repo_name: iceweasel1/COVID-19-Germany
     content: All officially confirmed cases of infection in Germany. Listed by federal state, case number, date, county and source.
+    tags:
+    - data
 
 - group_name: Iran
   repos:
@@ -44,11 +49,11 @@
     web_url: https://www.covid19india.org
     tags:
     - dashboard
-  - - repo_name: someshkar/covid19india-cluster
-      web_url: https://cluster.covid19india.org
-      web_name: COVID19 India Cluster Network
-      tags:
-      - analysis
+  - repo_name: someshkar/covid19india-cluster
+    web_url: https://cluster.covid19india.org
+    web_name: COVID19 India Cluster Network
+    tags:
+    - analysis
   - repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
     content: This is tracker and help information android application for the new coronavirus (2019-nCoV).
   - repo_name: divy-work/covid19-pune
@@ -158,12 +163,12 @@
       content: Coronavirus in US and Canada, Real Time Updates 肺炎疫情实时动态 · 北美 (一亩三分地)
       tags:
       - dashboard
-      - api
+      - API
     - repo_name: COVID19Tracking/website
       web_name: The COVID Tracking Project
       web_url: https://covidtracking.com/
       tags:
-      - api
+      - API
       
 
 - group_name: South America
