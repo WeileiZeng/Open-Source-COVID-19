@@ -415,6 +415,7 @@
     tags:
     - dashboard
     - data
+    - organization
     web_name: Dipartimento della Protezione Civile (Italy Dashboard)
     web_url: http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1
   - &id006
@@ -449,6 +450,7 @@
     tags:
     - dashboard
     - data
+    - organization
     web_name: Tokyo COVID-19 Task Force website
     web_url: https://stopcovid19.metro.tokyo.lg.jp/
   - &id008
@@ -716,6 +718,8 @@
     tags:
     - organization
   - *id012
+  - *id005
+  - *id007
 - group_name: API
   repos:
   - *id013
@@ -977,6 +981,10 @@
     - crowdsourced-list
     web_name: "Open Source COVID-19  \u6B66\u6C49\u5F00\u6E90"
     web_url: https://weileizeng.github.io/Open-Source-COVID-19/
+  - content: Events cancelled or postponed due to COVID-19 infection in Japan
+    repo_name: djsharpnel/CancelledEventsByCOVID19_jp
+    tags:
+    - crowdsourced-list
   - *id025
 - group_name: WFH
   repos:
@@ -1079,12 +1087,6 @@
     - community
     web_name: "COVID-19 Slack workspaces \u2013 International overview"
     web_url: https://bit.ly/3bizew3
-- group_name: crowdsource-list
-  repos:
-  - content: Events cancelled or postponed due to COVID-19 infection in Japan
-    repo_name: djsharpnel/CancelledEventsByCOVID19_jp
-    tags:
-    - crowdsource-list
 - group_name: report
   repos:
   - area: Paraguay
