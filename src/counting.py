@@ -104,7 +104,7 @@ def counting(requests_session, file_name,group_name,summary_file):
                 statistics['repos_count'] +=1
                 statistics['stars_count'] += data['stargazers_count']
                 statistics['forks_count'] += data['forks']
-                download_image(repo_name)
+                #download_image(repo_name)
             except KeyError:
                 print('no repo for this project')
             #some may have two repo
@@ -115,7 +115,7 @@ def counting(requests_session, file_name,group_name,summary_file):
                 statistics['repos_count'] +=1
                 statistics['stars_count'] += data['stargazers_count']
                 statistics['forks_count'] += data['forks']
-                download_image(repo_name)
+                #download_image(repo_name)
                 print('got repo2: '+repo_name)
             except KeyError:
                 #print('no repo2')
@@ -180,5 +180,7 @@ with open('../_data/summary_total.json','w') as f:
 update_summary_badge('total')
 print("finish generate summary badge")
 
+requests_session.close()
+print("session closed. program end")
 
 
