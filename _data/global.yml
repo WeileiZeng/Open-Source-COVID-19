@@ -202,7 +202,15 @@
     - supply
     - ventilator
     - organization
-    
+  - repo_name: brentjackson/OpenIntubator
+    web_name: wiki page
+    web_url: https://github.com/brentjackson/OpenIntubator/wiki
+    content: An open source hardware project to develop intubation kits needed to support medical professionals.
+    tags:
+    - ventilator
+    - supply
+
+
 - group_name:  Analysis
   repos:
   - repo_name: AaronWard/covid-19-analysis
@@ -303,13 +311,6 @@
     tags:
     - analysis
 
-# others
-  - repo_name: brentjackson/OpenIntubator
-    web_name: wiki page
-    web_url: https://github.com/brentjackson/OpenIntubator/wiki
-    content: An open source hardware project to develop intubation kits needed to support medical professionals.
-    tags:
-    - health    
     
 - group_name: Applications (apps, CLI)
   repos:
@@ -349,7 +350,7 @@
     content: Contact-Tracing app for cities. Get alerts when you cross paths with COVID-19.
     tags:
     - APP
-    - REACT NATIVE
+    - react-native
 
 
 - group_name: Life and Academic

@@ -91,10 +91,10 @@ for k,v in tags.items():
 
 
 with open('../_data/tags_projects.yml','w') as f:
-    f.write("# automated file. please do not edit")
+    f.write("# automated file. please do not edit\n")
     yaml.dump(tags_projects,f)
 with open('../_data/tags.yml','w') as f:
-    f.write("# automated file. please do not edit")
+    f.write("# automated file. please do not edit\n")
     yaml.dump(tags_only,f)
 
     
