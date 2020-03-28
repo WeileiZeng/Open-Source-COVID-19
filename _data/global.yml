@@ -189,10 +189,19 @@
     
 - group_name: Supplies
   repos:
-  - web_name: https://www.facebook.com/groups/670932227050506/
-    content: This group is being formed to evaluate, design, validate, and source the fabrication of open source emergency medical supplies around the world, given a variety of local supply conditions.
+  - web_name: Open Source COVID19 Medical Supplies
+    web_url: https://www.facebook.com/groups/670932227050506/
+    content: This facebook group is being formed to evaluate, design, validate, and source the fabrication of open source emergency medical supplies around the world, given a variety of local supply conditions.
     tags:
     - supply
+  - repo_name: CSSALTlab/Open_Source_Ventilator
+    web_name: Open Source Ventilator Project
+    web_url: https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/
+    content: Open Source, Open Architecture Ventilator Engineering Design Specifications, by University of Florida Health
+    tags:
+    - supply
+    - ventilator
+    - organization
     
 - group_name:  Analysis
   repos:
