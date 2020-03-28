@@ -1,4 +1,4 @@
-data files:
+### data files: (edit those to add your projects)
 * global.yml
   * projects applying to global scale
 * areas.yml
@@ -6,4 +6,10 @@ data files:
 * china.yml
   * data entries for the projects in china.md
 * unclassified.yml
-  * unclassified data entries
+  * temp/test file for unclassified data entries
+  
+### automated files: (do not edit, will be overwritten automatically)
+* tags.yml
+  * all tags
+* tags_projects.yml
+  * all projects classified by tags. Used in tags.md
