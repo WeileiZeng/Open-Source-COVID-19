@@ -1,6 +1,4 @@
-# all projects to be show
-
-# for different areas or countries
+# projects for different areas or countries
 
 - group_name: Africa
   repos:
@@ -58,6 +56,11 @@
     - analysis
   - repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
     content: This is tracker and help information android application for the new coronavirus (2019-nCoV).
+    web_name: NamasteCorona-Coronavirus Global tracker android app
+    web_url: https://govindapaliwal.github.io/NamasteCorona-coronavirus-tracker-android-app/
+    tags:
+    - APP
+    - android
   - repo_name: divy-work/covid19-pune
     web_name: Corona Virus Situation in Pune City, India.
     web_url: https://divy-work.github.io/covid19-pune/
@@ -194,30 +197,30 @@
 
 - group_name: North America, US, Canada
   repos:
-    - web_name: North America live map 
-      web_url: https://coronavirus.1point3acres.com/en
-      content: Coronavirus in US and Canada, Real Time Updates 肺炎疫情实时动态 · 北美 (一亩三分地)
-      tags:
-      - dashboard
-      - API
-    - repo_name: COVID19Tracking/website
-      web_name: The COVID Tracking Project
-      web_url: https://covidtracking.com/
-      tags:
-      - API
-    - repo_name: nytimes/covid-19-data
-      web_url: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
-      web_name: New York times COVID-19 update
-      content: data repo
-      tags:
-      - data
-      - organization      
-    - repo_name: digiphilo/covid
-      web_name: covapi nyt data explorer
-      web_url: https://covapi.herokuapp.com/
-      content: JSON API exposing New York Times CSV dataset
-      tags:
-      - API
+  - web_name: North America live map 
+    web_url: https://coronavirus.1point3acres.com/en
+    content: Coronavirus in US and Canada, Real Time Updates 肺炎疫情实时动态 · 北美 (一亩三分地)
+    tags:
+    - dashboard
+    - API
+  - repo_name: COVID19Tracking/website
+    web_name: The COVID Tracking Project
+    web_url: https://covidtracking.com/
+    tags:
+    - API
+  - repo_name: nytimes/covid-19-data
+    web_url: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+    web_name: New York times COVID-19 update
+    content: data repo
+    tags:
+    - data
+    - organization      
+  - repo_name: digiphilo/covid
+    web_name: covapi nyt data explorer
+    web_url: https://covapi.herokuapp.com/
+    content: JSON API exposing New York Times CSV dataset
+    tags:
+    - API
 
 - group_name: South America
   repos:
