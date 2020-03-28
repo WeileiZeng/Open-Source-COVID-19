@@ -194,7 +194,11 @@
     content: JSON API exposing New York Times CSV dataset
     tags:
     - API
-
+  - repo_name: Omaroid/Covid-19-API
+    web_name: an API for COVID-19 based on Heroku
+    web_url: https://covid19api.herokuapp.com/
+    tags:
+    - API
 - group_name: Supplies
   repos:
   - web_name: https://www.facebook.com/groups/670932227050506/
