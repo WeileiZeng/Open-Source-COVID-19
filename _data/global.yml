@@ -118,7 +118,11 @@
     web_url: https://bonniesimon.github.io/corona.info/
     tags:
     - dashboard
-
+  - repo_name: chschoenenberger/covid19_dashboard
+    web_name: dashboard
+    web_url: https://chschoenenberger.shinyapps.io/covid19_dashboard/
+    tags:
+    - dashboard
 
 - group_name:  API, data
   repos:
@@ -191,7 +195,13 @@
     tags:
     - API
 
-
+- group_name: Supplies
+  repos:
+  - web_name: https://www.facebook.com/groups/670932227050506/
+    content: This group is being formed to evaluate, design, validate, and source the fabrication of open source emergency medical supplies around the world, given a variety of local supply conditions.
+    tags:
+    - supply
+    
 - group_name:  Analysis
   repos:
   - repo_name: AaronWard/covid-19-analysis
