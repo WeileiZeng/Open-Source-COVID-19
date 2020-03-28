@@ -523,14 +523,6 @@
     repo_name: ieee8023/covid-chestxray-dataset
     tags:
     - data
-  - &id012
-    content: data repo
-    repo_name: nytimes/covid-19-data
-    tags:
-    - data
-    - organization
-    web_name: New York times COVID-19 update
-    web_url: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
   - content: MIDAS 2019 Novel Coronavirus Repository
     repo_name: midas-network/COVID-19
     tags:
@@ -587,6 +579,14 @@
   - *id007
   - *id008
   - *id009
+  - &id012
+    content: data repo
+    repo_name: nytimes/covid-19-data
+    tags:
+    - data
+    - organization
+    web_name: New York times COVID-19 update
+    web_url: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
   - &id025
     content: Data from BAG Tweets made useful.
     repo_name: daenuprobst/covid19-cases-switzerland
@@ -722,9 +722,9 @@
     repo_name: Tencent/TH_COVID19_International
     tags:
     - organization
-  - *id012
   - *id005
   - *id007
+  - *id012
 - group_name: API
   repos:
   - *id013
@@ -778,12 +778,6 @@
     - API
     web_name: CovidAPI.info
     web_url: https://CovidAPI.info
-  - content: JSON API exposing New York Times CSV dataset
-    repo_name: digiphilo/covid
-    tags:
-    - API
-    web_name: covapi nyt data explorer
-    web_url: https://covapi.herokuapp.com/
   - repo_name: Omaroid/Covid-19-API
     tags:
     - API
@@ -807,6 +801,12 @@
     - API
     web_name: The COVID Tracking Project
     web_url: https://covidtracking.com/
+  - content: JSON API exposing New York Times CSV dataset
+    repo_name: digiphilo/covid
+    tags:
+    - API
+    web_name: covapi nyt data explorer
+    web_url: https://covapi.herokuapp.com/
   - content: a Rest-API to get detailed figures about cases in Switzerland.
     repo_name: apfeuti/covid19-rest
     tags:
