@@ -798,6 +798,11 @@
     - API
     web_name: The COVID Tracking Project
     web_url: https://covidtracking.com/
+  - repo_name: desholmes/covid-19-us-api
+    tags:
+    - API
+    web_name: A REST API for the US COVID-19 data by nytimes
+    web_url: https://covid-19-us-api.dholmes.co.uk/
   - content: JSON API exposing New York Times CSV dataset
     repo_name: digiphilo/covid
     tags:
