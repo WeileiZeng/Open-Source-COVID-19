@@ -334,6 +334,11 @@
     - dashboard
     web_name: corona.info
     web_url: https://bonniesimon.github.io/corona.info/
+  - repo_name: chschoenenberger/covid19_dashboard
+    tags:
+    - dashboard
+    web_name: dashboard
+    web_url: https://chschoenenberger.shinyapps.io/covid19_dashboard/
   - &id022
     content: Coronavirus tracker app for iOS with maps & charts.
     repo_name: MhdHejazi/Corona
@@ -861,6 +866,14 @@
     - map
     web_name: COVID-19 Virus Map in Iran
     web_url: https://corona.rade.ir/
+- group_name: supply
+  repos:
+  - content: This group is being formed to evaluate, design, validate, and source
+      the fabrication of open source emergency medical supplies around the world,
+      given a variety of local supply conditions.
+    tags:
+    - supply
+    web_name: https://www.facebook.com/groups/670932227050506/
 - group_name: hackathon
   repos:
   - *id019
