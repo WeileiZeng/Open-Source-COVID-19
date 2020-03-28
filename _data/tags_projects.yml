@@ -784,6 +784,11 @@
     - API
     web_name: covapi nyt data explorer
     web_url: https://covapi.herokuapp.com/
+  - repo_name: Omaroid/Covid-19-API
+    tags:
+    - API
+    web_name: an API for COVID-19 based on Heroku
+    web_url: https://covid19api.herokuapp.com/
   - repo2_name: BlankerL/DXY-COVID-19-Data
     repo_name: BlankerL/DXY-COVID-19-Crawler
     tags:
