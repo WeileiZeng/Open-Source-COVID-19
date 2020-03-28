@@ -134,13 +134,6 @@
     content: We are building an open database of COVID-19 cases with chest X-ray or CT images.
     tags:
     - data
-  - repo_name: nytimes/covid-19-data
-    web_url: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
-    web_name: New York times COVID-19 update
-    content: data repo
-    tags:
-    - data
-    - organization
   - repo_name: midas-network/COVID-19
     content: MIDAS 2019 Novel Coronavirus Repository
     tags:
@@ -188,17 +181,12 @@
     content: Blazingly fast, daily updated API's to interact with COVID19 dataset by Johns Hopkins University
     tags:
     - API
-  - repo_name: digiphilo/covid
-    web_name: covapi nyt data explorer
-    web_url: https://covapi.herokuapp.com/
-    content: JSON API exposing New York Times CSV dataset
-    tags:
-    - API
   - repo_name: Omaroid/Covid-19-API
     web_name: an API for COVID-19 based on Heroku
     web_url: https://covid19api.herokuapp.com/
     tags:
     - API
+    
 - group_name: Supplies
   repos:
   - web_name: https://www.facebook.com/groups/670932227050506/

@@ -205,7 +205,19 @@
       web_url: https://covidtracking.com/
       tags:
       - API
-      
+    - repo_name: nytimes/covid-19-data
+      web_url: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+      web_name: New York times COVID-19 update
+      content: data repo
+      tags:
+      - data
+      - organization      
+    - repo_name: digiphilo/covid
+      web_name: covapi nyt data explorer
+      web_url: https://covapi.herokuapp.com/
+      content: JSON API exposing New York Times CSV dataset
+      tags:
+      - API
 
 - group_name: South America
   repos:
