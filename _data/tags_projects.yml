@@ -210,9 +210,6 @@
       needs.
     web_name: See full list here.
     web_url: china
-  - content: This is tracker and help information android application for the new
-      coronavirus (2019-nCoV).
-    repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
   - repo_name: soorichu/coronako
     web_name: About 2019 Corona Virus for Korean
     web_url: https://coronako.herokuapp.com/
@@ -924,6 +921,15 @@
     tags:
     - APP
     - REACT NATIVE
+  - &id027
+    content: This is tracker and help information android application for the new
+      coronavirus (2019-nCoV).
+    repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
+    tags:
+    - APP
+    - android
+    web_name: NamasteCorona-Coronavirus Global tracker android app
+    web_url: https://govindapaliwal.github.io/NamasteCorona-coronavirus-tracker-android-app/
 - group_name: IOS
   repos:
   - *id022
@@ -1111,6 +1117,9 @@
     - community
     web_name: "COVID-19 Slack workspaces \u2013 International overview"
     web_url: https://bit.ly/3bizew3
+- group_name: android
+  repos:
+  - *id027
 - group_name: report
   repos:
   - area: Paraguay
