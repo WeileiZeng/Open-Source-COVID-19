@@ -337,7 +337,7 @@
     - dashboard
     web_name: dashboard
     web_url: https://chschoenenberger.shinyapps.io/covid19_dashboard/
-  - &id023
+  - &id024
     content: Coronavirus tracker app for iOS with maps & charts.
     repo_name: MhdHejazi/Corona
     tags:
@@ -585,7 +585,7 @@
     - organization
     web_name: New York times COVID-19 update
     web_url: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
-  - &id026
+  - &id027
     content: Data from BAG Tweets made useful.
     repo_name: daenuprobst/covid19-cases-switzerland
     tags:
@@ -619,7 +619,7 @@
     - analysis
     web_name: Modeling COVID-19 Spread vs Healthcare Capacity
     web_url: https://alhill.shinyapps.io/COVID19seir/
-  - &id020
+  - &id021
     content: COVID-19 Biohackathon April 5-11 2020
     repo_name: virtual-biohackathons/covid-19-bh20
     tags:
@@ -652,7 +652,7 @@
     repo_name: elcronos/COVID-19
     tags:
     - analysis
-  - &id021
+  - &id022
     content: API & Webapp to answer questions about COVID-19. Using NLP (Question
       Answering) and trusted, curated data sources.
     repo_name: deepset-ai/COVID-QA
@@ -661,7 +661,7 @@
     - AI
     web_name: corona scholar
     web_url: https://covid.deepset.ai/
-  - &id022
+  - &id023
     content: "Dados e plots sobre as informa\xE7\xF5es do Corona Virus levantadas\
       \ pelo Peixe Babel."
     repo_name: peixebabel/COVID-19
@@ -894,18 +894,28 @@
     web_name: Open Source COVID19 Medical Supplies
     web_url: https://www.facebook.com/groups/670932227050506/
   - *id019
+  - &id020
+    content: An open source hardware project to develop intubation kits needed to
+      support medical professionals.
+    repo_name: brentjackson/OpenIntubator
+    tags:
+    - ventilator
+    - supply
+    web_name: wiki page
+    web_url: https://github.com/brentjackson/OpenIntubator/wiki
 - group_name: ventilator
   repos:
   - *id019
+  - *id020
 - group_name: hackathon
   repos:
-  - *id020
+  - *id021
 - group_name: AI
   repos:
-  - *id021
+  - *id022
 - group_name: ipynb
   repos:
-  - *id022
+  - *id023
 - group_name: health
   repos:
   - content: Open source webapp that let people report their health status to get
@@ -913,17 +923,10 @@
     repo_name: BustByte/coronastatus
     tags:
     - health
-  - content: An open source hardware project to develop intubation kits needed to
-      support medical professionals.
-    repo_name: brentjackson/OpenIntubator
-    tags:
-    - health
-    web_name: wiki page
-    web_url: https://github.com/brentjackson/OpenIntubator/wiki
 - group_name: APP
   repos:
-  - *id023
-  - &id024
+  - *id024
+  - &id025
     content: Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use
       interface
     repo_name: julianschiavo/Covidcheck
@@ -935,14 +938,14 @@
     - APP
     web_name: Coronavirus disease 2019 (COVID-19) information on Telegram Messenger
     web_url: https://t.me/corona_cases_bot
-  - &id025
+  - &id026
     content: Contact-Tracing app for cities. Get alerts when you cross paths with
       COVID-19.
     repo_name: yonahforst/trackandtrace
     tags:
     - APP
-    - REACT NATIVE
-  - &id028
+    - react-native
+  - &id029
     content: This is tracker and help information android application for the new
       coronavirus (2019-nCoV).
     repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
@@ -953,8 +956,8 @@
     web_url: https://govindapaliwal.github.io/NamasteCorona-coronavirus-tracker-android-app/
 - group_name: IOS
   repos:
-  - *id023
   - *id024
+  - *id025
 - group_name: CLI
   repos:
   - content: Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain
@@ -970,9 +973,9 @@
     tags:
     - CLI
   - *id003
-- group_name: REACT NATIVE
+- group_name: react-native
   repos:
-  - *id025
+  - *id026
 - group_name: academic
   repos:
   - content: A free community-driven virtual platform to support speakers at the 2020
@@ -1019,7 +1022,7 @@
     - crowdsourced-list
     web_name: A science-based cheatsheet
     web_url: https://www.coronaviruscheatsheet.org/
-  - &id027
+  - &id028
     content: Internship status of companies - COVID-19 outbreak
     repo_name: gcreddy42/hiring2020
     tags:
@@ -1036,7 +1039,7 @@
     repo_name: djsharpnel/CancelledEventsByCOVID19_jp
     tags:
     - crowdsourced-list
-  - *id026
+  - *id027
 - group_name: WFH
   repos:
   - content: A list of all the companies WFH or events changed because of covid-19
@@ -1045,7 +1048,7 @@
     - WFH
     web_name: stayinghomeclub
     web_url: https://stayinghome.club/
-  - *id027
+  - *id028
 - group_name: lockdown
   repos:
   - content: Trying to gather all information about current restrictions in the different
@@ -1140,7 +1143,7 @@
     web_url: https://bit.ly/3bizew3
 - group_name: android
   repos:
-  - *id028
+  - *id029
 - group_name: report
   repos:
   - area: Paraguay
