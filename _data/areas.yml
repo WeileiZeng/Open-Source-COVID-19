@@ -173,7 +173,15 @@
     content: Events cancelled or postponed due to COVID-19 infection in Japan
     tags:
     - crowdsourced-list
-    
+
+- group_name: Kazakhstan
+  repos:
+   - repo_name: anuveyatsu/covid-19-kz
+     content: COVID-19 data for Kazakhstan. Data is collected hourly.
+     tags:
+     - data
+     - csv
+
 - group_name: Korea
   repos:
   - repo_name: ThisIsIsaac/COVID-19_Korea_Dataset
