@@ -130,10 +130,6 @@
     content: An HTTP-based JSON API for tracking the development of the virus.
     tags:
     - API
-  - repo_name: ieee8023/covid-chestxray-dataset 
-    content: We are building an open database of COVID-19 cases with chest X-ray or CT images.
-    tags:
-    - data
   - repo_name: midas-network/COVID-19
     content: MIDAS 2019 Novel Coronavirus Repository
     tags:
@@ -169,6 +165,7 @@
     web_url: https://pypi.org/project/COVID19Py/
     tags:
     - data
+    - python
   - repo_name: pomber/covid19
     web_name: json timeseries
     web_url: https://pomber.github.io/covid19/timeseries.json
@@ -203,6 +200,11 @@
     
 - group_name: Research and Development
   repos:
+  - repo_name: ieee8023/covid-chestxray-dataset 
+    content: We are building an open database of COVID-19 cases with chest X-ray or CT images.
+    tags:
+    - research
+    - data
   - repo_name: CSSALTlab/Open_Source_Ventilator
     web_name: Open Source Ventilator Project
     web_url: https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/
@@ -268,12 +270,14 @@
     content: A Jupyter notebook with basic COVID-19 outbreak modeling.
     tags:
     - analysis
+    - ipynb
   - repo_name: coronafighter/coronaSEIR
     web_name: COVID-19 Python SEIR model and data plot
     web_url: https://github.com/coronafighter/coronaSEIR
     content: Simple SEIR model Python script for the COVID-19 pandemic with real world data comparison.
     tags:
     - analysis
+    - python
   - repo_name: alsnhll/SEIR_COVID19
     web_name: Modeling COVID-19 Spread vs Healthcare Capacity
     web_url: https://alhill.shinyapps.io/COVID19seir/
