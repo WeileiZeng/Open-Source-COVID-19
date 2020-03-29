@@ -186,7 +186,13 @@
     web_url: https://covid19api.herokuapp.com/
     tags:
     - API
-    
+  - repo_name: datasets/covid-19
+    web_name: Novel Coronavirus 2019 time series data on cases
+    web_url: https://datahub.io/core/covid-19
+    tags:
+    - data
+    - dashboard
+
 - group_name: Supplies
   repos:
   - web_name: Open Source COVID19 Medical Supplies
@@ -232,6 +238,25 @@
     tags:
     - research
     - python
+  - repo_name: lindawangg/COVID-Net
+    content: COVID-Net model for COVID-19 detection on COVIDx dataset
+    tags:
+    - research
+  - repo_name: geohot/corona
+    content: Reverse engineering SARS-CoV-2
+    tags:
+    - research
+  - repo_name: elcronos/COVID-19
+    content: COVID-19 Detector from x-rays using Computer Vision and Deep Learning
+    tags:
+    - research
+  - repo_name: FoldingAtHome/coronavirus
+    web_name: Folding@home COVID-19 efforts
+    web_url: http://foldingathome.org
+    tags:
+    - analysis
+
+
 
 - group_name:  Analysis
   repos:
@@ -281,10 +306,6 @@
     content: COVID-19 Hospital Impact Model for Epidemics
     tags:
     - analysis
-  - repo_name: elcronos/COVID-19
-    content: COVID-19 Detector from x-rays using Computer Vision and Deep Learning
-    tags:
-    - analysis
   - repo_name: deepset-ai/COVID-QA
     web_name: corona scholar
     web_url: https://covid.deepset.ai/
@@ -319,28 +340,15 @@
     web_name: dashboard
     tags:
     - analysis
-  - repo_name: FoldingAtHome/coronavirus
-    web_name: Folding@home COVID-19 efforts
-    web_url: http://foldingathome.org
-    tags:
-    - analysis
   - repo_name: BustByte/coronastatus
     content: Open source webapp that let people report their health status to get overview of COVID-19
     tags:
     - health
-  - repo_name: lindawangg/COVID-Net
-    content: COVID-Net model for COVID-19 detection on COVIDx dataset
-    tags:
-    - analysis
   - repo_name: echen102/COVID-19-TweetIDs
     web_name: "COVID-19: The First Public Coronavirus Twitter Dataset"
     web_url: https://arxiv.org/abs/2003.07372
     tags:
     - twitter
-    - analysis
-  - repo_name: geohot/corona
-    content: Reverse engineering SARS-CoV-2
-    tags:
     - analysis
     
 - group_name: Applications (apps, CLI)
