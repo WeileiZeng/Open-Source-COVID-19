@@ -9,7 +9,8 @@ comments: true
 
 Here lists all projects classified by <em style="color:#D0CE3B">tags</em>. A project may appear under multiple tags. Help me to add [more.](https://github.com/WeileiZeng/Open-Source-COVID-19/issues/68)
 {% assign tags_sorted = site.data.tags | sort %}{% for tag in tags_sorted %}
-<button type="button" style="background-color:#83E583;color=#F392F3" onclick='myFunction("{{ tag | downcase }}")'>{{tag}}</button> {% endfor %}
+<button type="button" class="hvr-radial-out" style="background-color:#83E583;color=#F392F3" onclick='myFunction("{{ tag | downcase }}")'>{{tag}}</button> {% endfor %}
+
 
 
 {% assign projects = site.data.tags_projects %}
