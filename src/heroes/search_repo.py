@@ -21,7 +21,6 @@ def jprint(obj):
 
 
 
-
 # set up requests
 import requests
 requests_session= requests.Session()
@@ -127,9 +126,10 @@ def reduce_repo_size(repos,min_stars):
             repos_short.append(repo_temp)
     return repos_short
 
+
 my_repos = get_current_repos()
 
-keywords=['COVID','nCoV','covid19']
+keywords=['COVID','nCoV','covid19','corona','sars-cov-2']
 #keywords=['COVID']
 repos=[]
 for k in keywords:
