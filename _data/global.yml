@@ -355,7 +355,14 @@
     tags:
     - twitter
     - analysis
-    
+  - repo_name: ManuelB/covid-19-vis
+    web_name: This repository contains data visualizations based on RKI and DIVI using kepler.gl
+    web_url: https://manuelb.github.io/covid-19-vis/
+    content: The covid-19-vis project is a simulation and visualization project that predicts when the intense care unit (ICU) bed capacity of a certain region will be reached.
+    tags:
+    - analysis
+    - visualization
+
 - group_name: Applications (apps, CLI)
   repos:
   - repo_name: MhdHejazi/Corona
