@@ -609,6 +609,12 @@
     web_url: https://italy.coronavirusinfections.org/
   - *id008
   - *id009
+  - &id039
+    content: COVID-19 data for Kazakhstan. Data is collected hourly.
+    repo_name: anuveyatsu/covid-19-kz
+    tags:
+    - data
+    - csv
   - *id010
   - &id015
     content: data repo
@@ -1212,6 +1218,9 @@
 - group_name: android
   repos:
   - *id038
+- group_name: csv
+  repos:
+  - *id039
 - group_name: report
   repos:
   - area: Paraguay
