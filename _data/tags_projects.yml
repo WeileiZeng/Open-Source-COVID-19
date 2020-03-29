@@ -535,6 +535,11 @@
     web_name: Python package to easily access up-to-date data about COVID-19
     web_url: https://pypi.org/project/COVID19Py/
   - *id003
+  - content: Open source webapp that let people report their health status to get
+      overview of COVID-19
+    repo_name: BustByte/coronastatus
+    tags:
+    - data
   - &id024
     content: We are building an open database of COVID-19 cases with chest X-ray or
       CT images.
@@ -627,11 +632,6 @@
 - group_name: analysis
   repos:
   - *id011
-  - repo_name: FoldingAtHome/coronavirus
-    tags:
-    - analysis
-    web_name: Folding@home COVID-19 efforts
-    web_url: http://foldingathome.org
   - content: covid-19-analysis
     repo_name: AaronWard/covid-19-analysis
     tags:
@@ -917,6 +917,11 @@
     - map
     web_name: COVID-19 Virus Map in Iran
     web_url: https://corona.rade.ir/
+  - repo_name: openbrian/covid-19-map-by-region
+    tags:
+    - map
+    web_name: COVID-19 cases by county per capita
+    web_url: https://openbrian.github.io/covid-19-map-by-region/
 - group_name: python
   repos:
   - *id022
@@ -964,6 +969,11 @@
     repo_name: elcronos/COVID-19
     tags:
     - research
+  - repo_name: FoldingAtHome/coronavirus
+    tags:
+    - research
+    web_name: Folding@home COVID-19 efforts
+    web_url: http://foldingathome.org
 - group_name: ventilator
   repos:
   - *id025
@@ -978,13 +988,6 @@
 - group_name: AI
   repos:
   - *id031
-- group_name: health
-  repos:
-  - content: Open source webapp that let people report their health status to get
-      overview of COVID-19
-    repo_name: BustByte/coronastatus
-    tags:
-    - health
 - group_name: twitter
   repos:
   - *id032

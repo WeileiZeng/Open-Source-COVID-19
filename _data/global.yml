@@ -189,6 +189,11 @@
     tags:
     - data
     - dashboard
+  - repo_name: BustByte/coronastatus
+    content: Open source webapp that let people report their health status to get overview of COVID-19
+    tags:
+    - data
+
 
 - group_name: Supplies
   repos:
@@ -256,7 +261,7 @@
     web_name: Folding@home COVID-19 efforts
     web_url: http://foldingathome.org
     tags:
-    - analysis
+    - research
 
 
 
@@ -344,10 +349,6 @@
     web_name: dashboard
     tags:
     - analysis
-  - repo_name: BustByte/coronastatus
-    content: Open source webapp that let people report their health status to get overview of COVID-19
-    tags:
-    - health
   - repo_name: echen102/COVID-19-TweetIDs
     web_name: "COVID-19: The First Public Coronavirus Twitter Dataset"
     web_url: https://arxiv.org/abs/2003.07372
