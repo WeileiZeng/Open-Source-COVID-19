@@ -310,7 +310,12 @@
     content: COVID-Net model for COVID-19 detection on COVIDx dataset
     tags:
     - analysis
-
+  - repo_name: echen102/COVID-19-TweetIDs
+    web_name: "COVID-19: The First Public Coronavirus Twitter Dataset"
+    web_url: https://arxiv.org/abs/2003.07372
+    tags:
+    - twitter
+    - analysis
     
 - group_name: Applications (apps, CLI)
   repos:
@@ -502,3 +507,4 @@
     web_url: https://github.com/HankiDesign/COVID-19-Remote-Work-and-Study-Resources
     tags:
     - education
+
