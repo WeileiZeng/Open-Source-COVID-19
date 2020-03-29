@@ -344,7 +344,7 @@
     - dashboard
     web_name: Novel Coronavirus 2019 time series data on cases
     web_url: https://datahub.io/core/covid-19
-  - &id033
+  - &id034
     content: Coronavirus tracker app for iOS with maps & charts.
     repo_name: MhdHejazi/Corona
     tags:
@@ -609,7 +609,7 @@
     web_url: https://italy.coronavirusinfections.org/
   - *id008
   - *id009
-  - &id039
+  - &id040
     content: COVID-19 data for Kazakhstan. Data is collected hourly.
     repo_name: anuveyatsu/covid-19-kz
     tags:
@@ -624,7 +624,7 @@
     - organization
     web_name: New York times COVID-19 update
     web_url: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
-  - &id036
+  - &id037
     content: Data from BAG Tweets made useful.
     repo_name: daenuprobst/covid19-cases-switzerland
     tags:
@@ -731,6 +731,17 @@
     - analysis
     web_name: 'COVID-19: The First Public Coronavirus Twitter Dataset'
     web_url: https://arxiv.org/abs/2003.07372
+  - &id033
+    content: The covid-19-vis project is a simulation and visualization project that
+      predicts when the intense care unit (ICU) bed capacity of a certain region will
+      be reached.
+    repo_name: ManuelB/covid-19-vis
+    tags:
+    - analysis
+    - visualization
+    web_name: This repository contains data visualizations based on RKI and DIVI using
+      kepler.gl
+    web_url: https://manuelb.github.io/covid-19-vis/
   - repo_name: someshkar/covid19india-cluster
     tags:
     - analysis
@@ -997,10 +1008,18 @@
 - group_name: twitter
   repos:
   - *id032
-- group_name: APP
+- group_name: visualization
   repos:
   - *id033
-  - &id034
+  - repo_name: xshaun/covid-19-uk
+    tags:
+    - visualization
+    web_name: Confirmed cases of coronavirus in UK
+    web_url: https://xshaun.github.io/covid-19-uk/
+- group_name: APP
+  repos:
+  - *id034
+  - &id035
     content: Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use
       interface
     repo_name: julianschiavo/Covidcheck
@@ -1012,14 +1031,14 @@
     - APP
     web_name: Coronavirus disease 2019 (COVID-19) information on Telegram Messenger
     web_url: https://t.me/corona_cases_bot
-  - &id035
+  - &id036
     content: Contact-Tracing app for cities. Get alerts when you cross paths with
       COVID-19.
     repo_name: yonahforst/trackandtrace
     tags:
     - APP
     - react-native
-  - &id038
+  - &id039
     content: This is tracker and help information android application for the new
       coronavirus (2019-nCoV).
     repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
@@ -1030,8 +1049,8 @@
     web_url: https://govindapaliwal.github.io/NamasteCorona-coronavirus-tracker-android-app/
 - group_name: IOS
   repos:
-  - *id033
   - *id034
+  - *id035
 - group_name: CLI
   repos:
   - content: Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain
@@ -1049,7 +1068,7 @@
   - *id004
 - group_name: react-native
   repos:
-  - *id035
+  - *id036
 - group_name: academic
   repos:
   - content: A free community-driven virtual platform to support speakers at the 2020
@@ -1096,7 +1115,7 @@
     - crowdsourced-list
     web_name: A science-based cheatsheet
     web_url: https://www.coronaviruscheatsheet.org/
-  - &id037
+  - &id038
     content: Internship status of companies - COVID-19 outbreak
     repo_name: gcreddy42/hiring2020
     tags:
@@ -1113,7 +1132,7 @@
     repo_name: djsharpnel/CancelledEventsByCOVID19_jp
     tags:
     - crowdsourced-list
-  - *id036
+  - *id037
 - group_name: WFH
   repos:
   - content: A list of all the companies WFH or events changed because of covid-19
@@ -1122,7 +1141,7 @@
     - WFH
     web_name: stayinghomeclub
     web_url: https://stayinghome.club/
-  - *id037
+  - *id038
 - group_name: lockdown
   repos:
   - content: Trying to gather all information about current restrictions in the different
@@ -1217,10 +1236,10 @@
     web_url: https://bit.ly/3bizew3
 - group_name: android
   repos:
-  - *id038
+  - *id039
 - group_name: csv
   repos:
-  - *id039
+  - *id040
 - group_name: report
   repos:
   - area: Paraguay
@@ -1230,10 +1249,3 @@
     repo_name: penguin-academy/covid-19-py
     tags:
     - report
-- group_name: visualization
-  repos:
-  - repo_name: xshaun/covid-19-uk
-    tags:
-    - visualization
-    web_name: Confirmed cases of coronavirus in UK
-    web_url: https://xshaun.github.io/covid-19-uk/
