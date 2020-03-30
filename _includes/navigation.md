@@ -1,1 +1,1 @@
-| <a href="index" name="top">Global</a> | [Countries](areas) | [China](china) | <a href="tags"> <em style="color:#D0CE3B">tags</em> </a> | [About](about) |
+| <a href="index" name="top">Global</a> | [Countries](areas) | [China](china) | <a href="tags"> <em style="color:#C68C10">tags</em> </a> | [About](about) |
