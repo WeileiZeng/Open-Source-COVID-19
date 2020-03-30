@@ -43,7 +43,13 @@
     "labels_url": "https://api.github.com/repos/desholmes/covid-19-us-api/labels{/name}",
     "language": "Python",
     "languages_url": "https://api.github.com/repos/desholmes/covid-19-us-api/languages",
-    "license": null,
+    "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "node_id": "MDc6TGljZW5zZTk=",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0"
+    },
     "merges_url": "https://api.github.com/repos/desholmes/covid-19-us-api/merges",
     "milestones_url": "https://api.github.com/repos/desholmes/covid-19-us-api/milestones{/number}",
     "mirror_url": null,
@@ -80,11 +86,11 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/desholmes/covid-19-us-api/pulls{/number}",
-    "pushed_at": "2020-03-28T14:19:48Z",
+    "pushed_at": "2020-03-30T00:29:27Z",
     "releases_url": "https://api.github.com/repos/desholmes/covid-19-us-api/releases{/id}",
-    "size": 17,
+    "size": 48,
     "ssh_url": "git@github.com:desholmes/covid-19-us-api.git",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "stargazers_url": "https://api.github.com/repos/desholmes/covid-19-us-api/stargazers",
     "statuses_url": "https://api.github.com/repos/desholmes/covid-19-us-api/statuses/{sha}",
     "subscribers_count": 2,
@@ -95,8 +101,8 @@
     "teams_url": "https://api.github.com/repos/desholmes/covid-19-us-api/teams",
     "temp_clone_token": "",
     "trees_url": "https://api.github.com/repos/desholmes/covid-19-us-api/git/trees{/sha}",
-    "updated_at": "2020-03-29T02:04:15Z",
+    "updated_at": "2020-03-30T06:30:09Z",
     "url": "https://api.github.com/repos/desholmes/covid-19-us-api",
-    "watchers": 7,
-    "watchers_count": 7
+    "watchers": 8,
+    "watchers_count": 8
 }
