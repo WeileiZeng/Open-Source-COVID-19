@@ -1,6 +1,6 @@
 ---
 title: China
-comments: true
+comments: false
 ---
 {% include navigation.md %}
 

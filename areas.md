@@ -1,5 +1,6 @@
 ---
-comments: true
+title: "Countries/areas"
+comments: false
 ---
 
 {% include navigation.md %}
