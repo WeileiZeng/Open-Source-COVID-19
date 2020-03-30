@@ -263,6 +263,17 @@
     tags:
     - research
     - paper
+  - web_name: MIT Emergency Ventilator (E-Vent) Project
+    web_url: https://e-vent.mit.edu/
+    tags:
+    - research
+    - ventilator
+    - organization
+  - repo_name: jcl5m1/ventilator
+    content: Low-Cost Open Source Ventilator or PAPR
+    tags:
+    - research
+    - ventilator
     
   - repo_name: lindawangg/COVID-Net
     content: COVID-Net model for COVID-19 detection on COVIDx dataset
@@ -377,6 +388,22 @@
     tags:
     - analysis
     - visualization
+  - repo_name: CodeForPhilly/chime
+    web_name: COVID-19 Hospital Impact Model for Epidemics 
+    web_url: https://codeforphilly.github.io/chime/
+    tags:
+    - analysis
+  - repo_name: HopkinsIDD/ncov_incubation
+    content: Real-time estimation of the novel coronavirus incubation time
+    tags:
+    - analysis
+    - organization
+  - repo_name: mattroconnor/deep_learning_coronavirus_cure
+    content: Using deep learning to generate novel molecules as candidates for binding with coronavirus protease
+    tags:
+    - analysis
+    - AI
+
 
 - group_name: Applications (apps, CLI)
   repos:
