@@ -193,8 +193,19 @@
     content: Open source webapp that let people report their health status to get overview of COVID-19
     tags:
     - data
-
-
+  - repo_name: echen102/COVID-19-TweetIDs
+    web_name: "COVID-19: The First Public Coronavirus Twitter Dataset"
+    web_url: https://arxiv.org/abs/2003.07372
+    tags:
+    - twitter
+    - data
+  - repo_name: thepanacealab/covid19_twitter
+    web_url: http://www.panacealab.org/covid19/
+    web_name: Covid-19 Twitter dataset and pre-processing scripts
+    tags:
+    - data
+    - twitter
+    
 - group_name: Supplies
   repos:
   - web_name: Open Source COVID19 Medical Supplies
@@ -227,7 +238,7 @@
     - research
   - web_name: COVID-19 Open Research Dataset (CORD-19)
     web_url: https://pages.semanticscholar.org/coronavirus-research
-    content: published by the White House and its research partners.
+    content: presented by the Allen Institute for AI 
     tags:
     - research
     - data
@@ -245,6 +256,14 @@
     tags:
     - research
     - python
+    - paper
+  - repo_name: karpathy/covid-sanity
+    web_name: This project organizes COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv
+    web_url: http://biomed-sanity.com/
+    tags:
+    - research
+    - paper
+    
   - repo_name: lindawangg/COVID-Net
     content: COVID-Net model for COVID-19 detection on COVIDx dataset
     tags:
@@ -262,6 +281,7 @@
     web_url: http://foldingathome.org
     tags:
     - research
+    - organization
 
 
 
@@ -344,17 +364,12 @@
     tags:
     - analysis
   - repo_name: github/covid19-dashboard
-    content: A site that displays up to date COVID-19 stats, powered by fastpages. 
+    content: A site that displays up to date COVID-19 stats, powered by fastpages. Powered by github 
     web_url: https://covid19dashboards.com
     web_name: dashboard
     tags:
     - analysis
-  - repo_name: echen102/COVID-19-TweetIDs
-    web_name: "COVID-19: The First Public Coronavirus Twitter Dataset"
-    web_url: https://arxiv.org/abs/2003.07372
-    tags:
-    - twitter
-    - analysis
+    - organization
   - repo_name: ManuelB/covid-19-vis
     web_name: This repository contains data visualizations based on RKI and DIVI using kepler.gl
     web_url: https://manuelb.github.io/covid-19-vis/
