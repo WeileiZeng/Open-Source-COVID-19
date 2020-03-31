@@ -8,15 +8,18 @@
     web_url: https://wh.opensource-service.cn/#/
     tags:
     - dashboard
+    - hackathon
   - repo_name: wuhan-support/wuhan.support
     web_url: https://feiyan.help
     web_name: feiyan.help
     content: 面向疫区内外民众和医疗机构的多维度信息整合平台
     tags:
     - dashboard
+    - supply
   - web_name: 全国抗击新冠肺炎防护物资信息交流平台
     web_url: http://charity.foodblockchain.com.cn/?from=timeline&isappinstalled=0
-    content: (未开源)
+    tags:
+    nonopensource
 
 - group_name: 疫情信息 Data collection and visualization
   repos:
@@ -70,6 +73,9 @@
   - repo_name: GuangchuangYu/nCov2019
     web_name: query stats of infected coronavirus cases
     web_url: https://mp.weixin.qq.com/s/_0D8ENb-4lGm4UV16Ok28A
+    tags:
+    - R
+    - data
   - repo_name: canghailan/Wuhan-2019-nCoV
     content: 2019-nCoV 新冠状病毒 2019-12-01至今国家、省、市三级每日统计数据（支持接口读取）
   - repo_name: green512/2019nCoV
@@ -120,6 +126,8 @@
   - repo_name: KikiLetGo/VirusBroadcast
     web_name:  计算机仿真程序告诉你为什么现在还没到出门的时候
     web_url: https://www.bilibili.com/video/av86478875
+    tags:
+    - analysis
   - repo_name: TheWanderingCoel/WuhanPneumoniaBotTelegram
     content: A telegram bot for WuhanPneumonia Status
   - repo_name: zhou-xiaojun/jd_mask
@@ -133,6 +141,9 @@
     content: Covid-19 estimation and forecast using statistical model; 新型冠状病毒武汉肺炎统计模型预测
   - repo_name: calthaus/ncov-cfr
     content: R code and documentation to estimate case fatality ratio of COVID-19 from cases outside China
+    tags:
+    - R
+    - analysis
   - repo_name: leiii/population_flow
     content: Population flow data for the study of Covid-19
   - repo_name: jriou/wcov

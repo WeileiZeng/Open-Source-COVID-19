@@ -293,7 +293,11 @@
     tags:
     - research
     - organization
-
+  - web_name: a list of Open Source hardware solutions to COVID19
+    web_url: https://docs.google.com/spreadsheets/d/10FYvQjquzoXnW1HPiRGfo0BKy4yArr9oT2cFrZQppHY/edit#gid=0
+    tags:
+    - ventilator
+    - crowdsourced-list
 
 
 - group_name:  Analysis
@@ -474,13 +478,16 @@
   repos:  
   - web_name: Coronavirus Tech Handbook
     web_url: https://coronavirustechhandbook.com/
+    tags:
+    - handbook
   - repo_name: soroushchehresa/awesome-coronavirus
     content: Useful projects and resources for COVID-19 (2019 novel Coronavirus)
     tags:
-    - crowdsourced-list
+    - crowdsourced-list    
   - repo_name: abuuzayr/coronavirus-apps
     content: List of coronavirus applications built in response to the COVID-19 virus from Dec 2019
- 
+    tags:
+    - APP
   - web_name: RIAT Open Source Hardware COVID-19 group
     content: Open Source Hardware and COVID-19 Wiki
     web_url: https://covid.riat.at/
@@ -595,4 +602,5 @@
     web_url: https://github.com/HankiDesign/COVID-19-Remote-Work-and-Study-Resources
     tags:
     - education
+    - WFH
 
