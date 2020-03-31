@@ -2,14 +2,13 @@ Tribute to all people in the open source community
 
 ### Open Source COVID-19  [![Gitter](https://badges.gitter.im/OpenSourceCOVID-19/community.svg)](https://gitter.im/OpenSourceCOVID-19/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3731437.svg)](https://doi.org/10.5281/zenodo.3731437)
 
+This navigation site collects many open source projects during COVID-19. 10000+ people have contributed to projects in this list, which has attracted 10000+ stars.
+
 这个导航网站统计了开源平台上抵抗新冠肺炎的项目，是一个连结各个开源项目的入口。
 超过一万人参与了这个列表中的项目，并获得了超过一万颗星。
 
-This navigation site collects many open source projects during COVID-19. 10000+ people have contributed to projects in this list, which has attracted 10000+ stars.
-
-
-* 导航网站website: https://weileizeng.github.io/Open-Source-COVID-19/
-* 中国相关项目页面china page: https://weileizeng.github.io/Open-Source-COVID-19/china （原开源武汉页面）
+* 导航网站 website: https://weileizeng.github.io/Open-Source-COVID-19/
+* 中国相关项目页面 china page: https://weileizeng.github.io/Open-Source-COVID-19/china （原开源武汉页面）
 * github repo: https://github.com/WeileiZeng/Open-Source-COVID-19
 
 ### Page summary
