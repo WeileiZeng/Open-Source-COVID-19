@@ -305,8 +305,16 @@
     tags:
     - ventilator
     - crowdsourced-list
-
-
+  - web_name: Pandemic Ventilator Project
+    web_url: https://panvent.blogspot.com/
+    content: This blog documents our attempt to construct a ventilator design for use in a Flu Pandemic that can be made from readily available materials at the last minute.
+    tags:
+    - ventilator
+  - web_name: medtronic shares ventilator design specification
+    web_url: http://newsroom.medtronic.com/news-releases/news-release-details/medtronic-shares-ventilation-design-specifications-accelerate
+    tags:
+    - ventilator
+    
 - group_name:  Analysis
   repos:
   - repo_name: AaronWard/covid-19-analysis
@@ -479,10 +487,7 @@
     web2_url: https://www.goinvo.com/vision/coronavirus/
     tags:
     - handbook
-  - web_name: Pandemic Ventilator Project
-    web_url: https://panvent.blogspot.com/
-    content: This blog documents our attempt to construct a ventilator design for use in a Flu Pandemic that can be made from readily available materials at the last minute.
-
+ 
 
 - group_name: Crowdsourced lists
   repos:  
@@ -618,4 +623,8 @@
     tags:
     - crowdsourced-list
     - research
-
+  - repo_name: HankiDesign/COVID-19-Remote-Work-and-Study-Resources
+    content:
+    tags:
+    - crowdsourced-list
+    - WFH
