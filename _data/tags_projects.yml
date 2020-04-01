@@ -1,11 +1,6 @@
 # automated file. please do not edit
 - group_name: others
   repos:
-  - content: This blog documents our attempt to construct a ventilator design for
-      use in a Flu Pandemic that can be made from readily available materials at the
-      last minute.
-    web_name: Pandemic Ventilator Project
-    web_url: https://panvent.blogspot.com/
   - content: "\u5305\u542B\u5730\u7EA7\u5E02\u75AB\u60C5"
     repo_name: sangyx/nCoV-Map
     web_name: "nCoV-Map\uFF1A\u65B0\u578B\u80BA\u708E\u75AB\u60C5\u5730\u56FE"
@@ -620,7 +615,7 @@
     web_url: https://italy.coronavirusinfections.org/
   - *id008
   - *id009
-  - &id057
+  - &id058
     content: COVID-19 data for Kazakhstan. Data is collected hourly.
     repo_name: anuveyatsu/covid-19-kz
     tags:
@@ -1091,6 +1086,17 @@
     - crowdsourced-list
     web_name: a list of Open Source hardware solutions to COVID19
     web_url: https://docs.google.com/spreadsheets/d/10FYvQjquzoXnW1HPiRGfo0BKy4yArr9oT2cFrZQppHY/edit#gid=0
+  - content: This blog documents our attempt to construct a ventilator design for
+      use in a Flu Pandemic that can be made from readily available materials at the
+      last minute.
+    tags:
+    - ventilator
+    web_name: Pandemic Ventilator Project
+    web_url: https://panvent.blogspot.com/
+  - tags:
+    - ventilator
+    web_name: medtronic shares ventilator design specification
+    web_url: http://newsroom.medtronic.com/news-releases/news-release-details/medtronic-shares-ventilation-design-specifications-accelerate
 - group_name: paper
   repos:
   - *id035
@@ -1120,6 +1126,12 @@
     - crowdsourced-list
     - WFH
   - *id042
+  - &id055
+    content: null
+    repo_name: HankiDesign/COVID-19-Remote-Work-and-Study-Resources
+    tags:
+    - crowdsourced-list
+    - WFH
   - content: "A collection of all Open Source project for defending Wuhan/world during\
       \ COVID-19 \u652F\u63F4\u6B66\u6C49\u5F00\u6E90\u9879\u76EE\u6C47\u603B"
     repo_name: WeileiZeng/Open-Source-COVID-19
@@ -1184,7 +1196,7 @@
     repo_name: abuuzayr/coronavirus-apps
     tags:
     - APP
-  - &id056
+  - &id057
     content: This is tracker and help information android application for the new
       coronavirus (2019-nCoV).
     repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
@@ -1257,7 +1269,7 @@
     web_name: stayinghomeclub
     web_url: https://stayinghome.club/
   - *id054
-  - &id055
+  - &id056
     content: Free services, tools, articles and other resources for remote workers
       and distance learners
     tags:
@@ -1265,6 +1277,7 @@
     - WFH
     web_name: COVID-19 Remote Work and Study Resources
     web_url: https://github.com/HankiDesign/COVID-19-Remote-Work-and-Study-Resources
+  - *id055
 - group_name: lockdown
   repos:
   - content: Trying to gather all information about current restrictions in the different
@@ -1345,7 +1358,7 @@
     - education
     web_name: Archivists At Home
     web_url: https://docs.google.com/document/d/16ubmmTtJ7oCjbUFI_75fqG9J62pul9dg_RCd4au4tMw/edit?fbclid=IwAR3kydub18T2mC9Hvo4RAfm-K-_clnLpkN1wTsK_KrNIIfwydSGKC4pTji0#heading=h.mbs65hitovr4
-  - *id055
+  - *id056
 - group_name: community
   repos:
   - tags:
@@ -1361,10 +1374,10 @@
     web_url: http://charity.foodblockchain.com.cn/?from=timeline&isappinstalled=0
 - group_name: android
   repos:
-  - *id056
+  - *id057
 - group_name: csv
   repos:
-  - *id057
+  - *id058
 - group_name: report
   repos:
   - area: Paraguay
