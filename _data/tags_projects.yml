@@ -376,6 +376,16 @@
     - API
     web_name: COVID 19 Data and Dashboard for South Africa
     web_url: https://bitly.com/covid19za-dash
+  - repo_name: turicas/covid19-br
+    tags:
+    - dashboard
+    web_name: Brazilian COVID19 confirmed/deaths per city
+    web_url: https://brasil.io/dataset/covid19
+  - content: Coronavirus frontend info about Brazil's states and cities
+    repo_name: ZomerVinicius/covid19-br-info
+    tags:
+    - dashboard
+    web_url: https://infocoronavirusbr.com/
   - &id005
     content: French project that aims to consolidate official informations, and making
       it available in open and easily reusable formats. The project also provides
@@ -615,7 +625,7 @@
     web_url: https://italy.coronavirusinfections.org/
   - *id008
   - *id009
-  - &id058
+  - &id059
     content: COVID-19 data for Kazakhstan. Data is collected hourly.
     repo_name: anuveyatsu/covid-19-kz
     tags:
@@ -898,6 +908,11 @@
       API\u63A5\u53E3"
     web_url: https://lab.isaaclin.cn/nCoV/
   - *id020
+  - content: API com dados atualizados sobre o status do COVID-19
+    repo_name: devarthurribeiro/covid19-brazil-api
+    tags:
+    - API
+    web_url: https://covid19-brazil-api.now.sh/
   - content: COVID data in Italy (csv files and json API)
     repo_name: ondata/covid19italia
     tags:
@@ -1197,6 +1212,14 @@
     tags:
     - APP
   - &id057
+    content: "Aplica\xE7\xE3o para acompanhamento das estat\xEDsticas do COVID-19\
+      \ no Brasil"
+    repo_name: robsonsilv4/covid19_statistics
+    tags:
+    - APP
+    - android
+    web_url: https://github.com/robsonsilv4/covid19_statistics/releases
+  - &id058
     content: This is tracker and help information android application for the new
       coronavirus (2019-nCoV).
     repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
@@ -1375,9 +1398,10 @@
 - group_name: android
   repos:
   - *id057
+  - *id058
 - group_name: csv
   repos:
-  - *id058
+  - *id059
 - group_name: report
   repos:
   - area: Paraguay
