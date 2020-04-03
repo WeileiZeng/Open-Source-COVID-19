@@ -8,6 +8,30 @@
     tags:
     - dashboard
     - API
+    
+- group_name: Brazil
+  repos:
+  - repo_name: devarthurribeiro/covid19-brazil-api
+    content: API com dados atualizados sobre o status do COVID-19
+    web_url: https://covid19-brazil-api.now.sh/
+    tags: 
+    - API
+  - repo_name: turicas/covid19-br
+    web_name: Brazilian COVID19 confirmed/deaths per city
+    web_url: https://brasil.io/dataset/covid19
+    tags: 
+    - dashboard
+  - repo_name: robsonsilv4/covid19_statistics
+    content: Aplicação para acompanhamento das estatísticas do COVID-19 no Brasil 
+    web_url: https://github.com/robsonsilv4/covid19_statistics/releases
+    tags: 
+    - APP
+    - android
+  - repo_name: ZomerVinicius/covid19-br-info
+    content: Coronavirus frontend info about Brazil's states and cities 
+    web_url: https://infocoronavirusbr.com/
+    tags: 
+    - dashboard
 
 - group_name: China
   repos:
