@@ -281,11 +281,12 @@
     content: COVID-Net model for COVID-19 detection on COVIDx dataset
     tags:
     - research
+    - AI
   - repo_name: velebit-ai/COVID-Next-Pytorch
     content: Pytorch upgrade of the COVID-Net for COVID-19 detection in X-Ray images
     tags:
     - research
-    
+    - AI
   - repo_name: geohot/corona
     content: Reverse engineering SARS-CoV-2
     tags:
@@ -294,6 +295,7 @@
     content: COVID-19 Detector from x-rays using Computer Vision and Deep Learning
     tags:
     - research
+    - AI
   - repo_name: FoldingAtHome/coronavirus
     web_name: Folding@home COVID-19 efforts
     web_url: http://foldingathome.org
@@ -314,7 +316,13 @@
     web_url: http://newsroom.medtronic.com/news-releases/news-release-details/medtronic-shares-ventilation-design-specifications-accelerate
     tags:
     - ventilator
-    
+  - repo_name: JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR
+    content: An image based CT attempt at coronavirus2019 (covid19) diagnosis.
+    tags:
+    - research
+    - AI
+
+
 - group_name:  Analysis
   repos:
   - repo_name: AaronWard/covid-19-analysis
