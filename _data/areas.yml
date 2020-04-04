@@ -261,8 +261,6 @@
     tags: 
     - dashboard
     area: brazil
-    
-  repos:
   - repo_name: devarthurribeiro/covid19-brazil-api
     content: API com dados atualizados sobre o status do COVID-19
     web_url: https://covid19-brazil-api.now.sh/
@@ -279,9 +277,6 @@
     web_url: https://infocoronavirusbr.com/
     tags: 
     - dashboard
-repo_name: Latin America Covid-19 Data Repository by DSRP
-web_name: -
-web_url: https://github.com/
   - repo_name: DataScienceResearchPeru/covid-19_latinoamerica
     content: Repository with daily updates related to Covid-19 of Latin America (South America)
     web_url: https://covid19latam.herokuapp.com/
