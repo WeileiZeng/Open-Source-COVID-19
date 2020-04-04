@@ -9,29 +9,7 @@
     - dashboard
     - API
     
-- group_name: Brazil
-  repos:
-  - repo_name: devarthurribeiro/covid19-brazil-api
-    content: API com dados atualizados sobre o status do COVID-19
-    web_url: https://covid19-brazil-api.now.sh/
-    tags: 
-    - API
-  - repo_name: turicas/covid19-br
-    web_name: Brazilian COVID19 confirmed/deaths per city
-    web_url: https://brasil.io/dataset/covid19
-    tags: 
-    - dashboard
-  - repo_name: robsonsilv4/covid19_statistics
-    content: Aplicação para acompanhamento das estatísticas do COVID-19 no Brasil 
-    web_url: https://github.com/robsonsilv4/covid19_statistics/releases
-    tags: 
-    - APP
-    - android
-  - repo_name: ZomerVinicius/covid19-br-info
-    content: Coronavirus frontend info about Brazil's states and cities 
-    web_url: https://infocoronavirusbr.com/
-    tags: 
-    - dashboard
+
 
 - group_name: China
   repos:
@@ -265,7 +243,7 @@
     - map
 
 
-- group_name: South America
+- group_name: South America, Brazil
   repos:
   - repo_name: matiasmicheletto/covid19-autotest-uns
     content: "[EN] A COVID-19 autotest web app with a configurable decision tree that logs the test result to a database. An administrator panel to set up the decision tree model and a dashboard to analyze the results. [ES-AR] Una aplicación web para autotest de COVID-19 con un árbol de decisión configurable que registra el resultado en una base de datos. Un panel administrador para configurar el arbol de decisión y un tablero para analizar los resultados."
@@ -284,6 +262,25 @@
     - dashboard
     area: brazil
     
+  repos:
+  - repo_name: devarthurribeiro/covid19-brazil-api
+    content: API com dados atualizados sobre o status do COVID-19
+    web_url: https://covid19-brazil-api.now.sh/
+    tags: 
+    - API
+  - repo_name: robsonsilv4/covid19_statistics
+    content: Aplicação para acompanhamento das estatísticas do COVID-19 no Brasil 
+    web_url: https://github.com/robsonsilv4/covid19_statistics/releases
+    tags: 
+    - APP
+    - android
+  - repo_name: ZomerVinicius/covid19-br-info
+    content: Coronavirus frontend info about Brazil's states and cities 
+    web_url: https://infocoronavirusbr.com/
+    tags: 
+    - dashboard
+
+
 
 - group_name: Singapore
   repos:

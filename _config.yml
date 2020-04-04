@@ -3,6 +3,9 @@ theme: jekyll-theme-leap-day
 exclude:
   - src
 
+github:
+  is_project_page: false
+
 google_analytics: UA-155170936-3
 
 
