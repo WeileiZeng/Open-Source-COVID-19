@@ -376,16 +376,6 @@
     - API
     web_name: COVID 19 Data and Dashboard for South Africa
     web_url: https://bitly.com/covid19za-dash
-  - repo_name: turicas/covid19-br
-    tags:
-    - dashboard
-    web_name: Brazilian COVID19 confirmed/deaths per city
-    web_url: https://brasil.io/dataset/covid19
-  - content: Coronavirus frontend info about Brazil's states and cities
-    repo_name: ZomerVinicius/covid19-br-info
-    tags:
-    - dashboard
-    web_url: https://infocoronavirusbr.com/
   - &id005
     content: French project that aims to consolidate official informations, and making
       it available in open and easily reusable formats. The project also provides
@@ -498,12 +488,11 @@
     - API
     web_name: North America live map
     web_url: https://coronavirus.1point3acres.com/en
-  - area: brazil
-    repo_name: turicas/covid19-br
+  - content: Coronavirus frontend info about Brazil's states and cities
+    repo_name: ZomerVinicius/covid19-br-info
     tags:
     - dashboard
-    web_name: Brazilian COVID19 confirmed/deaths per city
-    web_url: https://brasil.io/dataset/covid19
+    web_url: https://infocoronavirusbr.com/
   - content: "Coronavirus en Espa\xF1ol - Panel de estad\xEDsticas en Espa\xF1ol con\
       \ los \xFAltimos datos recibidos."
     tags:
@@ -790,17 +779,6 @@
     - analysis
     web_name: COVID19 India Cluster Network
     web_url: https://cluster.covid19india.org
-  - area: "Argentina, pcia. Buenos Aires, Bah\xEDa Blanca, Universidad Nacional del\
-      \ Sur - Regi\xF3n Sanitaria I."
-    content: "[EN] A COVID-19 autotest web app with a configurable decision tree that\
-      \ logs the test result to a database. An administrator panel to set up the decision\
-      \ tree model and a dashboard to analyze the results. [ES-AR] Una aplicaci\xF3\
-      n web para autotest de COVID-19 con un \xE1rbol de decisi\xF3n configurable\
-      \ que registra el resultado en una base de datos. Un panel administrador para\
-      \ configurar el arbol de decisi\xF3n y un tablero para analizar los resultados."
-    repo_name: matiasmicheletto/covid19-autotest-uns
-    tags:
-    - analysis
 - group_name: organization
   repos:
   - content: WHO's open source build for COVID-19, under development
@@ -908,11 +886,6 @@
       API\u63A5\u53E3"
     web_url: https://lab.isaaclin.cn/nCoV/
   - *id020
-  - content: API com dados atualizados sobre o status do COVID-19
-    repo_name: devarthurribeiro/covid19-brazil-api
-    tags:
-    - API
-    web_url: https://covid19-brazil-api.now.sh/
   - content: COVID data in Italy (csv files and json API)
     repo_name: ondata/covid19italia
     tags:
@@ -934,6 +907,11 @@
     - API
     web_name: covapi nyt data explorer
     web_url: https://covapi.herokuapp.com/
+  - content: API com dados atualizados sobre o status do COVID-19
+    repo_name: devarthurribeiro/covid19-brazil-api
+    tags:
+    - API
+    web_url: https://covid19-brazil-api.now.sh/
   - content: a Rest-API to get detailed figures about cases in Switzerland.
     repo_name: apfeuti/covid19-rest
     tags:
@@ -1212,14 +1190,6 @@
     tags:
     - APP
   - &id057
-    content: "Aplica\xE7\xE3o para acompanhamento das estat\xEDsticas do COVID-19\
-      \ no Brasil"
-    repo_name: robsonsilv4/covid19_statistics
-    tags:
-    - APP
-    - android
-    web_url: https://github.com/robsonsilv4/covid19_statistics/releases
-  - &id058
     content: This is tracker and help information android application for the new
       coronavirus (2019-nCoV).
     repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
@@ -1228,6 +1198,14 @@
     - android
     web_name: NamasteCorona-Coronavirus Global tracker android app
     web_url: https://govindapaliwal.github.io/NamasteCorona-coronavirus-tracker-android-app/
+  - &id058
+    content: "Aplica\xE7\xE3o para acompanhamento das estat\xEDsticas do COVID-19\
+      \ no Brasil"
+    repo_name: robsonsilv4/covid19_statistics
+    tags:
+    - APP
+    - android
+    web_url: https://github.com/robsonsilv4/covid19_statistics/releases
 - group_name: IOS
   repos:
   - *id051
@@ -1402,12 +1380,3 @@
 - group_name: csv
   repos:
   - *id059
-- group_name: report
-  repos:
-  - area: Paraguay
-    content: CovPY Auto Reporte. This project was created as an initiative by Penguin
-      Academy to build technology that smooths the peak impact of the COVID-19 pandemic
-      on the Paraguayan Health System.
-    repo_name: penguin-academy/covid-19-py
-    tags:
-    - report
