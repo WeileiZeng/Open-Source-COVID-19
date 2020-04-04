@@ -1019,6 +1019,12 @@
     web_name: COVID Report
     web_url: https://www.covid-report.com
   - *id026
+  - repo_name: yjlou/2019-nCov
+    tags:
+    - map
+    web_name: Use Google Maps Timeline data to compare with COVID-19 patient history
+      location.
+    web_url: https://pandemic.events/
   - content: According to Iranian Ministry of Health statistics. A simple page featuring
       an interactive map presenting nCoV-19 spread in Iran
     repo_name: par6n/ncov-19
