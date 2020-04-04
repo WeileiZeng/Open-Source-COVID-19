@@ -321,6 +321,16 @@
     tags:
     - research
     - AI
+  - repo_name: UCSD-AI4H/COVID-CT
+    web_name: PrePrints
+    web_url: https://arxiv.org/pdf/2003.13865.pdf
+    content: The COVID-CT-Dataset has 288 CT images containing clinical findings of COVID-19.
+    tags:
+    - data
+    - research
+    - organization
+
+
 
 
 - group_name:  Analysis
@@ -430,7 +440,12 @@
     tags:
     - analysis
     - AI
-
+  - repo_name: ImperialCollegeLondon/covid19model
+    content: Code for modelling estimated deaths and cases for COVID19.
+    tags:
+    - R
+    - analysis
+    - organization
 
 - group_name: Applications (apps, CLI)
   repos:

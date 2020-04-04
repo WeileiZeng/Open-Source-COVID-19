@@ -129,7 +129,7 @@ def reduce_repo_size(repos,min_stars):
 
 my_repos = get_current_repos()
 
-keywords=['COVID','nCoV','covid19','corona','sars-cov-2']
+keywords=['COVID','nCoV','covid19','corona','sars-cov-2','coronavirus']
 #keywords=['COVID']
 repos=[]
 for k in keywords:
