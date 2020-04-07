@@ -43,7 +43,13 @@
     "labels_url": "https://api.github.com/repos/DataScienceResearchPeru/covid-19_latinoamerica/labels{/name}",
     "language": "Python",
     "languages_url": "https://api.github.com/repos/DataScienceResearchPeru/covid-19_latinoamerica/languages",
-    "license": null,
+    "license": {
+        "key": "other",
+        "name": "Other",
+        "node_id": "MDc6TGljZW5zZTA=",
+        "spdx_id": "NOASSERTION",
+        "url": null
+    },
     "merges_url": "https://api.github.com/repos/DataScienceResearchPeru/covid-19_latinoamerica/merges",
     "milestones_url": "https://api.github.com/repos/DataScienceResearchPeru/covid-19_latinoamerica/milestones{/number}",
     "mirror_url": null,
@@ -51,8 +57,8 @@
     "network_count": 13,
     "node_id": "MDEwOlJlcG9zaXRvcnkyNDg0MTg4NDE=",
     "notifications_url": "https://api.github.com/repos/DataScienceResearchPeru/covid-19_latinoamerica/notifications{?since,all,participating}",
-    "open_issues": 14,
-    "open_issues_count": 14,
+    "open_issues": 15,
+    "open_issues_count": 15,
     "organization": {
         "avatar_url": "https://avatars3.githubusercontent.com/u/40831149?v=4",
         "events_url": "https://api.github.com/users/DataScienceResearchPeru/events{/privacy}",
@@ -100,11 +106,11 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/DataScienceResearchPeru/covid-19_latinoamerica/pulls{/number}",
-    "pushed_at": "2020-04-06T01:58:18Z",
+    "pushed_at": "2020-04-07T03:51:14Z",
     "releases_url": "https://api.github.com/repos/DataScienceResearchPeru/covid-19_latinoamerica/releases{/id}",
-    "size": 29298,
+    "size": 29426,
     "ssh_url": "git@github.com:DataScienceResearchPeru/covid-19_latinoamerica.git",
-    "stargazers_count": 31,
+    "stargazers_count": 33,
     "stargazers_url": "https://api.github.com/repos/DataScienceResearchPeru/covid-19_latinoamerica/stargazers",
     "statuses_url": "https://api.github.com/repos/DataScienceResearchPeru/covid-19_latinoamerica/statuses/{sha}",
     "subscribers_count": 12,
@@ -115,8 +121,8 @@
     "teams_url": "https://api.github.com/repos/DataScienceResearchPeru/covid-19_latinoamerica/teams",
     "temp_clone_token": "",
     "trees_url": "https://api.github.com/repos/DataScienceResearchPeru/covid-19_latinoamerica/git/trees{/sha}",
-    "updated_at": "2020-04-06T01:58:24Z",
+    "updated_at": "2020-04-07T03:51:16Z",
     "url": "https://api.github.com/repos/DataScienceResearchPeru/covid-19_latinoamerica",
-    "watchers": 31,
-    "watchers_count": 31
+    "watchers": 33,
+    "watchers_count": 33
 }
