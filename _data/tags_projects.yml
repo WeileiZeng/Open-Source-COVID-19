@@ -403,6 +403,12 @@
     - dashboard
     web_name: Covid-19 India Tracker
     web_url: https://covid19-in.netlify.com/
+  - content: Website which shows the latest COVID-19 stats in India.
+    repo_name: iamrohitsuthar/gocoronago
+    tags:
+    - dashboard
+    web_name: gocoronago
+    web_url: https://gocoronago.ml
   - &id006
     content: Dati COVID-19 Italia. Official data and dashboard maintained by Italian
       goverment
