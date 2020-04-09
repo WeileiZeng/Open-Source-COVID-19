@@ -1182,6 +1182,10 @@
     - ventilator
     web_name: medtronic shares ventilator design specification
     web_url: http://newsroom.medtronic.com/news-releases/news-release-details/medtronic-shares-ventilation-design-specifications-accelerate
+  - content: Open source oxygen concentrator.
+    repo_name: RepRapLtd/Oxygen-concentrator
+    tags:
+    - ventilator
 - group_name: paper
   repos:
   - *id039
