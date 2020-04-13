@@ -312,11 +312,16 @@
     - dashboard
     web_name: corona.info
     web_url: https://bonniesimon.github.io/corona.info/
+  - repo_name: chschoenenberger/covid19_dashboard
+    tags:
+    - dashboard
+    web_name: dashboard
+    web_url: https://chschoenenberger.shinyapps.io/covid19_dashboard/
   - &id029
     content: Offers an accessible way for data professionals to share dashboards (that
       are updated with new data automatically) without requiring any expertise in
       front-end development.
-    repo_name: chschoenenberger/covid19_dashboard
+    repo_name: github/covid19dashboards
     tags:
     - dashboard
     - python
