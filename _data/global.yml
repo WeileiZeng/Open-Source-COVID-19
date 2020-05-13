@@ -528,10 +528,10 @@
   - repo_name: p-j-r/covid-19
     content: Stochastic SIR models, adding age-structures and social contact data for the spread of covid-19. Also implements a network-cluster random-walk model for modelling the spread in cities & countries.
     tags:
-    -analysis
-    -python
-    -academic
-    -epidemiology
+    - analysis
+    - python
+    - academic
+    - epidemiology
 
 - group_name: Life and Academic
   repos:
