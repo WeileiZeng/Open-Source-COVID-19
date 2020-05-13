@@ -219,7 +219,7 @@
     web2_url: http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
     web_name: Visual Dashboard (desktop)
     web_url: https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
-  - &id012
+  - &id013
     content: This is a Nextstrain build for novel coronavirus (nCoV)
     repo_name: nextstrain/ncov
     tags:
@@ -227,7 +227,7 @@
     - analysis
     web_name: ncov
     web_url: https://nextstrain.org/ncov
-  - &id023
+  - &id024
     repo2_name: sorxrob/2019-ncov-frontend
     repo_name: sorxrob/2019-ncov-api
     tags:
@@ -235,13 +235,13 @@
     - API
     web_name: Map, data and timeline of coronavirus (COVID-19)
     web_url: https://the2019ncov.com
-  - &id027
+  - &id028
     tags:
     - dashboard
     - news
     web_name: "Wikipedia - 2019\u201320 coronavirus outbreak"
     web_url: https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak
-  - &id024
+  - &id025
     content: with API
     repo_name: JohnCoene/coronavirus
     tags:
@@ -258,6 +258,15 @@
     - data
     web_name: Coronavirus infections (COVID-19)
     web_url: https://coronavirusinfections.org/
+  - &id003
+    content: Website to track COVID-19 (2019-nCoV) self reported cases and make predictions
+      based off of these cases
+    repo_name: Covid-Self-report-Tool/cov-self-report-frontend
+    tags:
+    - dashboard
+    - data
+    web_name: COVID-19 Self Reporting Tool
+    web_url: https://www.covidselfreport.org
   - content: is a community-based project powered by over 460 volunteers from across
       the globe, ranging from data scientists, medical professionals, UI/UX designers,
       fullstack developers, to the general public.
@@ -290,13 +299,13 @@
     - dashboard
     web_name: Coronavirus Country Comparator
     web_url: https://boogheta.github.io/coronavirus-countries/
-  - &id029
+  - &id030
     content: Python Flask application that displays virus information
     repo_name: DykemaBill/virustracker
     tags:
     - dashboard
     - python
-  - &id033
+  - &id035
     content: A global R shiny dashboard showing the evolution and current state of
       the COVID-19 pandemic including map, tables, and plots.
     repo_name: chschoenenberger/covid19_dashboard
@@ -317,7 +326,7 @@
     - dashboard
     web_name: dashboard
     web_url: https://chschoenenberger.shinyapps.io/covid19_dashboard/
-  - &id030
+  - &id031
     content: Offers an accessible way for data professionals to share dashboards (that
       are updated with new data automatically) without requiring any expertise in
       front-end development.
@@ -327,21 +336,21 @@
     - python
     web_name: covid19dashboards
     web_url: https://covid19dashboards.com
-  - &id003
+  - &id004
     repo_name: datasets/covid-19
     tags:
     - data
     - dashboard
     web_name: Novel Coronavirus 2019 time series data on cases
     web_url: https://datahub.io/core/covid-19
-  - &id063
+  - &id065
     content: Coronavirus tracker app for iOS with maps & charts.
     repo_name: MhdHejazi/Corona
     tags:
     - APP
     - IOS
     - dashboard
-  - &id004
+  - &id005
     content: Covidify - corona virus report and dataset generator for python
     repo_name: AaronWard/covidify
     tags:
@@ -349,7 +358,7 @@
     - data
     - CLI
     - python
-  - &id061
+  - &id063
     content: "\u65B0\u578B\u51A0\u72B6\u75C5\u6BD2\u9632\u75AB\u4FE1\u606F\u6536\u96C6\
       \u5E73\u53F0"
     repo_name: wuhan2020/wuhan2020
@@ -358,7 +367,7 @@
     - hackathon
     web_name: wuhan2020
     web_url: https://wh.opensource-service.cn/#/
-  - &id038
+  - &id040
     content: "\u9762\u5411\u75AB\u533A\u5185\u5916\u6C11\u4F17\u548C\u533B\u7597\u673A\
       \u6784\u7684\u591A\u7EF4\u5EA6\u4FE1\u606F\u6574\u5408\u5E73\u53F0"
     repo_name: wuhan-support/wuhan.support
@@ -379,14 +388,14 @@
     web_name: "2019-nCov \u6B66\u6C49\u65B0\u578B\u51A0\u72B6\u75C5\u6BD2\u53EF\u89C6\
       \u5316"
     web_url: http://cuihuan.net/wuhan/news.html
-  - &id025
+  - &id026
     repo_name: dsfsi/covid19za
     tags:
     - dashboard
     - API
     web_name: COVID 19 Data and Dashboard for South Africa
     web_url: https://bitly.com/covid19za-dash
-  - &id005
+  - &id006
     content: French project that aims to consolidate official informations, and making
       it available in open and easily reusable formats. The project also provides
       a dashboard.
@@ -397,7 +406,7 @@
     - dashboard
     web_name: France COVID-19 Dashboard
     web_url: https://veille-coronavirus.fr
-  - &id006
+  - &id007
     content: All officially confirmed cases of infection in Germany. Listed by federal
       state, case number, date, county. Made by an official state institute.
     tags:
@@ -428,7 +437,7 @@
     - dashboard
     web_name: gocoronago
     web_url: https://gocoronago.ml
-  - &id007
+  - &id008
     content: Dati COVID-19 Italia. Official data and dashboard maintained by Italian
       goverment
     repo_name: pcm-dpc/COVID-19
@@ -438,7 +447,7 @@
     - organization
     web_name: Dipartimento della Protezione Civile (Italy Dashboard)
     web_url: http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1
-  - &id008
+  - &id009
     repo2_name: alessiodl/COVID19Feed2Json
     repo_name: alessiodl/COVID19Dashboard
     tags:
@@ -463,7 +472,7 @@
     - dashboard
     web_name: Dashboard for Corona Virus Italia COVID-19
     web_url: https://public.tableau.com/profile/giovanni.caputo#!/vizhome/COVID-19_15836095988890/NewDashboard
-  - &id009
+  - &id010
     content: "\u6771\u4EAC\u90FD \u65B0\u578B\u30B3\u30ED\u30CA\u30A6\u30A4\u30EB\u30B9\
       \u611F\u67D3\u75C7\u5BFE\u7B56\u30B5\u30A4\u30C8"
     repo_name: tokyo-metropolitan-gov/covid19
@@ -473,7 +482,7 @@
     - organization
     web_name: Tokyo COVID-19 Task Force website
     web_url: https://stopcovid19.metro.tokyo.lg.jp/
-  - &id010
+  - &id011
     content: "\u65B0\u578B\u30B3\u30ED\u30CA\u30A6\u30A4\u30EB\u30B9\uFF08COVID19\uFF09\
       \u306E\u56FD\u5185\u306B\u304A\u3051\u308B\u611F\u67D3\u306E\u72B6\u6CC1\u3092\
       \u539A\u751F\u52B4\u50CD\u7701\u306E\u5831\u9053\u767A\u8868\u8CC7\u6599\u304B\
@@ -498,14 +507,14 @@
     - dashboard
     web_name: Japan COVID-19 Coronavirus Tracker
     web_url: https://covid19japan.com
-  - &id011
+  - &id012
     content: COVID-19 Korea Dataset & Comprehensive Medical Dataset & visualizer
     repo2_name: ThisIsIsaac/Data-Science-for-COVID-19
     repo_name: ThisIsIsaac/COVID-19_Korea_Dataset
     tags:
     - data
     - dashboard
-  - &id026
+  - &id027
     content: "Coronavirus in US and Canada, Real Time Updates \u80BA\u708E\u75AB\u60C5\
       \u5B9E\u65F6\u52A8\u6001 \xB7 \u5317\u7F8E (\u4E00\u4EA9\u4E09\u5206\u5730)"
     tags:
@@ -538,45 +547,46 @@
   repos:
   - *id001
   - *id002
+  - *id003
   - content: MIDAS 2019 Novel Coronavirus Repository
     repo_name: midas-network/COVID-19
     tags:
     - data
-  - &id031
+  - &id032
     repo_name: Kamaropoulos/COVID19Py
     tags:
     - data
     - python
     web_name: Python package to easily access up-to-date data about COVID-19
     web_url: https://pypi.org/project/COVID19Py/
-  - *id003
+  - *id004
   - content: Open source webapp that let people report their health status to get
       overview of COVID-19
     repo_name: BustByte/coronastatus
     tags:
     - data
-  - &id036
+  - &id038
     repo_name: echen102/COVID-19-TweetIDs
     tags:
     - twitter
     - data
     web_name: 'COVID-19: The First Public Coronavirus Twitter Dataset'
     web_url: https://arxiv.org/abs/2003.07372
-  - &id037
+  - &id039
     repo_name: thepanacealab/covid19_twitter
     tags:
     - data
     - twitter
     web_name: Covid-19 Twitter dataset and pre-processing scripts
     web_url: http://www.panacealab.org/covid19/
-  - &id039
+  - &id041
     content: We are building an open database of COVID-19 cases with chest X-ray or
       CT images.
     repo_name: ieee8023/covid-chestxray-dataset
     tags:
     - research
     - data
-  - &id014
+  - &id015
     content: presented by the Allen Institute for AI
     tags:
     - research
@@ -584,7 +594,7 @@
     - organization
     web_name: COVID-19 Open Research Dataset (CORD-19)
     web_url: https://pages.semanticscholar.org/coronavirus-research
-  - &id015
+  - &id016
     content: by WHO
     tags:
     - research
@@ -592,7 +602,7 @@
     - organization
     web_name: Global research on coronavirus disease (COVID-19)
     web_url: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
-  - &id016
+  - &id017
     content: The COVID-CT-Dataset has 288 CT images containing clinical findings of
       COVID-19.
     repo_name: UCSD-AI4H/COVID-CT
@@ -602,7 +612,7 @@
     - organization
     web_name: PrePrints
     web_url: https://arxiv.org/pdf/2003.13865.pdf
-  - &id017
+  - &id018
     tags:
     - research
     - data
@@ -610,7 +620,7 @@
     web_name: code, data and tools developed by the Imperial College COVID-19 Response
       Team.
     web_url: https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/covid-19-resources/
-  - &id013
+  - &id014
     content: Collaborative project collecting data and analysis with built-in interactive
       compute environments.
     tags:
@@ -618,8 +628,8 @@
     - data
     web_name: renku_covid project page
     web_url: https://renkulab.io/projects/covid-19/covid-19-public-data
-  - *id004
-  - &id044
+  - *id005
+  - &id046
     content: Software, datasets, and other resources for diagnosing COVID-19 based
       on X-rays and CT scans.
     repo_name: jeremykohn/rid-covid
@@ -628,20 +638,20 @@
     - research
     - data
     - AI
-  - &id034
+  - &id036
     repo_name: GuangchuangYu/nCov2019
     tags:
     - R
     - data
     web_name: query stats of infected coronavirus cases
     web_url: https://mp.weixin.qq.com/s/_0D8ENb-4lGm4UV16Ok28A
-  - *id005
+  - *id006
   - content: All officially confirmed cases of infection in Germany. Listed by federal
       state, case number, date, county and source.
     repo_name: iceweasel1/COVID-19-Germany
     tags:
     - data
-  - *id006
+  - *id007
   - content: "Israel\u2019s Ministry of Health\u2019s COVID-19 Exposure Prevention\
       \ App"
     repo_name: MohGovIL/hamagen-react-native
@@ -649,13 +659,13 @@
     - data
     web_name: Ministry of Health
     web_url: https://health.gov.il/
-  - *id007
+  - *id008
   - content: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Italy Data Repository by
       Johns Hopkins CSSE
     repo_name: ricnov/COVID-19-ITALY
     tags:
     - data
-  - *id008
+  - *id009
   - content: Historical data about Covid19 epidemic in Italy
     repo_name: DavideMagno/ItalianCovidData
     tags:
@@ -671,16 +681,16 @@
     - data
     web_name: Italy Coronavirus infections (COVID-19)
     web_url: https://italy.coronavirusinfections.org/
-  - *id009
   - *id010
-  - &id071
+  - *id011
+  - &id073
     content: COVID-19 data for Kazakhstan. Data is collected hourly.
     repo_name: anuveyatsu/covid-19-kz
     tags:
     - data
     - csv
-  - *id011
-  - &id021
+  - *id012
+  - &id022
     content: data repo
     repo_name: nytimes/covid-19-data
     tags:
@@ -688,13 +698,13 @@
     - organization
     web_name: New York times COVID-19 update
     web_url: https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
-  - &id022
+  - &id023
     content: data on coronavirus (COVID-19) in New York City (NYC)
     repo_name: nychealth/coronavirus-data
     tags:
     - data
     - organization
-  - &id057
+  - &id059
     content: Data from BAG Tweets made useful.
     repo_name: daenuprobst/covid19-cases-switzerland
     tags:
@@ -707,18 +717,18 @@
     - data
 - group_name: analysis
   repos:
-  - *id012
+  - *id013
   - content: covid-19-analysis
     repo_name: AaronWard/covid-19-analysis
     tags:
     - analysis
-  - &id058
+  - &id060
     content: A Jupyter notebook with basic COVID-19 outbreak modeling.
     repo_name: jpoles1/open_covid19
     tags:
     - analysis
     - ipynb
-  - &id032
+  - &id033
     content: Simple SEIR model Python script for the COVID-19 pandemic with real world
       data comparison.
     repo_name: coronafighter/coronaSEIR
@@ -732,7 +742,7 @@
     - analysis
     web_name: Modeling COVID-19 Spread vs Healthcare Capacity
     web_url: https://alhill.shinyapps.io/COVID19seir/
-  - &id060
+  - &id062
     content: COVID-19 Biohackathon April 5-11 2020
     repo_name: virtual-biohackathons/covid-19-bh20
     tags:
@@ -761,7 +771,7 @@
     repo_name: pennsignals/chime
     tags:
     - analysis
-  - &id053
+  - &id055
     content: API & Webapp to answer questions about COVID-19. Using NLP (Question
       Answering) and trusted, curated data sources.
     repo_name: deepset-ai/COVID-QA
@@ -770,7 +780,7 @@
     - AI
     web_name: corona scholar
     web_url: https://covid.deepset.ai/
-  - &id059
+  - &id061
     content: "Dados e plots sobre as informa\xE7\xF5es do Corona Virus levantadas\
       \ pelo Peixe Babel."
     repo_name: peixebabel/COVID-19
@@ -783,12 +793,12 @@
     - analysis
     web_name: covid_report
     web_url: https://jmoldon.github.io/coronavirus_analysis/cvid_report.html
-  - *id013
+  - *id014
   - content: Wolfram Language code and notebooks related to the coronavirus outbreak
     repo_name: arnoudbuzing/wolfram-coronavirus
     tags:
     - analysis
-  - &id018
+  - &id019
     content: A site that displays up to date COVID-19 stats, powered by fastpages.
       Powered by github
     repo_name: github/covid19-dashboard
@@ -797,7 +807,7 @@
     - organization
     web_name: dashboard
     web_url: https://covid19dashboards.com
-  - &id062
+  - &id064
     content: The covid-19-vis project is a simulation and visualization project that
       predicts when the intense care unit (ICU) bed capacity of a certain region will
       be reached.
@@ -813,33 +823,43 @@
     - analysis
     web_name: COVID-19 Hospital Impact Model for Epidemics
     web_url: https://codeforphilly.github.io/chime/
-  - &id019
+  - &id020
     content: Real-time estimation of the novel coronavirus incubation time
     repo_name: HopkinsIDD/ncov_incubation
     tags:
     - analysis
     - organization
-  - &id054
+  - &id056
     content: Using deep learning to generate novel molecules as candidates for binding
       with coronavirus protease
     repo_name: mattroconnor/deep_learning_coronavirus_cure
     tags:
     - analysis
     - AI
-  - &id020
+  - &id021
     content: Code for modelling estimated deaths and cases for COVID19.
     repo_name: ImperialCollegeLondon/covid19model
     tags:
     - R
     - analysis
     - organization
+  - &id034
+    content: Stochastic SIR models, adding age-structures and social contact data
+      for the spread of covid-19. Also implements a network-cluster random-walk model
+      for modelling the spread in cities & countries.
+    repo_name: p-j-r/covid-19
+    tags:
+    - analysis
+    - python
+    - academic
+    - epidemiology
   - repo_name: KikiLetGo/VirusBroadcast
     tags:
     - analysis
     web_name: "\u8BA1\u7B97\u673A\u4EFF\u771F\u7A0B\u5E8F\u544A\u8BC9\u4F60\u4E3A\u4EC0\
       \u4E48\u73B0\u5728\u8FD8\u6CA1\u5230\u51FA\u95E8\u7684\u65F6\u5019"
     web_url: https://www.bilibili.com/video/av86478875
-  - &id035
+  - &id037
     content: R code and documentation to estimate case fatality ratio of COVID-19
       from cases outside China
     repo_name: calthaus/ncov-cfr
@@ -872,7 +892,7 @@
     repo_name: Tencent/TH_COVID19_International
     tags:
     - organization
-  - &id040
+  - &id042
     content: Open Source, Open Architecture Ventilator Engineering Design Specifications,
       by University of Florida Health
     repo_name: CSSALTlab/Open_Source_Ventilator
@@ -882,36 +902,36 @@
     - organization
     web_name: Open Source Ventilator Project
     web_url: https://simulation.health.ufl.edu/technology-development/open-source-ventilator-project/
-  - *id014
   - *id015
-  - &id042
+  - *id016
+  - &id044
     tags:
     - research
     - ventilator
     - organization
     web_name: MIT Emergency Ventilator (E-Vent) Project
     web_url: https://e-vent.mit.edu/
-  - &id043
+  - &id045
     repo_name: FoldingAtHome/coronavirus
     tags:
     - research
     - organization
     web_name: Folding@home COVID-19 efforts
     web_url: http://foldingathome.org
-  - *id016
   - *id017
   - *id018
   - *id019
   - *id020
-  - *id006
-  - *id007
-  - *id009
   - *id021
+  - *id007
+  - *id008
+  - *id010
   - *id022
+  - *id023
 - group_name: API
   repos:
-  - *id023
   - *id024
+  - *id025
   - content: An HTTP-based JSON API for tracking the development of the virus.
     repo_name: ExpDev07/coronavirus-tracker-api
     tags:
@@ -921,7 +941,7 @@
     - API
     web_name: COVID-2019 API, CoronaVirus 2019 Global Cases
     web_url: https://covid2019-api.herokuapp.com/
-  - &id028
+  - &id029
     content: Open crowd-sourcing/sensing environmental project that began after the
       Fukushima meltdown to measure radiation, now doing air quality and assisting
       on COVID-19 issues with disaster response and community expertise and experience
@@ -973,12 +993,12 @@
     web_name: "\u5168\u56FD\u65B0\u578B\u80BA\u708E\u75AB\u60C5\u5B9E\u65F6\u6570\u636E\
       API\u63A5\u53E3"
     web_url: https://lab.isaaclin.cn/nCoV/
-  - *id025
+  - *id026
   - content: COVID data in Italy (csv files and json API)
     repo_name: ondata/covid19italia
     tags:
     - API
-  - *id026
+  - *id027
   - repo_name: COVID19Tracking/website
     tags:
     - API
@@ -1019,7 +1039,7 @@
     - API
 - group_name: news
   repos:
-  - *id027
+  - *id028
   - content: "2020\u65B0\u51A0\u80BA\u708E\u8BB0\u5FC6:\u4F20\u5A92\u62A5\u9053\u4E0E\
       \u975E\u865A\u6784\u5199\u4F5C(\u6301\u7EED\u66F4\u65B0) Memory of 2020 nCov:Media\
       \ reports and Non-fiction Writings (Continuously updating)"
@@ -1063,7 +1083,7 @@
     - map
     web_name: COVID Report
     web_url: https://www.covid-report.com
-  - *id028
+  - *id029
   - repo_name: yjlou/2019-nCov
     tags:
     - map
@@ -1084,28 +1104,29 @@
     web_url: https://openbrian.github.io/covid-19-map-by-region/
 - group_name: python
   repos:
-  - *id029
   - *id030
   - *id031
-  - &id041
+  - *id032
+  - &id043
     content: Browse Covid-19 & SARS-CoV-2 Scientific Papers with Transformers
     repo_name: gsarti/covid-papers-browser
     tags:
     - research
     - python
     - paper
-  - *id032
-  - *id004
+  - *id033
+  - *id005
+  - *id034
 - group_name: R
   repos:
-  - *id033
-  - *id020
-  - *id034
   - *id035
-- group_name: twitter
-  repos:
+  - *id021
   - *id036
   - *id037
+- group_name: twitter
+  repos:
+  - *id038
+  - *id039
 - group_name: supply
   repos:
   - content: This facebook group is being formed to evaluate, design, validate, and
@@ -1115,12 +1136,12 @@
     - supply
     web_name: Open Source COVID19 Medical Supplies
     web_url: https://www.facebook.com/groups/670932227050506/
-  - *id038
+  - *id040
 - group_name: research
   repos:
-  - *id039
-  - *id040
-  - &id045
+  - *id041
+  - *id042
+  - &id047
     content: An open source hardware project to develop intubation kits needed to
       support medical professionals.
     repo_name: brentjackson/OpenIntubator
@@ -1129,10 +1150,10 @@
     - research
     web_name: wiki page
     web_url: https://github.com/brentjackson/OpenIntubator/wiki
-  - *id014
   - *id015
-  - *id041
-  - &id047
+  - *id016
+  - *id043
+  - &id049
     repo_name: karpathy/covid-sanity
     tags:
     - research
@@ -1140,26 +1161,26 @@
     web_name: This project organizes COVID-19 SARS-CoV-2 preprints from medRxiv and
       bioRxiv
     web_url: http://biomed-sanity.com/
-  - *id042
-  - &id046
+  - *id044
+  - &id048
     content: Low-Cost Open Source Ventilator or PAPR
     repo_name: jcl5m1/ventilator
     tags:
     - research
     - ventilator
-  - &id048
+  - &id050
     content: COVID-Net model for COVID-19 detection on COVIDx dataset
     repo_name: lindawangg/COVID-Net
     tags:
     - research
     - AI
-  - &id049
+  - &id051
     content: Pytorch upgrade of the COVID-Net for COVID-19 detection in X-Ray images
     repo_name: velebit-ai/COVID-Next-Pytorch
     tags:
     - research
     - AI
-  - &id050
+  - &id052
     content: PyTorch implementation of COVID-Net
     repo_name: IliasPap/COVIDNet
     tags:
@@ -1169,35 +1190,35 @@
     repo_name: geohot/corona
     tags:
     - research
-  - &id051
+  - &id053
     content: COVID-19 Detector from x-rays using Computer Vision and Deep Learning
     repo_name: elcronos/COVID-19
     tags:
     - research
     - AI
-  - *id043
-  - &id052
+  - *id045
+  - &id054
     content: An image based CT attempt at coronavirus2019 (covid19) diagnosis.
     repo_name: JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR
     tags:
     - research
     - AI
-  - *id016
   - *id017
-  - &id056
+  - *id018
+  - &id058
     tags:
     - crowdsourced-list
     - research
     web_name: COVID-19 Pathways and Interactions Research Activities
     web_url: https://docs.google.com/document/d/1T61ZVn9r6qoq5kIp5TRjLLI583S0C-IqNu73UWZBZXU/edit#
-  - *id044
+  - *id046
 - group_name: ventilator
   repos:
-  - *id040
-  - *id045
   - *id042
-  - *id046
-  - &id055
+  - *id047
+  - *id044
+  - *id048
+  - &id057
     tags:
     - ventilator
     - crowdsourced-list
@@ -1220,21 +1241,21 @@
     - ventilator
 - group_name: paper
   repos:
-  - *id041
-  - *id047
+  - *id043
+  - *id049
 - group_name: AI
   repos:
-  - *id048
-  - *id049
   - *id050
   - *id051
   - *id052
   - *id053
   - *id054
-  - *id044
+  - *id055
+  - *id056
+  - *id046
 - group_name: crowdsourced-list
   repos:
-  - *id055
+  - *id057
   - content: Useful projects and resources for COVID-19 (2019 novel Coronavirus)
     repo_name: soroushchehresa/awesome-coronavirus
     tags:
@@ -1250,20 +1271,20 @@
     - crowdsourced-list
     web_name: A science-based cheatsheet
     web_url: https://www.coronaviruscheatsheet.org/
-  - &id066
+  - &id068
     content: Internship status of companies - COVID-19 outbreak
     repo_name: gcreddy42/hiring2020
     tags:
     - crowdsourced-list
     - WFH
-  - *id056
-  - &id067
+  - *id058
+  - &id069
     content: null
     repo_name: HankiDesign/COVID-19-Remote-Work-and-Study-Resources
     tags:
     - crowdsourced-list
     - WFH
-  - *id044
+  - *id046
   - content: "A collection of all Open Source project for defending Wuhan/world during\
       \ COVID-19 \u652F\u63F4\u6B66\u6C49\u5F00\u6E90\u9879\u76EE\u6C47\u603B"
     repo_name: WeileiZeng/Open-Source-COVID-19
@@ -1275,18 +1296,18 @@
     repo_name: djsharpnel/CancelledEventsByCOVID19_jp
     tags:
     - crowdsourced-list
-  - *id057
-- group_name: ipynb
-  repos:
-  - *id058
   - *id059
-- group_name: hackathon
+- group_name: ipynb
   repos:
   - *id060
   - *id061
-- group_name: visualization
+- group_name: hackathon
   repos:
   - *id062
+  - *id063
+- group_name: visualization
+  repos:
+  - *id064
   - repo_name: xshaun/covid-19-uk
     tags:
     - visualization
@@ -1294,8 +1315,8 @@
     web_url: https://xshaun.github.io/covid-19-uk/
 - group_name: APP
   repos:
-  - *id063
-  - &id064
+  - *id065
+  - &id066
     content: Open source iOS app to track COVID-19 cases in a beautiful, easy-to-use
       interface
     repo_name: julianschiavo/Covidcheck
@@ -1307,7 +1328,7 @@
     - APP
     web_name: Coronavirus disease 2019 (COVID-19) information on Telegram Messenger
     web_url: https://t.me/corona_cases_bot
-  - &id065
+  - &id067
     content: Contact-Tracing app for cities. Get alerts when you cross paths with
       COVID-19.
     repo_name: yonahforst/trackandtrace
@@ -1324,7 +1345,7 @@
     repo_name: abuuzayr/coronavirus-apps
     tags:
     - APP
-  - &id069
+  - &id071
     content: This is tracker and help information android application for the new
       coronavirus (2019-nCoV).
     repo_name: GovindaPaliwal/NamasteCorona-coronavirus-tracker-android-app
@@ -1333,7 +1354,7 @@
     - android
     web_name: NamasteCorona-Coronavirus Global tracker android app
     web_url: https://govindapaliwal.github.io/NamasteCorona-coronavirus-tracker-android-app/
-  - &id070
+  - &id072
     content: "Aplica\xE7\xE3o para acompanhamento das estat\xEDsticas do COVID-19\
       \ no Brasil"
     repo_name: robsonsilv4/covid19_statistics
@@ -1343,8 +1364,8 @@
     web_url: https://github.com/robsonsilv4/covid19_statistics/releases
 - group_name: IOS
   repos:
-  - *id063
-  - *id064
+  - *id065
+  - *id066
 - group_name: CLI
   repos:
   - content: Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain
@@ -1359,12 +1380,13 @@
     repo_name: sagarkarira/coronavirus-tracker-cli
     tags:
     - CLI
-  - *id004
+  - *id005
 - group_name: react-native
   repos:
-  - *id065
+  - *id067
 - group_name: academic
   repos:
+  - *id034
   - content: A free community-driven virtual platform to support speakers at the 2020
       APS March Meeting. Supported by Q-ctrl.
     tags:
@@ -1383,6 +1405,9 @@
     web2_url: https://docs.google.com/spreadsheets/d/1O3wnaFYSZCgY3Ih4yDw3EIH2SC_-vjhyHwrCQSy0J7M/htmlview?fbclid=IwAR3Z5VxuKicyB5h0dAIRhU5TtZq78dzFBZ45f8G7fI1sBhWEyFIj5rGibME#
     web_name: Academic Conferences Cancelled due to Coronavirus Caution
     web_url: https://weileizeng.github.io/Cancelled-Academic-Conferences/
+- group_name: epidemiology
+  repos:
+  - *id034
 - group_name: handbook
   repos:
   - repo_name: goinvo/COVID19
@@ -1404,8 +1429,8 @@
     - WFH
     web_name: stayinghomeclub
     web_url: https://stayinghome.club/
-  - *id066
-  - &id068
+  - *id068
+  - &id070
     content: Free services, tools, articles and other resources for remote workers
       and distance learners
     tags:
@@ -1413,7 +1438,7 @@
     - WFH
     web_name: COVID-19 Remote Work and Study Resources
     web_url: https://github.com/HankiDesign/COVID-19-Remote-Work-and-Study-Resources
-  - *id067
+  - *id069
 - group_name: lockdown
   repos:
   - content: Trying to gather all information about current restrictions in the different
@@ -1494,7 +1519,7 @@
     - education
     web_name: Archivists At Home
     web_url: https://docs.google.com/document/d/16ubmmTtJ7oCjbUFI_75fqG9J62pul9dg_RCd4au4tMw/edit?fbclid=IwAR3kydub18T2mC9Hvo4RAfm-K-_clnLpkN1wTsK_KrNIIfwydSGKC4pTji0#heading=h.mbs65hitovr4
-  - *id068
+  - *id070
 - group_name: community
   repos:
   - tags:
@@ -1510,11 +1535,11 @@
     web_url: http://charity.foodblockchain.com.cn/?from=timeline&isappinstalled=0
 - group_name: android
   repos:
-  - *id069
-  - *id070
+  - *id071
+  - *id072
 - group_name: csv
   repos:
-  - *id071
+  - *id073
 - group_name: report
   repos:
   - area: Paraguay
