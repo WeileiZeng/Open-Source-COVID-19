@@ -53,6 +53,13 @@
     tags:
     - dashboard
     - data
+  - repo_name: Covid-Self-report-Tool/cov-self-report-frontend
+    web_name: COVID-19 Self Reporting Tool
+    web_url: https://www.covidselfreport.org
+    content: Website to track COVID-19 (2019-nCoV) self reported cases and make predictions based off of these cases
+    tags:
+    - dashboard
+    - data
 
 # dashboard only
   - repo_name: theleadio/corona-frontend
