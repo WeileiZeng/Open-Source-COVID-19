@@ -62,6 +62,13 @@
     - data
 
 # dashboard only
+  - repo_name: PetoLau/CoronaDash
+    web_name: CoronaDash
+    web_url: https://petolau.shinyapps.io/coronadash/
+    content: Clustering-analytical tool for comparing countries' COVID-19 trends
+    tags:
+    - dashboard
+    - R
   - repo_name: theleadio/corona-frontend
     repo2_name: theleadio/coronatracker
     web_name: CoronaTracker.com
