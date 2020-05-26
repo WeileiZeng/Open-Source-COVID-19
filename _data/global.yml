@@ -60,14 +60,14 @@
     tags:
     - dashboard
     - data
-   -repo_name: jakobzhao/virus
+  - repo_name: jakobzhao/virus
     web_name: Novel Coronavirus (COVID-19) Infection Map 
     web_url: https://plague.com/
     content: Website to track COVID-19
     tags:
-     - dashboard
-     - map
-     - python
+    - dashboard
+    - map
+    - python
 
 # dashboard only
   - repo_name: PetoLau/CoronaDash
@@ -154,12 +154,13 @@
     tags:
     - dashboard
     - python
-   - repo_name: 
-     web_name: COVID-19 Data Visualization with ECharts and Leaflet
-     web_url: https://medium.com/@Ovilia/making-a-covid-19-map-with-echarts-and-leaflet-30fdcd8739c6
-     content: Tutorial on making a COVID 19 map, example automated deployment at https://github.com/bkmgit/COVID-19map 
-      - map
-      - javascript
+  - repo_name: 
+    web_name: COVID-19 Data Visualization with ECharts and Leaflet
+    web_url: https://medium.com/@Ovilia/making-a-covid-19-map-with-echarts-and-leaflet-30fdcd8739c6
+    content: Tutorial on making a COVID 19 map, example automated deployment at https://github.com/bkmgit/COVID-19map 
+    tags:
+    - map
+    - javascript
      
 - group_name:  API, data
   repos:
