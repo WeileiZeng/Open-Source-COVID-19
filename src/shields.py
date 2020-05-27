@@ -1,4 +1,5 @@
-#!/Library/Frameworks/Python.framework/Versions/3.8/bin/python3
+#!/usr/local/bin/python3
+# !/Library/Frameworks/Python.framework/Versions/3.8/bin/python3
 # only update shields at every push
 
 # use Github API to get the data of repos, including star_counts
@@ -73,9 +74,10 @@ def counting(pool, requests_session, file_name,group_name,summary_file):
             except KeyError:
                 #print('no repo2')
                 pass
-    debug = False #True
+    debug = False
     if debug:
         for r in shields_repo_name :
+            print("---debug mode---:     r =",r)
             download_image(r)            
     else:
         pool.map(download_image,shields_repo_name)
@@ -84,10 +86,18 @@ def counting(pool, requests_session, file_name,group_name,summary_file):
 #counting(requests_session, file_name,group_name)
 
 from multiprocessing import Pool
+import sys
 if __name__ == "__main__":
-    pool=Pool(10)
+    pool_size=10
+    if (str(sys.argv[-1]) == "--debug"):
+        print("debug mode on. single thread used")
+        pool_size=1
+    else:
+        print("use --debug to turn on single threads for debuging. There is also a switch in the function.")
+    pool=Pool(pool_size)
     #much faster with pool
     counting(pool,requests_session, "../_data/global.yml","group_name","../_data/summary_global.json")
+    print("finish gloabl and start china")
     counting(pool,requests_session, "../_data/china.yml","group_name","../_data/summary_china.json")
     counting(pool,requests_session, "../_data/areas.yml","group_name","../_data/summary_areas.json")
 
