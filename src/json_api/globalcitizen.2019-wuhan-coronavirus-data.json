@@ -1,6 +1,6 @@
 {
     "archive_url": "https://api.github.com/repos/globalcitizen/2019-wuhan-coronavirus-data/{archive_format}{/ref}",
-    "archived": false,
+    "archived": true,
     "assignees_url": "https://api.github.com/repos/globalcitizen/2019-wuhan-coronavirus-data/assignees{/user}",
     "blobs_url": "https://api.github.com/repos/globalcitizen/2019-wuhan-coronavirus-data/git/blobs{/sha}",
     "branches_url": "https://api.github.com/repos/globalcitizen/2019-wuhan-coronavirus-data/branches{/branch}",
@@ -28,10 +28,10 @@
     "git_tags_url": "https://api.github.com/repos/globalcitizen/2019-wuhan-coronavirus-data/git/tags{/sha}",
     "git_url": "git://github.com/globalcitizen/2019-wuhan-coronavirus-data.git",
     "has_downloads": true,
-    "has_issues": true,
+    "has_issues": false,
     "has_pages": false,
-    "has_projects": true,
-    "has_wiki": true,
+    "has_projects": false,
+    "has_wiki": false,
     "homepage": "",
     "hooks_url": "https://api.github.com/repos/globalcitizen/2019-wuhan-coronavirus-data/hooks",
     "html_url": "https://github.com/globalcitizen/2019-wuhan-coronavirus-data",
@@ -57,8 +57,8 @@
     "network_count": 141,
     "node_id": "MDEwOlJlcG9zaXRvcnkyMzYxMTk5NDk=",
     "notifications_url": "https://api.github.com/repos/globalcitizen/2019-wuhan-coronavirus-data/notifications{?since,all,participating}",
-    "open_issues": 3,
-    "open_issues_count": 3,
+    "open_issues": 0,
+    "open_issues_count": 0,
     "owner": {
         "avatar_url": "https://avatars3.githubusercontent.com/u/505366?v=4",
         "events_url": "https://api.github.com/users/globalcitizen/events{/privacy}",
@@ -90,7 +90,7 @@
     "releases_url": "https://api.github.com/repos/globalcitizen/2019-wuhan-coronavirus-data/releases{/id}",
     "size": 476294,
     "ssh_url": "git@github.com:globalcitizen/2019-wuhan-coronavirus-data.git",
-    "stargazers_count": 626,
+    "stargazers_count": 627,
     "stargazers_url": "https://api.github.com/repos/globalcitizen/2019-wuhan-coronavirus-data/stargazers",
     "statuses_url": "https://api.github.com/repos/globalcitizen/2019-wuhan-coronavirus-data/statuses/{sha}",
     "subscribers_count": 60,
@@ -101,8 +101,8 @@
     "teams_url": "https://api.github.com/repos/globalcitizen/2019-wuhan-coronavirus-data/teams",
     "temp_clone_token": "",
     "trees_url": "https://api.github.com/repos/globalcitizen/2019-wuhan-coronavirus-data/git/trees{/sha}",
-    "updated_at": "2020-05-29T12:38:15Z",
+    "updated_at": "2020-06-02T23:10:15Z",
     "url": "https://api.github.com/repos/globalcitizen/2019-wuhan-coronavirus-data",
-    "watchers": 626,
-    "watchers_count": 626
+    "watchers": 627,
+    "watchers_count": 627
 }
