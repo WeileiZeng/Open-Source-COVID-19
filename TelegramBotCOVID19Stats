@@ -1,0 +1,120 @@
+import telebot
+
+from telebot import types
+
+import COVID19Py
+covid19 = COVID19Py.COVID19()
+
+bot = telebot.TeleBot('1154921497:AAHqFOZMYaF32T7nevXXA-IWMZRNVyO_RA0')
+
+
+# Функция, что сработает при отправке команды Старт
+
+# Здесь мы создаем быстрые кнопки, а также сообщение с привествием
+
+@bot.message_handler(commands=['start'])
+
+def start(message):
+
+	markup = types.ReplyKeyboardMarkup(resize_keyboard=True, row_width=2)
+
+	btn1 = types.KeyboardButton('In the world')
+
+	btn2 = types.KeyboardButton('Ukraine')
+
+	btn3 = types.KeyboardButton('Russia')
+
+	btn4 = types.KeyboardButton('Belarus')
+
+	btn5 = types.KeyboardButton('USA')
+
+	markup.add(btn1, btn2, btn3, btn4, btn5)
+
+
+
+	send_message = f"<b>Hello {message.from_user.first_name}!</b>\nEnter the country whose statistics you want to find out about \n" \
+				   f"You can use the /countries command to find out which countries you can find out about\n"
+
+	bot.send_message(message.chat.id, send_message, parse_mode='html', reply_markup=markup)
+
+
+
+
+
+@bot.message_handler(commands = ['countries'])
+def countries(message):
+	bot.send_message(message.chat.id, '<b>Countries whose statistics are available for viewing: Russia, Ukraine, Belarus, Germany, USA, Kazakhstan, Italy. </b>', parse_mode = 'html')
+
+@bot.message_handler(commands=['help'])
+def help(message):
+	bot.send_message(message.chat.id, 'Bot commands:\n /start - Launch the bot \n /countries - Countries whose statistics are available for viewing \n /other - other projects of the bot developer ')
+
+@bot.message_handler(commands=['other'])
+def other(message):
+	bot.send_message(message.chat.id, 'Other projects: @Dota2Assistant.\n Git Hub account - https://github.com/nks1ck')
+
+@bot.message_handler(content_types=['text'])
+
+def mess(message):
+
+	final_message = ""
+
+	get_message_bot = message.text.strip()
+
+	if get_message_bot == "USA":
+
+		location = covid19.getLocationByCountryCode("US")
+
+	elif get_message_bot == "Ukraine":
+
+		location = covid19.getLocationByCountryCode("UA")
+
+	elif get_message_bot == "Russia":
+
+		location = covid19.getLocationByCountryCode("RU")
+
+	elif get_message_bot == "Belarus":
+
+		location = covid19.getLocationByCountryCode("BY")
+
+	elif get_message_bot == "Kazakhstan":
+
+		location = covid19.getLocationByCountryCode("KZ")
+
+	elif get_message_bot == "Italy":
+
+		location = covid19.getLocationByCountryCode("IT")
+
+	elif get_message_bot == "France":
+
+		location = covid19.getLocationByCountryCode("FR")
+
+	elif get_message_bot == "Germany":
+
+		location = covid19.getLocationByCountryCode("DE")
+
+	elif get_message_bot == "Japan":
+
+		location = covid19.getLocationByCountryCode("JP")
+
+
+	else:
+
+		location = covid19.getLatest()
+
+		final_message = f"<u>In the world:</u>\n<b>Infected: </b>{location['confirmed']:,}\n<b>Deaths: </b>{location['deaths']:,}"
+
+	if final_message == "":
+		date = location[0]['last_updated'].split("T")
+		time = date[1].split(".")
+		final_message = f"<u>In the world:</u>\nPopulation: {location[0]['country_population']:,}\n" \
+						f"Latest update: {date[0]} {time[0]}\nLatest info:\n<b>" \
+						f"Infected: </b>{location[0]['latest']['confirmed']:,}\n<b>Deaths: </b>" \
+						f"{location[0]['latest']['deaths']:,}"
+
+	bot.send_message(message.chat.id, final_message, parse_mode='html')
+
+
+
+
+bot.polling(none_stop=True)
