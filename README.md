@@ -25,6 +25,7 @@ This navigation site collects many open source projects during COVID-19. 10000+ 
 * Mar 7, 2020, The original repo OpenSourceWuhan is renamed on March 7 2020. The original website still works (by redirecting to the new one).
 * Mar 17, 2020, add domain http://open-source-covid-19.weileizeng.com/ original domain https://weileizeng.github.io/Open-Source-COVID-19/
 * Mar 18, 2020, add navigation header and change layout, now have 3 pages: global, areas/countries, china.
+* Aug 14, 2020, this repo is no longer maintained. One can find all data in [_data](_data) folder
 
 ### Contribution
 * First, you are welcome to recommend more site by open issue or pull request!
