@@ -242,6 +242,13 @@
     tags:
     - data
     - twitter
+  - repo_name: RamiKrispin/coronavirus
+    web_name: The 2019 Novel Coronavirus COVID-19 Dataset
+    web_url: ramikrispin.github.io/coronavirus/
+    content: The coronavirus package provides a tidy format dataset of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic. The raw data pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus repository.
+    tags:
+    - API
+    - data
     
 - group_name: Supplies
   repos:
@@ -721,3 +728,8 @@
     - research
     - data
     - AI
+  - web_name: CoronaWhy
+    web_url: https://www.coronawhy.org/
+    web2_name: GitHub org
+    web2_url: https://github.com/CoronaWhy
+    

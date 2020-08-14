@@ -188,7 +188,13 @@
     content: Events cancelled or postponed due to COVID-19 infection in Japan
     tags:
     - crowdsourced-list
-
+  - repo_name: patilatharva/covid19tokyo.live.
+    web_name: covid19tokyo.live
+    web_url: https://covid19tokyo.live/
+    content: A coronavirus tracker for Tokyo, Japan.
+    tags:
+    - dashboard
+    
 - group_name: Kazakhstan
   repos:
    - repo_name: anuveyatsu/covid-19-kz
