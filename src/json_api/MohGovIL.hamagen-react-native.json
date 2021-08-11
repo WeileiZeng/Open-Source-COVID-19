@@ -101,8 +101,10 @@
     },
     "permissions": {
         "admin": false,
+        "maintain": false,
         "pull": true,
-        "push": false
+        "push": false,
+        "triage": false
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/MohGovIL/hamagen-react-native/pulls{/number}",

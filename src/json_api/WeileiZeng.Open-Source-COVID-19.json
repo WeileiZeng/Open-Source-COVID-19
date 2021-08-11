@@ -81,14 +81,16 @@
     },
     "permissions": {
         "admin": true,
+        "maintain": true,
         "pull": true,
-        "push": true
+        "push": true,
+        "triage": true
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/WeileiZeng/Open-Source-COVID-19/pulls{/number}",
-    "pushed_at": "2021-08-09T08:17:58Z",
+    "pushed_at": "2021-08-10T08:20:58Z",
     "releases_url": "https://api.github.com/repos/WeileiZeng/Open-Source-COVID-19/releases{/id}",
-    "size": 23224,
+    "size": 23289,
     "ssh_url": "git@github.com:WeileiZeng/Open-Source-COVID-19.git",
     "stargazers_count": 218,
     "stargazers_url": "https://api.github.com/repos/WeileiZeng/Open-Source-COVID-19/stargazers",
@@ -101,7 +103,7 @@
     "teams_url": "https://api.github.com/repos/WeileiZeng/Open-Source-COVID-19/teams",
     "temp_clone_token": "",
     "trees_url": "https://api.github.com/repos/WeileiZeng/Open-Source-COVID-19/git/trees{/sha}",
-    "updated_at": "2021-08-09T08:18:02Z",
+    "updated_at": "2021-08-10T08:21:02Z",
     "url": "https://api.github.com/repos/WeileiZeng/Open-Source-COVID-19",
     "watchers": 218,
     "watchers_count": 218

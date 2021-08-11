@@ -101,14 +101,16 @@
     },
     "permissions": {
         "admin": false,
+        "maintain": false,
         "pull": true,
-        "push": false
+        "push": false,
+        "triage": false
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/dsfsi/covid19za/pulls{/number}",
-    "pushed_at": "2021-08-10T07:55:07Z",
+    "pushed_at": "2021-08-11T07:29:16Z",
     "releases_url": "https://api.github.com/repos/dsfsi/covid19za/releases{/id}",
-    "size": 78012,
+    "size": 78100,
     "ssh_url": "git@github.com:dsfsi/covid19za.git",
     "stargazers_count": 227,
     "stargazers_url": "https://api.github.com/repos/dsfsi/covid19za/stargazers",
@@ -121,7 +123,7 @@
     "teams_url": "https://api.github.com/repos/dsfsi/covid19za/teams",
     "temp_clone_token": "",
     "trees_url": "https://api.github.com/repos/dsfsi/covid19za/git/trees{/sha}",
-    "updated_at": "2021-08-10T07:55:11Z",
+    "updated_at": "2021-08-11T05:02:01Z",
     "url": "https://api.github.com/repos/dsfsi/covid19za",
     "watchers": 227,
     "watchers_count": 227

@@ -81,14 +81,16 @@
     },
     "permissions": {
         "admin": false,
+        "maintain": false,
         "pull": true,
-        "push": false
+        "push": false,
+        "triage": false
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/stevenliuyi/covid19/pulls{/number}",
-    "pushed_at": "2021-08-10T07:47:19Z",
+    "pushed_at": "2021-08-11T07:48:21Z",
     "releases_url": "https://api.github.com/repos/stevenliuyi/covid19/releases{/id}",
-    "size": 7311044,
+    "size": 7335119,
     "ssh_url": "git@github.com:stevenliuyi/covid19.git",
     "stargazers_count": 314,
     "stargazers_url": "https://api.github.com/repos/stevenliuyi/covid19/stargazers",
@@ -101,7 +103,7 @@
     "teams_url": "https://api.github.com/repos/stevenliuyi/covid19/teams",
     "temp_clone_token": "",
     "trees_url": "https://api.github.com/repos/stevenliuyi/covid19/git/trees{/sha}",
-    "updated_at": "2021-08-10T07:47:23Z",
+    "updated_at": "2021-08-11T07:48:24Z",
     "url": "https://api.github.com/repos/stevenliuyi/covid19",
     "watchers": 314,
     "watchers_count": 314

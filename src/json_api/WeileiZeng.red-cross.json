@@ -81,8 +81,10 @@
     },
     "permissions": {
         "admin": true,
+        "maintain": true,
         "pull": true,
-        "push": true
+        "push": true,
+        "triage": true
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/WeileiZeng/red-cross/pulls{/number}",

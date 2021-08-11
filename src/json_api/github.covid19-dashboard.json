@@ -101,16 +101,18 @@
     },
     "permissions": {
         "admin": false,
+        "maintain": false,
         "pull": true,
-        "push": false
+        "push": false,
+        "triage": false
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/github/covid19-dashboard/pulls{/number}",
-    "pushed_at": "2021-08-10T06:18:36Z",
+    "pushed_at": "2021-08-11T06:22:59Z",
     "releases_url": "https://api.github.com/repos/github/covid19-dashboard/releases{/id}",
-    "size": 765787,
+    "size": 765924,
     "ssh_url": "git@github.com:github/covid19-dashboard.git",
-    "stargazers_count": 1299,
+    "stargazers_count": 1300,
     "stargazers_url": "https://api.github.com/repos/github/covid19-dashboard/stargazers",
     "statuses_url": "https://api.github.com/repos/github/covid19-dashboard/statuses/{sha}",
     "subscribers_count": 186,
@@ -121,8 +123,8 @@
     "teams_url": "https://api.github.com/repos/github/covid19-dashboard/teams",
     "temp_clone_token": "",
     "trees_url": "https://api.github.com/repos/github/covid19-dashboard/git/trees{/sha}",
-    "updated_at": "2021-08-10T07:13:19Z",
+    "updated_at": "2021-08-11T07:28:32Z",
     "url": "https://api.github.com/repos/github/covid19-dashboard",
-    "watchers": 1299,
-    "watchers_count": 1299
+    "watchers": 1300,
+    "watchers_count": 1300
 }
