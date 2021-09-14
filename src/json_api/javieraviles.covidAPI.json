@@ -1,4 +1,5 @@
 {
+    "allow_forking": true,
     "archive_url": "https://api.github.com/repos/javieraviles/covidAPI/{archive_format}{/ref}",
     "archived": false,
     "assignees_url": "https://api.github.com/repos/javieraviles/covidAPI/assignees{/user}",
@@ -80,6 +81,7 @@
         "url": "https://api.github.com/users/javieraviles"
     },
     "parent": {
+        "allow_forking": true,
         "archive_url": "https://api.github.com/repos/disease-sh/API/{archive_format}{/ref}",
         "archived": false,
         "assignees_url": "https://api.github.com/repos/disease-sh/API/assignees{/user}",
@@ -192,6 +194,7 @@
     "releases_url": "https://api.github.com/repos/javieraviles/covidAPI/releases{/id}",
     "size": 5722,
     "source": {
+        "allow_forking": true,
         "archive_url": "https://api.github.com/repos/disease-sh/API/{archive_format}{/ref}",
         "archived": false,
         "assignees_url": "https://api.github.com/repos/disease-sh/API/assignees{/user}",

@@ -1,4 +1,5 @@
 {
+    "allow_forking": true,
     "archive_url": "https://api.github.com/repos/datasets/covid-19/{archive_format}{/ref}",
     "archived": false,
     "assignees_url": "https://api.github.com/repos/datasets/covid-19/assignees{/user}",
@@ -102,11 +103,11 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/datasets/covid-19/pulls{/number}",
-    "pushed_at": "2021-09-13T06:14:33Z",
+    "pushed_at": "2021-09-14T06:14:34Z",
     "releases_url": "https://api.github.com/repos/datasets/covid-19/releases{/id}",
-    "size": 2243006,
+    "size": 2243547,
     "ssh_url": "git@github.com:datasets/covid-19.git",
-    "stargazers_count": 1106,
+    "stargazers_count": 1107,
     "stargazers_url": "https://api.github.com/repos/datasets/covid-19/stargazers",
     "statuses_url": "https://api.github.com/repos/datasets/covid-19/statuses/{sha}",
     "subscribers_count": 76,
@@ -117,8 +118,8 @@
     "teams_url": "https://api.github.com/repos/datasets/covid-19/teams",
     "temp_clone_token": "",
     "trees_url": "https://api.github.com/repos/datasets/covid-19/git/trees{/sha}",
-    "updated_at": "2021-09-13T06:14:47Z",
+    "updated_at": "2021-09-14T06:14:48Z",
     "url": "https://api.github.com/repos/datasets/covid-19",
-    "watchers": 1106,
-    "watchers_count": 1106
+    "watchers": 1107,
+    "watchers_count": 1107
 }
