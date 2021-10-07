@@ -37,6 +37,7 @@
     "hooks_url": "https://api.github.com/repos/BlankerL/DXY-COVID-19-Crawler/hooks",
     "html_url": "https://github.com/BlankerL/DXY-COVID-19-Crawler",
     "id": 235410230,
+    "is_template": false,
     "issue_comment_url": "https://api.github.com/repos/BlankerL/DXY-COVID-19-Crawler/issues/comments{/number}",
     "issue_events_url": "https://api.github.com/repos/BlankerL/DXY-COVID-19-Crawler/issues/events{/number}",
     "issues_url": "https://api.github.com/repos/BlankerL/DXY-COVID-19-Crawler/issues{/number}",
@@ -93,7 +94,7 @@
     "releases_url": "https://api.github.com/repos/BlankerL/DXY-COVID-19-Crawler/releases{/id}",
     "size": 243,
     "ssh_url": "git@github.com:BlankerL/DXY-COVID-19-Crawler.git",
-    "stargazers_count": 1844,
+    "stargazers_count": 1843,
     "stargazers_url": "https://api.github.com/repos/BlankerL/DXY-COVID-19-Crawler/stargazers",
     "statuses_url": "https://api.github.com/repos/BlankerL/DXY-COVID-19-Crawler/statuses/{sha}",
     "subscribers_count": 64,
@@ -103,10 +104,15 @@
     "tags_url": "https://api.github.com/repos/BlankerL/DXY-COVID-19-Crawler/tags",
     "teams_url": "https://api.github.com/repos/BlankerL/DXY-COVID-19-Crawler/teams",
     "temp_clone_token": "",
+    "topics": [
+        "2019-ncov",
+        "crawler",
+        "realtime-api"
+    ],
     "trees_url": "https://api.github.com/repos/BlankerL/DXY-COVID-19-Crawler/git/trees{/sha}",
-    "updated_at": "2021-09-30T06:22:34Z",
+    "updated_at": "2021-10-07T01:30:29Z",
     "url": "https://api.github.com/repos/BlankerL/DXY-COVID-19-Crawler",
     "visibility": "public",
-    "watchers": 1844,
-    "watchers_count": 1844
+    "watchers": 1843,
+    "watchers_count": 1843
 }

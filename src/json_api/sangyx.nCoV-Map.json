@@ -37,6 +37,7 @@
     "hooks_url": "https://api.github.com/repos/sangyx/nCoV-Map/hooks",
     "html_url": "https://github.com/sangyx/nCoV-Map",
     "id": 235573269,
+    "is_template": false,
     "issue_comment_url": "https://api.github.com/repos/sangyx/nCoV-Map/issues/comments{/number}",
     "issue_events_url": "https://api.github.com/repos/sangyx/nCoV-Map/issues/events{/number}",
     "issues_url": "https://api.github.com/repos/sangyx/nCoV-Map/issues{/number}",
@@ -93,7 +94,7 @@
     "releases_url": "https://api.github.com/repos/sangyx/nCoV-Map/releases{/id}",
     "size": 9301,
     "ssh_url": "git@github.com:sangyx/nCoV-Map.git",
-    "stargazers_count": 77,
+    "stargazers_count": 76,
     "stargazers_url": "https://api.github.com/repos/sangyx/nCoV-Map/stargazers",
     "statuses_url": "https://api.github.com/repos/sangyx/nCoV-Map/statuses/{sha}",
     "subscribers_count": 1,
@@ -103,10 +104,15 @@
     "tags_url": "https://api.github.com/repos/sangyx/nCoV-Map/tags",
     "teams_url": "https://api.github.com/repos/sangyx/nCoV-Map/teams",
     "temp_clone_token": "",
+    "topics": [
+        "2019-ncov",
+        "ncov-data-visual",
+        "ncov-map"
+    ],
     "trees_url": "https://api.github.com/repos/sangyx/nCoV-Map/git/trees{/sha}",
-    "updated_at": "2021-08-05T02:28:50Z",
+    "updated_at": "2021-10-05T16:01:38Z",
     "url": "https://api.github.com/repos/sangyx/nCoV-Map",
     "visibility": "public",
-    "watchers": 77,
-    "watchers_count": 77
+    "watchers": 76,
+    "watchers_count": 76
 }

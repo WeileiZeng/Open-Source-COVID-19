@@ -20,8 +20,8 @@
     "downloads_url": "https://api.github.com/repos/geohot/corona/downloads",
     "events_url": "https://api.github.com/repos/geohot/corona/events",
     "fork": false,
-    "forks": 369,
-    "forks_count": 369,
+    "forks": 371,
+    "forks_count": 371,
     "forks_url": "https://api.github.com/repos/geohot/corona/forks",
     "full_name": "geohot/corona",
     "git_commits_url": "https://api.github.com/repos/geohot/corona/git/commits{/sha}",
@@ -37,6 +37,7 @@
     "hooks_url": "https://api.github.com/repos/geohot/corona/hooks",
     "html_url": "https://github.com/geohot/corona",
     "id": 249301266,
+    "is_template": false,
     "issue_comment_url": "https://api.github.com/repos/geohot/corona/issues/comments{/number}",
     "issue_events_url": "https://api.github.com/repos/geohot/corona/issues/events{/number}",
     "issues_url": "https://api.github.com/repos/geohot/corona/issues{/number}",
@@ -49,7 +50,7 @@
     "milestones_url": "https://api.github.com/repos/geohot/corona/milestones{/number}",
     "mirror_url": null,
     "name": "corona",
-    "network_count": 369,
+    "network_count": 371,
     "node_id": "MDEwOlJlcG9zaXRvcnkyNDkzMDEyNjY=",
     "notifications_url": "https://api.github.com/repos/geohot/corona/notifications{?since,all,participating}",
     "open_issues": 47,
@@ -87,7 +88,7 @@
     "releases_url": "https://api.github.com/repos/geohot/corona/releases{/id}",
     "size": 638,
     "ssh_url": "git@github.com:geohot/corona.git",
-    "stargazers_count": 2074,
+    "stargazers_count": 2079,
     "stargazers_url": "https://api.github.com/repos/geohot/corona/stargazers",
     "statuses_url": "https://api.github.com/repos/geohot/corona/statuses/{sha}",
     "subscribers_count": 152,
@@ -97,10 +98,13 @@
     "tags_url": "https://api.github.com/repos/geohot/corona/tags",
     "teams_url": "https://api.github.com/repos/geohot/corona/teams",
     "temp_clone_token": "",
+    "topics": [
+        "covid-19"
+    ],
     "trees_url": "https://api.github.com/repos/geohot/corona/git/trees{/sha}",
-    "updated_at": "2021-10-01T23:19:31Z",
+    "updated_at": "2021-10-05T09:13:23Z",
     "url": "https://api.github.com/repos/geohot/corona",
     "visibility": "public",
-    "watchers": 2074,
-    "watchers_count": 2074
+    "watchers": 2079,
+    "watchers_count": 2079
 }

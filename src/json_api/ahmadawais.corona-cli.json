@@ -37,6 +37,7 @@
     "hooks_url": "https://api.github.com/repos/ahmadawais/corona-cli/hooks",
     "html_url": "https://github.com/ahmadawais/corona-cli",
     "id": 248479708,
+    "is_template": false,
     "issue_comment_url": "https://api.github.com/repos/ahmadawais/corona-cli/issues/comments{/number}",
     "issue_events_url": "https://api.github.com/repos/ahmadawais/corona-cli/issues/events{/number}",
     "issues_url": "https://api.github.com/repos/ahmadawais/corona-cli/issues{/number}",
@@ -93,7 +94,7 @@
     "releases_url": "https://api.github.com/repos/ahmadawais/corona-cli/releases{/id}",
     "size": 7474,
     "ssh_url": "git@github.com:ahmadawais/corona-cli.git",
-    "stargazers_count": 1794,
+    "stargazers_count": 1796,
     "stargazers_url": "https://api.github.com/repos/ahmadawais/corona-cli/stargazers",
     "statuses_url": "https://api.github.com/repos/ahmadawais/corona-cli/statuses/{sha}",
     "subscribers_count": 39,
@@ -103,10 +104,20 @@
     "tags_url": "https://api.github.com/repos/ahmadawais/corona-cli/tags",
     "teams_url": "https://api.github.com/repos/ahmadawais/corona-cli/teams",
     "temp_clone_token": "",
+    "topics": [
+        "corona",
+        "coronavirus",
+        "coronavirus-analysis",
+        "coronavirus-info",
+        "coronavirus-real-time",
+        "coronavirus-tracking",
+        "covid-19",
+        "visualization"
+    ],
     "trees_url": "https://api.github.com/repos/ahmadawais/corona-cli/git/trees{/sha}",
-    "updated_at": "2021-09-30T18:23:46Z",
+    "updated_at": "2021-10-05T23:50:47Z",
     "url": "https://api.github.com/repos/ahmadawais/corona-cli",
     "visibility": "public",
-    "watchers": 1794,
-    "watchers_count": 1794
+    "watchers": 1796,
+    "watchers_count": 1796
 }
