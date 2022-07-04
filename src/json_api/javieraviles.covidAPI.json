@@ -169,7 +169,7 @@
         "releases_url": "https://api.github.com/repos/disease-sh/API/releases{/id}",
         "size": 4231,
         "ssh_url": "git@github.com:disease-sh/API.git",
-        "stargazers_count": 2398,
+        "stargazers_count": 2397,
         "stargazers_url": "https://api.github.com/repos/disease-sh/API/stargazers",
         "statuses_url": "https://api.github.com/repos/disease-sh/API/statuses/{sha}",
         "subscribers_url": "https://api.github.com/repos/disease-sh/API/subscribers",
@@ -195,11 +195,12 @@
             "redis"
         ],
         "trees_url": "https://api.github.com/repos/disease-sh/API/git/trees{/sha}",
-        "updated_at": "2022-06-22T22:11:16Z",
+        "updated_at": "2022-07-03T22:12:20Z",
         "url": "https://api.github.com/repos/disease-sh/API",
         "visibility": "public",
-        "watchers": 2398,
-        "watchers_count": 2398
+        "watchers": 2397,
+        "watchers_count": 2397,
+        "web_commit_signoff_required": false
     },
     "permissions": {
         "admin": false,
@@ -301,7 +302,7 @@
         "releases_url": "https://api.github.com/repos/disease-sh/API/releases{/id}",
         "size": 4231,
         "ssh_url": "git@github.com:disease-sh/API.git",
-        "stargazers_count": 2398,
+        "stargazers_count": 2397,
         "stargazers_url": "https://api.github.com/repos/disease-sh/API/stargazers",
         "statuses_url": "https://api.github.com/repos/disease-sh/API/statuses/{sha}",
         "subscribers_url": "https://api.github.com/repos/disease-sh/API/subscribers",
@@ -327,11 +328,12 @@
             "redis"
         ],
         "trees_url": "https://api.github.com/repos/disease-sh/API/git/trees{/sha}",
-        "updated_at": "2022-06-22T22:11:16Z",
+        "updated_at": "2022-07-03T22:12:20Z",
         "url": "https://api.github.com/repos/disease-sh/API",
         "visibility": "public",
-        "watchers": 2398,
-        "watchers_count": 2398
+        "watchers": 2397,
+        "watchers_count": 2397,
+        "web_commit_signoff_required": false
     },
     "ssh_url": "git@github.com:javieraviles/covidAPI.git",
     "stargazers_count": 601,
@@ -356,5 +358,6 @@
     "url": "https://api.github.com/repos/javieraviles/covidAPI",
     "visibility": "public",
     "watchers": 601,
-    "watchers_count": 601
+    "watchers_count": 601,
+    "web_commit_signoff_required": false
 }
