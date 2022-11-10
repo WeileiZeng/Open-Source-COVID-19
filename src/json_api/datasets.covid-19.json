@@ -28,6 +28,7 @@
     "git_refs_url": "https://api.github.com/repos/datasets/covid-19/git/refs{/sha}",
     "git_tags_url": "https://api.github.com/repos/datasets/covid-19/git/tags{/sha}",
     "git_url": "git://github.com/datasets/covid-19.git",
+    "has_discussions": false,
     "has_downloads": true,
     "has_issues": true,
     "has_pages": false,
@@ -129,7 +130,7 @@
         "dataset"
     ],
     "trees_url": "https://api.github.com/repos/datasets/covid-19/git/trees{/sha}",
-    "updated_at": "2022-11-02T06:43:55Z",
+    "updated_at": "2022-11-07T17:02:26Z",
     "url": "https://api.github.com/repos/datasets/covid-19",
     "visibility": "public",
     "watchers": 1151,
