@@ -33,7 +33,7 @@
     "has_issues": true,
     "has_pages": false,
     "has_projects": true,
-    "has_wiki": true,
+    "has_wiki": false,
     "homepage": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
     "hooks_url": "https://api.github.com/repos/nytimes/covid-19-data/hooks",
     "html_url": "https://github.com/nytimes/covid-19-data",
@@ -60,8 +60,8 @@
     "network_count": 3492,
     "node_id": "MDEwOlJlcG9zaXRvcnkyNDk4NDI0NzY=",
     "notifications_url": "https://api.github.com/repos/nytimes/covid-19-data/notifications{?since,all,participating}",
-    "open_issues": 63,
-    "open_issues_count": 63,
+    "open_issues": 1,
+    "open_issues_count": 1,
     "organization": {
         "avatar_url": "https://avatars.githubusercontent.com/u/221409?v=4",
         "events_url": "https://api.github.com/users/nytimes/events{/privacy}",
@@ -115,7 +115,7 @@
     "releases_url": "https://api.github.com/repos/nytimes/covid-19-data/releases{/id}",
     "size": 10178926,
     "ssh_url": "git@github.com:nytimes/covid-19-data.git",
-    "stargazers_count": 6957,
+    "stargazers_count": 6956,
     "stargazers_url": "https://api.github.com/repos/nytimes/covid-19-data/stargazers",
     "statuses_url": "https://api.github.com/repos/nytimes/covid-19-data/statuses/{sha}",
     "subscribers_count": 320,
@@ -129,10 +129,10 @@
         "covid-19"
     ],
     "trees_url": "https://api.github.com/repos/nytimes/covid-19-data/git/trees{/sha}",
-    "updated_at": "2023-04-04T05:35:21Z",
+    "updated_at": "2023-04-05T01:32:06Z",
     "url": "https://api.github.com/repos/nytimes/covid-19-data",
     "visibility": "public",
-    "watchers": 6957,
-    "watchers_count": 6957,
+    "watchers": 6956,
+    "watchers_count": 6956,
     "web_commit_signoff_required": false
 }
