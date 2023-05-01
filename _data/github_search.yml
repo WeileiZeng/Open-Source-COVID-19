@@ -4,7 +4,7 @@
   forks: 3669
   full_name: owid/covid-19-data
   homepage: https://ourworldindata.org/coronavirus
-  stargazers_count: 5593
+  stargazers_count: 5594
 - description: "RNA vaccines have become a key tool in moving forward through the\
     \ challenges raised both in the current pandemic and in numerous other public\
     \ health and medical challenges.  With the rollout of vaccines for COVID-19, these\
@@ -97,7 +97,7 @@
   forks: 370
   full_name: alexgand/springer_free_books
   homepage: null
-  stargazers_count: 1640
+  stargazers_count: 1639
 - description: An awesome list of FREE resources for training, conferences, speaking,
     labs, reading, etc that are free. Originally built during COVID-19 for cybersecurity
     professionals with downtime can take advantage of to improve their skills and
@@ -172,7 +172,7 @@
   forks: 434
   full_name: OxCGRT/covid-policy-tracker
   homepage: https://www.bsg.ox.ac.uk/covidtracker
-  stargazers_count: 746
+  stargazers_count: 747
 - description: "COVID-19 Widget ( Inzidenz / Impfquoten / Hospitalisierungen ) f\xFC\
     r iOS innerhalb Deutschlands \U0001F1E9\U0001F1EA (Kreis/Stadt + Bundesland +\
     \ Trend)"
@@ -183,7 +183,7 @@
   stargazers_count: 672
 - description: Moved to https://github.com/covid19india/data/
   fork: false
-  forks: 626
+  forks: 625
   full_name: covid19india/api
   homepage: https://api.covid19india.org
   stargazers_count: 668
@@ -365,7 +365,7 @@
   stargazers_count: 430
 - description: Projections of COVID-19, in standardized format
   fork: false
-  forks: 328
+  forks: 329
   full_name: reichlab/covid19-forecast-hub
   homepage: https://covid19forecasthub.org
   stargazers_count: 423
@@ -583,10 +583,10 @@
 - description: "\U0001F9A0\U0001F1E9\U0001F1EA\U0001F4C8 An API for the spread of\
     \ covid-19 in Germany. Data from Robert-Koch-Institut."
   fork: false
-  forks: 52
+  forks: 53
   full_name: marlon360/rki-covid-api
   homepage: https://api.corona-zahlen.org/
-  stargazers_count: 259
+  stargazers_count: 260
 - description: "COVID-19 Mobility Data Aggregator. Scraper of Google, Apple, Waze\
     \ and TomTom COVID-19 Mobility Reports\U0001F6B6\U0001F698\U0001F689"
   fork: false
@@ -765,7 +765,7 @@
   forks: 256
   full_name: CleverProgrammers/react-covid-tracker
   homepage: null
-  stargazers_count: 202
+  stargazers_count: 203
 - description: COVID19 app backend
   fork: false
   forks: 53
@@ -986,18 +986,18 @@
   full_name: DrMahdiRezaei/DeepSOCIAL
   homepage: null
   stargazers_count: 164
+- description: Android sources for the Dutch Covid19 Notification App
+  fork: false
+  forks: 26
+  full_name: minvws/nl-covid19-notification-app-android
+  homepage: ''
+  stargazers_count: 163
 - description: An open source COVID-19 autoevaluation test that gives you the same
     results as coronamadrid.com but does not store your valuable data.
   fork: false
   forks: 28
   full_name: celiavelmar/open-covid19-test
   homepage: https://celiavelmar.github.io/open-covid19-test/
-  stargazers_count: 162
-- description: Android sources for the Dutch Covid19 Notification App
-  fork: false
-  forks: 26
-  full_name: minvws/nl-covid19-notification-app-android
-  homepage: ''
   stargazers_count: 162
 - description: "\U0001F489\U0001F916 Bot for the German \"ImpfterminService - 116117\""
   fork: false
@@ -1407,6 +1407,17 @@
   full_name: covid19-dash/covid-dashboard
   homepage: https://covid19-dash.github.io/
   stargazers_count: 122
+- description: 'COVID-19 Detection Chest X-rays and CT scans: COVID-19 Detection based
+    on Chest X-rays and CT Scans using four Transfer Learning algorithms: VGG16, ResNet50,
+    InceptionV3, Xception. The models were trained for 500 epochs on around 1000 Chest
+    X-rays and around 750 CT Scan images on Google Colab GPU. A Flask App was later
+    developed wherein user can upload Chest X-rays or CT Scans and get the output
+    of possibility of COVID infection.'
+  fork: false
+  forks: 75
+  full_name: kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans
+  homepage: https://towardsdatascience.com/covid-19-detector-flask-app-based-on-chest-x-rays-and-ct-scans-using-deep-learning-a0db89e1ed2a
+  stargazers_count: 122
 - description: "Repository del gruppo di lavoro data-driven per l\u2019emergenza covid-19"
   fork: false
   forks: 7
@@ -1430,17 +1441,6 @@
   forks: 11
   full_name: natematias/covid-19-social-science-research
   homepage: null
-  stargazers_count: 121
-- description: 'COVID-19 Detection Chest X-rays and CT scans: COVID-19 Detection based
-    on Chest X-rays and CT Scans using four Transfer Learning algorithms: VGG16, ResNet50,
-    InceptionV3, Xception. The models were trained for 500 epochs on around 1000 Chest
-    X-rays and around 750 CT Scan images on Google Colab GPU. A Flask App was later
-    developed wherein user can upload Chest X-rays or CT Scans and get the output
-    of possibility of COVID infection.'
-  fork: false
-  forks: 75
-  full_name: kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans
-  homepage: https://towardsdatascience.com/covid-19-detector-flask-app-based-on-chest-x-rays-and-ct-scans-using-deep-learning-a0db89e1ed2a
   stargazers_count: 121
 - description: Resources for the Udemy Course - Azure Data Factory For Data Engineers
     - Project on Covid19 by Ramesh Retnasamy
@@ -2029,7 +2029,7 @@
   forks: 30
   full_name: lanweihong/data-visualization-with-covid-19
   homepage: ''
-  stargazers_count: 85
+  stargazers_count: 86
 - description: COVID-19 Confirmed cases map over time
   fork: false
   forks: 15
@@ -2335,18 +2335,18 @@
   full_name: act-now-coalition/covid-act-now-website
   homepage: https://covidactnow.org/
   stargazers_count: 75
+- description: An instance of KG Hub to produce a knowledge graph for COVID-19 response.
+  fork: false
+  forks: 26
+  full_name: Knowledge-Graph-Hub/kg-covid-19
+  homepage: https://github.com/Knowledge-Graph-Hub/kg-covid-19/wiki
+  stargazers_count: 75
 - description: "\u5929\u6C60 \u65B0\u51A0\u75AB\u60C5\u76F8\u4F3C\u53E5\u5BF9\u5224\
     \u5B9A\u5927\u8D5B top6\u65B9\u6848"
   fork: false
   forks: 26
   full_name: yechens/COVID-19-sentence-pair
   homepage: null
-  stargazers_count: 75
-- description: An instance of KG Hub to produce a knowledge graph for COVID-19 response.
-  fork: false
-  forks: 26
-  full_name: Knowledge-Graph-Hub/kg-covid-19
-  homepage: https://github.com/Knowledge-Graph-Hub/kg-covid-19/wiki
   stargazers_count: 75
 - description: COVID-19 Rest & GraphQL API for US data, using Cloudflare Workers
   fork: false
@@ -2567,6 +2567,15 @@
   full_name: marvinborner/Melvix
   homepage: ''
   stargazers_count: 69
+- description: Considering the big change that the world is facing, as well as our
+    lives due to the COVID-19, we provide to people and companies a complete open-source
+    tool to analyze the social distancing for streets, parks, offices, and even crowded
+    places like malls, train stations, and others.
+  fork: false
+  forks: 16
+  full_name: JohnBetaCode/Social-Distancing-Analyser
+  homepage: https://www.youtube.com/channel/UCGIyDyfQFqBh--vQsunWqRw
+  stargazers_count: 69
 - description: Modelling the disease spread
   fork: false
   forks: 20
@@ -2578,15 +2587,6 @@
   forks: 18
   full_name: yijunwang0805/covid-19
   homepage: ''
-  stargazers_count: 68
-- description: Considering the big change that the world is facing, as well as our
-    lives due to the COVID-19, we provide to people and companies a complete open-source
-    tool to analyze the social distancing for streets, parks, offices, and even crowded
-    places like malls, train stations, and others.
-  fork: false
-  forks: 16
-  full_name: JohnBetaCode/Social-Distancing-Analyser
-  homepage: https://www.youtube.com/channel/UCGIyDyfQFqBh--vQsunWqRw
   stargazers_count: 68
 - description: Covid19 - Dashboard for Cuba
   fork: false
@@ -3972,17 +3972,17 @@
   full_name: ml-workgroup/covid-19-image-repository
   homepage: ''
   stargazers_count: 43
-- description: null
-  fork: false
-  forks: 14
-  full_name: takitsu21/covid-19-tracker
-  homepage: https://discord.gg/wTxbQYb
-  stargazers_count: 43
 - description: Detect Covid-19 with Chest X-Ray Data
   fork: false
   forks: 14
   full_name: aydinnyunus/COVID-19-DETECTION
   homepage: null
+  stargazers_count: 43
+- description: null
+  fork: false
+  forks: 14
+  full_name: takitsu21/covid-19-tracker
+  homepage: https://discord.gg/wTxbQYb
   stargazers_count: 43
 - description: "\U0001F9A0 Coronavirus (COVID-19) Map Dashboard using coronavirus-tracker-api"
   fork: false
@@ -4125,6 +4125,13 @@
   fork: false
   forks: 7
   full_name: rivas-lab/covid19
+  homepage: ''
+  stargazers_count: 41
+- description: " \U0001F9A0 Custom integration for Home Assistant to monitor covid\
+    \ numbers provided by Robert-Koch Institut"
+  fork: false
+  forks: 12
+  full_name: thebino/rki_covid
   homepage: ''
   stargazers_count: 41
 - description: Launched in March 2020 in response to the coronavirus disease 2019
@@ -4272,13 +4279,6 @@
   full_name: dialoguemd/covid-19
   homepage: https://covid19.dialogue.co/
   stargazers_count: 40
-- description: " \U0001F9A0 Custom integration for Home Assistant to monitor covid\
-    \ numbers provided by Robert-Koch Institut"
-  fork: false
-  forks: 12
-  full_name: thebino/rki_covid
-  homepage: ''
-  stargazers_count: 40
 - description: Simple covid-19 data monitoring with React.js
   fork: false
   forks: 14
@@ -4330,6 +4330,13 @@
   full_name: CDCgov/prime-simplereport
   homepage: https://simplereport.gov
   stargazers_count: 40
+- description: 'This is a 3D Slicer extension for segmentation and spatial reconstruction
+    of infiltrated, collapsed, and emphysematous areas in lung CT. '
+  fork: false
+  forks: 15
+  full_name: rbumm/SlicerLungCTAnalyzer
+  homepage: ''
+  stargazers_count: 40
 - description: COVID-19 Data for Australia
   fork: false
   forks: 80
@@ -4363,12 +4370,6 @@
   full_name: naver/covid19-nmt
   homepage: https://europe.naverlabs.com/blog/a-machine-translation-model-for-covid-19-research/
   stargazers_count: 39
-- description: COVID-19 Tracing
-  fork: false
-  forks: 9
-  full_name: jshmrtn/hygeia
-  homepage: https://info.covid19-tracing.ch/
-  stargazers_count: 39
 - description: This is a collection of COVID-19 policy trackers and data. It covers
     cross-country research in the areas of non-pharmaceutical interventions, economic
     and social policy responses, public attitudes, politics and media coverage.
@@ -4376,6 +4377,12 @@
   forks: 8
   full_name: lukaslehner/covid19policytrackers
   homepage: https://lukaslehner.github.io/covid19policytrackers/
+  stargazers_count: 39
+- description: COVID-19 Tracing
+  fork: false
+  forks: 9
+  full_name: jshmrtn/hygeia
+  homepage: https://info.covid19-tracing.ch/
   stargazers_count: 39
 - description: This is an Covid-19 tracker especially made for India
   fork: false
@@ -4438,13 +4445,6 @@
   forks: 5
   full_name: MobiusBeta/COVID-19-Victims-Memorial
   homepage: https://ncov19.cn/
-  stargazers_count: 39
-- description: 'This is a 3D Slicer extension for segmentation and spatial reconstruction
-    of infiltrated, collapsed, and emphysematous areas in lung CT. '
-  fork: false
-  forks: 15
-  full_name: rbumm/SlicerLungCTAnalyzer
-  homepage: ''
   stargazers_count: 39
 - description: null
   fork: false
@@ -4708,13 +4708,6 @@
   full_name: bayysp/Covid19Monitoring-With-GetX
   homepage: null
   stargazers_count: 36
-- description: 'Progressive Web Application com React para mapear os dados do COVID-19
-    pelo mundo. :bar_chart:'
-  fork: false
-  forks: 7
-  full_name: lucasrmagalhaes/covid19-react
-  homepage: https://covid19-pwa.netlify.app/
-  stargazers_count: 36
 - description: null
   fork: false
   forks: 7
@@ -4801,6 +4794,13 @@
   forks: 15
   full_name: nrc-cnrc/COVID-US
   homepage: ''
+  stargazers_count: 35
+- description: 'Progressive Web Application com React para mapear os dados do COVID-19
+    pelo mundo. :bar_chart:'
+  fork: false
+  forks: 7
+  full_name: lucasrmagalhaes/covid19-react
+  homepage: https://covid19-pwa.netlify.app/
   stargazers_count: 35
 - description: Analysis and cuts of data from the team behind the Oxford COVID policy
     tracker
@@ -4909,7 +4909,7 @@
   stargazers_count: 34
 - description: "\uC794\uC5EC\uBC31\uC2E0 \uC608\uC57D \uC2A4\uD06C\uB9BD\uD2B8"
   fork: false
-  forks: 39
+  forks: 38
   full_name: kimytsc/covid-rest-vaccine-macro
   homepage: ''
   stargazers_count: 34
@@ -5344,6 +5344,13 @@
   full_name: kishan-vk/Face-Mask-Dectection
   homepage: null
   stargazers_count: 32
+- description: This is a multipart workshop series on building, deploying and managing
+    microservices applications with Kubernetes and openshift.
+  fork: false
+  forks: 29
+  full_name: mohaghighi/Covid19-Web-Application
+  homepage: ''
+  stargazers_count: 31
 - description: null
   fork: false
   forks: 49
@@ -5393,16 +5400,16 @@
   full_name: vostpt/covid19-mobile
   homepage: https://covid19estamoson.gov.pt/
   stargazers_count: 31
-- description: null
-  fork: false
-  forks: 9
-  full_name: rOpenStats/COVID19analyticsBak2109
-  homepage: null
-  stargazers_count: 31
 - description: Wuhan Corona (COVID-19) patients dataset
   fork: false
   forks: 15
   full_name: abdkhanstd/COVID-19
+  homepage: null
+  stargazers_count: 31
+- description: null
+  fork: false
+  forks: 9
+  full_name: rOpenStats/COVID19analyticsBak2109
   homepage: null
   stargazers_count: 31
 - description: Coronavirus COVID-19 Dashboard - Global Kaggle Data
@@ -5534,13 +5541,6 @@
   full_name: DerLobi/impfdashboard-scriptable-widget
   homepage: ''
   stargazers_count: 31
-- description: This is a multipart workshop series on building, deploying and managing
-    microservices applications with Kubernetes and openshift.
-  fork: false
-  forks: 29
-  full_name: mohaghighi/Covid19-Web-Application
-  homepage: ''
-  stargazers_count: 30
 - description: covid-19 rumor
   fork: false
   forks: 27
@@ -5872,7 +5872,7 @@
 - description: 'This Script will get victims exact location by some phishing method..Here
     is the demo site '
   fork: false
-  forks: 18
+  forks: 17
   full_name: swagkarna/Covid19-Phishing-Steal-Location-
   homepage: https://swagkarna.github.io/Covid19-Phishing-Steal-Location-/
   stargazers_count: 28
@@ -5961,17 +5961,17 @@
   full_name: vmarcosp/covidbr-api
   homepage: http://covidbr-api.herokuapp.com
   stargazers_count: 28
-- description: A bluetooth-related vulnerability in some contact tracing apps
-  fork: false
-  forks: 7
-  full_name: alwentiu/COVIDSafe-CVE-2020-12856
-  homepage: null
-  stargazers_count: 28
 - description: Predicts COVID-19 from PA view of X-ray when submitted on the website
   fork: false
   forks: 7
   full_name: Aman9026/Predict-COVID-19
   homepage: ''
+  stargazers_count: 28
+- description: A bluetooth-related vulnerability in some contact tracing apps
+  fork: false
+  forks: 7
+  full_name: alwentiu/COVIDSafe-CVE-2020-12856
+  homepage: null
   stargazers_count: 28
 - description: Website for 2020 COVID-19 Global Hackathon
   fork: false
@@ -6148,16 +6148,16 @@
   full_name: arsltech/COVID-19Tracker
   homepage: https://www.youtube.com/watch?v=_aXztRbUZ80&t=16s
   stargazers_count: 27
-- description: "DataFountain\u75AB\u60C5\u95EE\u7B54\u52A9\u624Bkeras-bert\u5B9E\u73B0"
-  fork: false
-  forks: 9
-  full_name: LHT-Curry/COVID19_QA_baseline
-  homepage: ''
-  stargazers_count: 27
 - description: Covid-on-the-Web Dataset
   fork: false
   forks: 9
   full_name: Wimmics/CovidOnTheWeb
+  homepage: ''
+  stargazers_count: 27
+- description: "DataFountain\u75AB\u60C5\u95EE\u7B54\u52A9\u624Bkeras-bert\u5B9E\u73B0"
+  fork: false
+  forks: 9
+  full_name: LHT-Curry/COVID19_QA_baseline
   homepage: ''
   stargazers_count: 27
 - description: Contact tracing app for the COVID-19 epidemic
@@ -6773,13 +6773,6 @@
   full_name: aboutmydreams/2019-nCoV-data
   homepage: ''
   stargazers_count: 29
-- description: "\u5168\u56FD\u65B0\u578B\u51A0\u72B6\u75C5\u4F8B\u5C0F\u533A\u5206\
-    \u5E03\u56FE(\u6570\u636E\u505C\u6B62\u66F4\u65B0)"
-  fork: false
-  forks: 9
-  full_name: hack-fang/ncov-map
-  homepage: https://ncov.ahusmart.com/
-  stargazers_count: 28
 - description: "NCOV 2020\u75AB\u60C5\u9632\u63A7-\u4EBA\u5458\u5065\u5EB7\u7BA1\u7406\
     \u5E73\u53F0\u5F00\u6E90\u9879\u76EE\u7684\u5C0F\u7A0B\u5E8F\u540E\u7AEF--Golang\u7248\
     \u672C"
@@ -6787,6 +6780,13 @@
   forks: 16
   full_name: 2020NCOV/MiniProgram-server-Golang
   homepage: ''
+  stargazers_count: 29
+- description: "\u5168\u56FD\u65B0\u578B\u51A0\u72B6\u75C5\u4F8B\u5C0F\u533A\u5206\
+    \u5E03\u56FE(\u6570\u636E\u505C\u6B62\u66F4\u65B0)"
+  fork: false
+  forks: 9
+  full_name: hack-fang/ncov-map
+  homepage: https://ncov.ahusmart.com/
   stargazers_count: 28
 - description: Utility functions for the 2019-NCoV outbreak
   fork: false
@@ -7271,7 +7271,7 @@
   forks: 378
   full_name: corona-warn-app/cwa-server
   homepage: https://www.coronawarn.app/
-  stargazers_count: 1881
+  stargazers_count: 1883
 - description: ' Official repository for the Android version of the immuni application '
   fork: false
   forks: 150
@@ -7281,7 +7281,7 @@
 - description: A Deep Learning Toolkit for DTI, Drug Property, PPI, DDI, Protein Function
     Prediction (Bioinformatics)
   fork: false
-  forks: 234
+  forks: 235
   full_name: kexinhuang12345/DeepPurpose
   homepage: https://doi.org/10.1093/bioinformatics/btaa1005
   stargazers_count: 736
@@ -7302,7 +7302,7 @@
   forks: 46
   full_name: chinchiilla/corona-live-v4
   homepage: https://corona-live.com
-  stargazers_count: 373
+  stargazers_count: 372
 - description: 'MaskedFace-Net is a dataset of human faces with a correctly and incorrectly
     worn mask based on the dataset Flickr-Faces-HQ (FFHQ). '
   fork: false
@@ -7563,10 +7563,10 @@
   stargazers_count: 35
 - description: COVID19 Response Repository; by the People for the People.
   fork: false
-  forks: 4
+  forks: 3
   full_name: wikirona/wikirona
   homepage: ''
-  stargazers_count: 35
+  stargazers_count: 34
 - description: Repository for the backend app configuration
   fork: false
   forks: 12
@@ -7597,7 +7597,7 @@
   forks: 6
   full_name: berkocan/Doviz-Kurlari-Api-Json-Kodu
   homepage: https://www.genelpara.com
-  stargazers_count: 32
+  stargazers_count: 33
 - description: MediRepo - helps Hospitals with Daily Medical Reports - for COVID19
     patients with restricted visits
   fork: false
@@ -7677,17 +7677,17 @@
   full_name: zeyu2001/quarantine-bot
   homepage: https://dev.to/zeyu2001/i-built-a-python-whatsapp-bot-to-keep-me-sane-during-quarantine-nph
   stargazers_count: 26
-- description: Breeze ventilator for COVID-19
-  fork: false
-  forks: 1
-  full_name: breeze-ventilator/covid19-ventilator
-  homepage: ''
-  stargazers_count: 26
 - description: Live COVID-19 Statistics.
   fork: false
   forks: 1
   full_name: abdul-alim/covid19-india
   homepage: https://www.track-covid19.in
+  stargazers_count: 26
+- description: Breeze ventilator for COVID-19
+  fork: false
+  forks: 1
+  full_name: breeze-ventilator/covid19-ventilator
+  homepage: ''
   stargazers_count: 26
 - description: Twitter Analysis on Top countries - Health Department regarding COVID19
     virus update since the first case detected as on 31/12/19 in China. The Study
@@ -7853,13 +7853,6 @@
   full_name: markgrav/covid19
   homepage: null
   stargazers_count: 24
-- description: 'InterARTIC - An interactive local web application for viral whole
-    genome sequencing utilising the artic network pipelines.. '
-  fork: false
-  forks: 3
-  full_name: Psy-Fer/interARTIC
-  homepage: https://psy-fer.github.io/interARTIC/
-  stargazers_count: 24
 - description: Open source Artificial Intelligence for COVID-19 detection/early detection.
     Includes Convolutional Neural Networks (CNN) & Generative Adversarial Networks
     (GAN)
@@ -7867,6 +7860,13 @@
   forks: 10
   full_name: COVID-19-AI-Research-Project/AI-Classification
   homepage: https://www.facebook.com/covid19airesearch
+  stargazers_count: 24
+- description: 'InterARTIC - An interactive local web application for viral whole
+    genome sequencing utilising the artic network pipelines.. '
+  fork: false
+  forks: 3
+  full_name: Psy-Fer/interARTIC
+  homepage: https://psy-fer.github.io/interARTIC/
   stargazers_count: 24
 - description: To help in COVID-19 situation - An automated bot to find delivery window
     of InstaCart and Amazon Whole Foods Market, Costco Same Day and Walmart Groceries.
@@ -8043,18 +8043,18 @@
   full_name: robbyrahmana/app_covid19
   homepage: null
   stargazers_count: 22
+- description: Using Deep Learning to detect Covid-19 from X-Ray/CT scans of patients
+  fork: false
+  forks: 12
+  full_name: rekalantar/covid19_detector
+  homepage: null
+  stargazers_count: 22
 - description: Publicly available structured COVID-19 data from India, extracted automatically
     from daily health bulletins published by state governments.
   fork: false
   forks: 11
   full_name: IBM/covid19-india-data
   homepage: https://ibm.biz/covid-data-india
-  stargazers_count: 22
-- description: Using Deep Learning to detect Covid-19 from X-Ray/CT scans of patients
-  fork: false
-  forks: 12
-  full_name: rekalantar/covid19_detector
-  homepage: null
   stargazers_count: 22
 - description: Canadian COVID-19 Data Archive
   fork: false
@@ -8349,12 +8349,6 @@
   full_name: OBrunoVieira/Covid-19-Android
   homepage: ''
   stargazers_count: 21
-- description: Interactive Web Visualizations of COVID19 Cases in Switzerland
-  fork: false
-  forks: 21
-  full_name: daenuprobst/dashcoch
-  homepage: null
-  stargazers_count: 20
 - description: "Evolution of deaths by covid19 since the first death and some simulations\
     \ (Evolu\xE7\xE3o do n\xFAmero de mortos por Covid19 desde o primeiro morto e\
     \ algumas simula\xE7\xF5es)"
@@ -8362,6 +8356,12 @@
   forks: 6
   full_name: AGPatriota/Covid19
   homepage: ''
+  stargazers_count: 20
+- description: Interactive Web Visualizations of COVID19 Cases in Switzerland
+  fork: false
+  forks: 21
+  full_name: daenuprobst/dashcoch
+  homepage: null
   stargazers_count: 20
 - description: Wang et al SEIR-like model for 2019/20 Covid-19 outbreak
   fork: false
@@ -8997,18 +8997,18 @@
   full_name: texano00/covid19-people-counter-system
   homepage: ''
   stargazers_count: 16
-- description: null
-  fork: false
-  forks: 5
-  full_name: ANRGUSC/lacounty_covid19_data
-  homepage: null
-  stargazers_count: 16
 - description: Ransomware example on Python, created during containment for educational
     purposes
   fork: false
   forks: 5
   full_name: T-wcs/RansomPy-Covid19
   homepage: ''
+  stargazers_count: 16
+- description: null
+  fork: false
+  forks: 5
+  full_name: ANRGUSC/lacounty_covid19_data
+  homepage: null
   stargazers_count: 16
 - description: Covid-19 Search App
   fork: false
@@ -9143,12 +9143,11 @@
   full_name: LucaAngioloni/fit-COVID19
   homepage: ''
   stargazers_count: 16
-- description: An R package for tracking coronavirus(COVID-19) cases all over the
-    world
+- description: null
   fork: false
   forks: 1
-  full_name: PlasterPate/covid19Tracker
-  homepage: ''
+  full_name: DGLcsGaming/dz-covid19.com
+  homepage: null
   stargazers_count: 16
 - description: 'This is one of the first projects that I worked on ever since I started
     learning web development. Covid had a devastating impact on millions of people
@@ -9168,11 +9167,12 @@
   full_name: ERU-Keep-Moving/km-covid19-chatbot
   homepage: ''
   stargazers_count: 16
-- description: null
+- description: An R package for tracking coronavirus(COVID-19) cases all over the
+    world
   fork: false
   forks: 1
-  full_name: DGLcsGaming/dz-covid19.com
-  homepage: null
+  full_name: PlasterPate/covid19Tracker
+  homepage: ''
   stargazers_count: 16
 - description: 'Data pipeline for uploading, preprocessing, and visualising COVID19
     data '
@@ -9363,12 +9363,11 @@
   full_name: garushyants/covid19_russia_mapping
   homepage: null
   stargazers_count: 15
-- description: "\uC0C8\uB85C\uC6B4 \uC790\uAC00\uC9C4\uB2E8 \uC0AC\uC774\uD2B8\uC5D0\
-    \ \uB9DE\uAC8C \uC81C\uC791\uB41C \uC790\uB3D9\uD654 \uC2A4\uD06C\uB9BD\uD2B8"
+- description: ':mask: COVID-19 Data Challenge'
   fork: false
   forks: 2
-  full_name: comjun04/covid19-hcheck-auto
-  homepage: null
+  full_name: tyz910/sberbank-covid19
+  homepage: ''
   stargazers_count: 15
 - description: Python script to evaluation the correctness of SpO2 estimation algorithms
   fork: false
@@ -9376,11 +9375,12 @@
   full_name: CoVital-Project/Spo2_evaluation
   homepage: null
   stargazers_count: 15
-- description: ':mask: COVID-19 Data Challenge'
+- description: "\uC0C8\uB85C\uC6B4 \uC790\uAC00\uC9C4\uB2E8 \uC0AC\uC774\uD2B8\uC5D0\
+    \ \uB9DE\uAC8C \uC81C\uC791\uB41C \uC790\uB3D9\uD654 \uC2A4\uD06C\uB9BD\uD2B8"
   fork: false
   forks: 2
-  full_name: tyz910/sberbank-covid19
-  homepage: ''
+  full_name: comjun04/covid19-hcheck-auto
+  homepage: null
   stargazers_count: 15
 - description: Bioinformatics analysis of SARS-CoV-2
   fork: false
@@ -9393,15 +9393,6 @@
   forks: 1
   full_name: tgerke/covid-policy
   homepage: ''
-  stargazers_count: 15
-- description: Flask based web app with five machine learning models on the 10 most
-    common disease prediction, covid19 prediction, breast cancer, chronic kidney disease
-    and heart disease predictions with their symptoms as inputs or medical report
-    (pdf format) as input.
-  fork: false
-  forks: 14
-  full_name: Elysian01/Impulse-LifeSaviour
-  homepage: https://impulse101.herokuapp.com/
   stargazers_count: 15
 - description: COVID-10 Analysis
   fork: false
@@ -9508,17 +9499,17 @@
   full_name: leopoul/covid19_grafana
   homepage: null
   stargazers_count: 14
-- description: "Reposit\xF3rio projeto CovidLP"
-  fork: false
-  forks: 8
-  full_name: CovidLP/app_COVID19
-  homepage: http://www.est.ufmg.br/covidlp
-  stargazers_count: 14
 - description: null
   fork: false
   forks: 8
   full_name: uclaml/ucla-covid19-forecasts
   homepage: null
+  stargazers_count: 14
+- description: "Reposit\xF3rio projeto CovidLP"
+  fork: false
+  forks: 8
+  full_name: CovidLP/app_COVID19
+  homepage: http://www.est.ufmg.br/covidlp
   stargazers_count: 14
 - description: "Notifica Sa\xFAde - Uma ferramenta para centralizar notifica\xE7\xF5\
     es de casos de COVID-19"
@@ -9593,12 +9584,14 @@
   full_name: Rakesh-Nagaraju/Twitter-Data-Analysis-on-COVID19-using-Hadoop-Flume-Hive-and-Spark.
   homepage: ''
   stargazers_count: 14
-- description: Simple Python webservice to provide the latest statistics about Coronavirus
-    COVID-19 in JSON format.
+- description: Flask based web app with five machine learning models on the 10 most
+    common disease prediction, covid19 prediction, breast cancer, chronic kidney disease
+    and heart disease predictions with their symptoms as inputs or medical report
+    (pdf format) as input.
   fork: false
-  forks: 1
-  full_name: mahmoudadel2/covid19-webservice
-  homepage: null
+  forks: 14
+  full_name: Elysian01/Impulse-LifeSaviour
+  homepage: https://impulse101.herokuapp.com/
   stargazers_count: 14
 - description: Analysis of the population diversity of SARS-CoV-2 within and between
     individual patients
@@ -9612,6 +9605,13 @@
   fork: false
   forks: 1
   full_name: thunlp/COVID19-CountryImage
+  homepage: null
+  stargazers_count: 14
+- description: Simple Python webservice to provide the latest statistics about Coronavirus
+    COVID-19 in JSON format.
+  fork: false
+  forks: 1
+  full_name: mahmoudadel2/covid19-webservice
   homepage: null
   stargazers_count: 14
 - description: Desktop app to retrieve COVID-19 Stats and download them to files on
@@ -9634,19 +9634,19 @@
   full_name: zabir-nabil/covid19-few-shot-learning
   homepage: null
   stargazers_count: 14
-- description: 'Covid19 UI | Local Data Tracker & Compare the number of deaths in
-    Countries  '
-  fork: false
-  forks: 0
-  full_name: erdidogan/SARS-CoV-2
-  homepage: https://sars-cov-2.vercel.app
-  stargazers_count: 14
 - description: web app that records the condition of covid19 and to be awareness of
     this
   fork: false
   forks: 0
   full_name: thukyaw11/COVID-19Tracker
   homepage: https://covid19mm.netlify.com
+  stargazers_count: 14
+- description: 'Covid19 UI | Local Data Tracker & Compare the number of deaths in
+    Countries  '
+  fork: false
+  forks: 0
+  full_name: erdidogan/SARS-CoV-2
+  homepage: https://sars-cov-2.vercel.app
   stargazers_count: 14
 - description: Machine learning to predict future number Covid19 Daily Cases (7-day
     moving average). Long Short Term Memory (LSTM) Predictor and Reinforcement Learning
@@ -9799,17 +9799,17 @@
   full_name: AleGiovanardi/covidhelper
   homepage: ''
   stargazers_count: 13
-- description: Created with CodeSandbox
-  fork: false
-  forks: 46
-  full_name: mahowa/Covid-19-d3
-  homepage: https://codesandbox.io/s/github/mahowa/Covid-19-d3
-  stargazers_count: 13
 - description: Aplikasi untuk memonitoring data penyebaran virus covid-19
   fork: false
   forks: 5
   full_name: rbayuokt/Covid19-Tracker-ReactNative
   homepage: null
+  stargazers_count: 13
+- description: Created with CodeSandbox
+  fork: false
+  forks: 46
+  full_name: mahowa/Covid-19-d3
+  homepage: https://codesandbox.io/s/github/mahowa/Covid-19-d3
   stargazers_count: 13
 - description: "\u5927\u962A\u5E02\u3000\u65B0\u578B\u30B3\u30ED\u30CA\u30A6\u30A4\
     \u30EB\u30B9\u611F\u67D3\u75C7\u5BFE\u7B56\u652F\u63F4\u60C5\u5831\u30B5\u30A4\
@@ -9819,13 +9819,6 @@
   full_name: osakacityict/covid19
   homepage: https://www.city.osaka.lg.jp/contents/wdu010/covid19/
   stargazers_count: 13
-- description: Deprecated - A fast API service for retrieving day to day stats about
-    Coronavirus(COVID-19, SARS-CoV-2) outbreak in Kerala(India).
-  fork: false
-  forks: 4
-  full_name: yedhink/covid19-kerala-api-deprecated
-  homepage: https://covid19-kerala-api.herokuapp.com/
-  stargazers_count: 13
 - description: "\u897F\u5317\u5DE5\u4E1A\u5927\u5B66\u6BCF\u65E5\u75AB\u60C5\u586B\
     \u62A5\u81EA\u52A8\u5316\u7A0B\u5E8F | A utility to report health status automatically\
     \ for NWPU."
@@ -9833,6 +9826,13 @@
   forks: 4
   full_name: Pinming/NWPU_COVID19_AutoReport
   homepage: ''
+  stargazers_count: 13
+- description: Deprecated - A fast API service for retrieving day to day stats about
+    Coronavirus(COVID-19, SARS-CoV-2) outbreak in Kerala(India).
+  fork: false
+  forks: 4
+  full_name: yedhink/covid19-kerala-api-deprecated
+  homepage: https://covid19-kerala-api.herokuapp.com/
   stargazers_count: 13
 - description: 'A Tutorial on Modelling Number of Infected Cases in Turkey of COVID-19
     Using Machine Learning & AI '
@@ -9906,18 +9906,18 @@
   full_name: railslove/rcvr-api
   homepage: https://recoverapp.de
   stargazers_count: 13
+- description: Examples to get started with IBM Functional Genomics Platform
+  fork: false
+  forks: 15
+  full_name: IBM/omxware-getting-started
+  homepage: https://ibm.biz/functional-genomics
+  stargazers_count: 13
 - description: Interaktive Deutschlandkarte, die die COVID19-Infektionszahlen auf
     Landkreis-/Stadtebene zeigt (veraltet)
   fork: false
   forks: 2
   full_name: br-data/corona-deutschland-karte
   homepage: https://interaktiv.br.de/corona-deutschland-karte/
-  stargazers_count: 13
-- description: Examples to get started with IBM Functional Genomics Platform
-  fork: false
-  forks: 15
-  full_name: IBM/omxware-getting-started
-  homepage: https://ibm.biz/functional-genomics
   stargazers_count: 13
 - description: A data science analysis of the Covid-19 pandemic, caused by the novel
     coronavirus.
@@ -9939,18 +9939,18 @@
   full_name: TheSavior/covid19-changes
   homepage: https://www.eli-white.com/covid19-changes
   stargazers_count: 13
-- description: Coronavirus (COVID-19) in the UK - API Service SDK for .Net
-  fork: false
-  forks: 4
-  full_name: UKHSA-Internal/coronavirus-dashboard-api-net-sdk
-  homepage: https://coronavirus.data.gov.uk/
-  stargazers_count: 13
 - description: a react native app for requesting/provisioning/administering covid19
     tests
   fork: false
   forks: 1
   full_name: gkpty/covidtest
   homepage: null
+  stargazers_count: 13
+- description: Coronavirus (COVID-19) in the UK - API Service SDK for .Net
+  fork: false
+  forks: 4
+  full_name: UKHSA-Internal/coronavirus-dashboard-api-net-sdk
+  homepage: https://coronavirus.data.gov.uk/
   stargazers_count: 13
 - description: The Covid-19-QBox-Chatbot Model is free pre-compiled chatbot model
     that addresses typical questions about the COVID-19 virus to help you handle high
@@ -10001,12 +10001,6 @@
   full_name: Pranav1007/Social-Distance-Detector
   homepage: ''
   stargazers_count: 13
-- description: Face-mask detection system using YOLOv3 in Keras
-  fork: false
-  forks: 12
-  full_name: vijayg15/Keras-FaceMask-Detection-System
-  homepage: null
-  stargazers_count: 13
 - description: A full stack framework to trace possible close-contact candidates within
     last specified days for an already detected covid-19 positive patient
   fork: false
@@ -10014,17 +10008,23 @@
   full_name: hissain/CoronaTracker
   homepage: ''
   stargazers_count: 13
-- description: Curated list of useful resources for this quarantine days
+- description: Face-mask detection system using YOLOv3 in Keras
   fork: false
-  forks: 5
-  full_name: ishamsu/awesome-quarantine
-  homepage: http://freebies.covid19kerala.live/
+  forks: 12
+  full_name: vijayg15/Keras-FaceMask-Detection-System
+  homepage: null
   stargazers_count: 13
 - description: ' COVID-19 Monitoring plateforme  written in VueJs and Express JS '
   fork: false
   forks: 5
   full_name: Samielleuch/Neghlbouh
   homepage: https://neghlbouh.now.sh
+  stargazers_count: 13
+- description: Curated list of useful resources for this quarantine days
+  fork: false
+  forks: 5
+  full_name: ishamsu/awesome-quarantine
+  homepage: http://freebies.covid19kerala.live/
   stargazers_count: 13
 - description: Web app  to show information about the current cases of COVID 19 in
     Dominican Republic
@@ -10138,17 +10138,17 @@
   full_name: sejaldua/covid19-vaccy-tweets-NLP
   homepage: null
   stargazers_count: 12
-- description: null
-  fork: false
-  forks: 4
-  full_name: MrinankSharma/COVID19NPISecondWave
-  homepage: null
-  stargazers_count: 12
 - description: R package for tracking Covid19 cases in San Francisco
   fork: false
   forks: 4
   full_name: RamiKrispin/covid19sf
   homepage: https://ramikrispin.github.io/covid19sf/
+  stargazers_count: 12
+- description: null
+  fork: false
+  forks: 4
+  full_name: MrinankSharma/COVID19NPISecondWave
+  homepage: null
   stargazers_count: 12
 - description: "\U0001F9A0 Update a gist to contain global or country specific coronavirus\
     \ stats"
@@ -10157,12 +10157,6 @@
   full_name: pujux/covid-box
   homepage: ''
   stargazers_count: 12
-- description: Visualization of COVID-19 spread metrics.
-  fork: false
-  forks: 3
-  full_name: lin-lab/COVID19-Viz
-  homepage: http://metrics.covid19-analysis.org/
-  stargazers_count: 12
 - description: Researchers around the world are trying to develop safe and effective
     vaccines against SARS-CoV-2, the virus that causes COVID-19. Here's their progress
     so far.
@@ -10170,6 +10164,12 @@
   forks: 3
   full_name: dw-data/covid19-vaccine-tracker
   homepage: https://p.dw.com/p/3lUln
+  stargazers_count: 12
+- description: Visualization of COVID-19 spread metrics.
+  fork: false
+  forks: 3
+  full_name: lin-lab/COVID19-Viz
+  homepage: http://metrics.covid19-analysis.org/
   stargazers_count: 12
 - description: Pipeline to automatically analyse  SARS-CoV-2 Whole genome sequencing
     Illumina data obtained using EasySeq SARS-CoV-2/COVID-19 Whole Genome Sequencing
@@ -10192,17 +10192,17 @@
   full_name: o0oBluePhoenixo0o/COVID_19-Social-Dist-Simulation
   homepage: ''
   stargazers_count: 12
-- description: Processing workflow for COVID-19 single cell data
-  fork: false
-  forks: 2
-  full_name: RGLab/covid19_sc
-  homepage: ''
-  stargazers_count: 12
 - description: Code for COVID19 CT labeling. Submillimetric CT dataset provided as
     well.
   fork: false
   forks: 2
   full_name: pzaffino/COVID19-intensity-labeling
+  homepage: ''
+  stargazers_count: 12
+- description: Processing workflow for COVID-19 single cell data
+  fork: false
+  forks: 2
+  full_name: RGLab/covid19_sc
   homepage: ''
   stargazers_count: 12
 - description: null
@@ -10217,14 +10217,6 @@
   full_name: zomervinicius/covid19-br-info
   homepage: https://coronavirusbr.vercel.app/
   stargazers_count: 12
-- description: This is a COVID-19 Information Extension Module for the Magic Mirror.
-    It shows the City of your choice with the 7 day incidence value per 100k people.
-    In Germany this is used to control the degree of lockdown activities.
-  fork: false
-  forks: 2
-  full_name: magic21nrw/MMM-COVID19-AMPEL
-  homepage: https://magicmirror.builders
-  stargazers_count: 12
 - description: "Covid-19\u75AB\u60C5\u6570\u636E\u5206\u6790"
   fork: false
   forks: 2
@@ -10236,6 +10228,14 @@
   forks: 2
   full_name: Covid19R/covid19mobility
   homepage: https://covid19r.github.io/covid19mobility/
+  stargazers_count: 12
+- description: This is a COVID-19 Information Extension Module for the Magic Mirror.
+    It shows the City of your choice with the 7 day incidence value per 100k people.
+    In Germany this is used to control the degree of lockdown activities.
+  fork: false
+  forks: 2
+  full_name: magic21nrw/MMM-COVID19-AMPEL
+  homepage: https://magicmirror.builders
   stargazers_count: 12
 - description: Covid19 Tracker Android App
   fork: false
@@ -10261,18 +10261,18 @@
   full_name: oussamabouchikhi/COVID19
   homepage: https://oussamabouchikhi.github.io/COVID19/
   stargazers_count: 12
-- description: Python script (now a service) to notify the user about the availability
-    of vaccine registration slots in the specified area!
-  fork: false
-  forks: 8
-  full_name: arnavkohli/vaccine-availability-telegram-notifier
-  homepage: ''
-  stargazers_count: 12
 - description: COVNINFO = Covid Nineteen (Covid-19) Outbreak Info, with simple MVVM
     Pattern
   fork: false
   forks: 8
   full_name: whoishusni/COVNINFO
+  homepage: ''
+  stargazers_count: 12
+- description: Python script (now a service) to notify the user about the availability
+    of vaccine registration slots in the specified area!
+  fork: false
+  forks: 8
+  full_name: arnavkohli/vaccine-availability-telegram-notifier
   homepage: ''
   stargazers_count: 12
 - description: main website for the cantstopcolumbus movement
@@ -10301,18 +10301,18 @@
   full_name: bhuwanadhikari/covid19nepal-map
   homepage: https://covidmapnepal.web.app/
   stargazers_count: 12
-- description: Predicting ICU admission based on initial CT images and non-imaging
-    data.
-  fork: false
-  forks: 0
-  full_name: DIAL-RPI/COVID19-ICUPrediction
-  homepage: null
-  stargazers_count: 12
 - description: A repository of the data and code used for aggregating expert predictions
     of COVID19
   fork: false
   forks: 0
   full_name: tomcm39/COVID19_expert_survey
+  homepage: null
+  stargazers_count: 12
+- description: Predicting ICU admission based on initial CT images and non-imaging
+    data.
+  fork: false
+  forks: 0
+  full_name: DIAL-RPI/COVID19-ICUPrediction
   homepage: null
   stargazers_count: 12
 - description: Covid-19 Tracker iOS built with SwiftUI
@@ -10327,19 +10327,19 @@
   full_name: Amrhub/COVID19-tracker
   homepage: null
   stargazers_count: 12
-- description: 'As part of the COVID-19 Host Genetics Global initative, this repo
-    serves to corroborate sample scripts for sequencing QC. '
-  fork: false
-  forks: 1
-  full_name: covid19-hg/covid19_sequencing
-  homepage: ''
-  stargazers_count: 12
 - description: "Projeto de monitoramento de publica\xE7\xF5es oficiais relacionadas\
     \ a COVID-19 no Brasil."
   fork: false
   forks: 0
   full_name: fgrehm/covid19br-pub
   homepage: https://covid19br.pub
+  stargazers_count: 12
+- description: 'As part of the COVID-19 Host Genetics Global initative, this repo
+    serves to corroborate sample scripts for sequencing QC. '
+  fork: false
+  forks: 1
+  full_name: covid19-hg/covid19_sequencing
+  homepage: ''
   stargazers_count: 12
 - description: quick full-stack web app in Covid19 confinement
   fork: false
@@ -10371,16 +10371,16 @@
   full_name: CRANE-toolbox/analysis-pipelines
   homepage: https://crane-toolbox.github.io
   stargazers_count: 12
-- description: SARS-CoV-2 Genome Assembler
-  fork: false
-  forks: 1
-  full_name: jnarayan81/setu
-  homepage: ''
-  stargazers_count: 12
 - description: Covid-19 API on EC2
   fork: false
   forks: 1
   full_name: CoronaAPI/CoronaAPI
+  homepage: ''
+  stargazers_count: 12
+- description: SARS-CoV-2 Genome Assembler
+  fork: false
+  forks: 1
+  full_name: jnarayan81/setu
   homepage: ''
   stargazers_count: 12
 - description: A collection of projects making an impact with Hollie's Hub for Good.
@@ -10642,17 +10642,17 @@
   full_name: AhmetFurkanDEMIR/Deep-Learning-with-PyTorch-V4
   homepage: null
   stargazers_count: 11
-- description: The Front-End of CovIndia.com [SHUTDOWN]
-  fork: false
-  forks: 16
-  full_name: covindia/CovIndia-Website
-  homepage: https://covindia.netlify.app
-  stargazers_count: 11
 - description: See all banned flights during covid19 pandemic
   fork: false
   forks: 0
   full_name: maschad/covid19-banned-flights
   homepage: https://www.covid19globalinfo.com/
+  stargazers_count: 11
+- description: The Front-End of CovIndia.com [SHUTDOWN]
+  fork: false
+  forks: 16
+  full_name: covindia/CovIndia-Website
+  homepage: https://covindia.netlify.app
   stargazers_count: 11
 - description: An integrated dataset and interface for visualizing and analyzing the
     Coronavirus Disease 2019 aka COVID19 aka C19
@@ -10667,12 +10667,6 @@
   full_name: Sandbird/covid19-gr
   homepage: null
   stargazers_count: 11
-- description: Solution for Sberbank COVID-19 Data Challenge
-  fork: false
-  forks: 1
-  full_name: Topspin26/sberbank-covid19-challenge
-  homepage: null
-  stargazers_count: 11
 - description: Covid19 Metrics is a web application that fetches covid data from API
     and renders it on the screen. It shows all countries with the confirmed covid
     cases on the homepage, users can select any country and go to the details page.
@@ -10682,6 +10676,12 @@
   forks: 0
   full_name: thecodechaser/covid19-metrics
   homepage: https://covid19-metrics-thecodechaser.netlify.app/
+  stargazers_count: 11
+- description: Solution for Sberbank COVID-19 Data Challenge
+  fork: false
+  forks: 1
+  full_name: Topspin26/sberbank-covid19-challenge
+  homepage: null
   stargazers_count: 11
 - description: null
   fork: false
@@ -10702,18 +10702,23 @@
   full_name: Malicia/COVID19_ressources_biomedicales
   homepage: ''
   stargazers_count: 11
+- description: covid19 live data component. add your website easily
+  fork: false
+  forks: 1
+  full_name: snturk/covid19-vue-component
+  homepage: https://snturk.github.io/covid19-vue-component/
+  stargazers_count: 11
+- description: API for Covid19CubaData
+  fork: false
+  forks: 1
+  full_name: luiscib3r/covid19cuba_api
+  homepage: null
+  stargazers_count: 11
 - description: Live detailed COVID-19 updates in Morocco
   fork: false
   forks: 0
   full_name: EternalValor/covid19-morocco
   homepage: https://covid19-morocco.netlify.com/
-  stargazers_count: 11
-- description: COVID Layoff related - support for european engineering community and
-    job search resources
-  fork: false
-  forks: 0
-  full_name: willbeallright-COVID19/willbeallright-COVID19
-  homepage: null
   stargazers_count: 11
 - description: 'Code and methods for COVID19 lagged mobility and sociodemographic
     association model US county-level '
@@ -10722,17 +10727,12 @@
   full_name: phcanalytics/covid19_epi_model
   homepage: null
   stargazers_count: 11
-- description: API for Covid19CubaData
+- description: COVID Layoff related - support for european engineering community and
+    job search resources
   fork: false
-  forks: 1
-  full_name: luiscib3r/covid19cuba_api
+  forks: 0
+  full_name: willbeallright-COVID19/willbeallright-COVID19
   homepage: null
-  stargazers_count: 11
-- description: covid19 live data component. add your website easily
-  fork: false
-  forks: 1
-  full_name: snturk/covid19-vue-component
-  homepage: https://snturk.github.io/covid19-vue-component/
   stargazers_count: 11
 - description: "COVID-19: Data pro modelov\xE1n\xED predikc\xED od \xDAzis"
   fork: false
@@ -11687,7 +11687,7 @@
 - description: COVID-19 is a fully responsive Corona website, Responsive for all devices,
     build using HTML, CSS, and JavaScript.
   fork: false
-  forks: 4
+  forks: 5
   full_name: codewithsadee/covid-19
   homepage: https://codewithsadee.github.io/covid-19/
   stargazers_count: 24
@@ -12153,12 +12153,6 @@
   full_name: JayWelsh/coronamap
   homepage: https://coronamap.co.za
   stargazers_count: 18
-- description: null
-  fork: false
-  forks: 0
-  full_name: dhruvaop/corona-mask
-  homepage: null
-  stargazers_count: 18
 - description: 'Fight Corona virus by collaborative isolation: Buy your groceries
     along with your neighbors'
   fork: false
@@ -12256,6 +12250,12 @@
   full_name: madhavtripathi05/COVID_19_TRACKER
   homepage: https://mcovid-19-tracker.web.app
   stargazers_count: 17
+- description: null
+  fork: false
+  forks: 0
+  full_name: dhruvaop/corona-mask
+  homepage: null
+  stargazers_count: 17
 - description: "\U0001F916 \uCE74\uCE74\uC624\uD1A1 \uCF54\uB85C\uB098 \uC54C\uB9AC\
     \uBBF8"
   fork: false
@@ -12294,19 +12294,19 @@
   full_name: duynt2499/corona-api
   homepage: null
   stargazers_count: 16
-- description: 'First Prize in HackJaipur Hackathon 2020 for Best ElasticSearch-based
-    Product! Website: http://coronaxiv2.surge.sh/#/'
-  fork: false
-  forks: 3
-  full_name: arghyadeep99/CoronaXiv
-  homepage: http://coronaxiv2.surge.sh/#/
-  stargazers_count: 16
 - description: 'Watch the latest Corona Virus cases in your country and in the world
     for iOS, iPadOS and macOS! '
   fork: false
   forks: 3
   full_name: GeylanKalafMohe/CoronaCases
   homepage: ''
+  stargazers_count: 16
+- description: 'First Prize in HackJaipur Hackathon 2020 for Best ElasticSearch-based
+    Product! Website: http://coronaxiv2.surge.sh/#/'
+  fork: false
+  forks: 3
+  full_name: arghyadeep99/CoronaXiv
+  homepage: http://coronaxiv2.surge.sh/#/
   stargazers_count: 16
 - description: This is the repository for coronavis.dbvis.de
   fork: false
@@ -12496,16 +12496,16 @@
   full_name: Real-TomHy/novel-coronavirus-pneumoniaKG
   homepage: ''
   stargazers_count: 15
-- description: a high score framework for Corona apps
-  fork: false
-  forks: 2
-  full_name: Abica/lime
-  homepage: ''
-  stargazers_count: 15
 - description: Websocket client and server (ws/wss) for Solar2d (Corona SDK)
   fork: false
   forks: 3
   full_name: joehinkle11/SolarWebSockets
+  homepage: ''
+  stargazers_count: 15
+- description: a high score framework for Corona apps
+  fork: false
+  forks: 2
+  full_name: Abica/lime
   homepage: ''
   stargazers_count: 15
 - description: Clone of 2048(https://github.com/gabrielecirulli/2048) built in Corona
@@ -12633,18 +12633,18 @@
   full_name: stritti/covid-ampel-widget
   homepage: https://covid-ampel.vercel.app/
   stargazers_count: 14
+- description: My project charts with rechtsart
+  fork: false
+  forks: 0
+  full_name: david35008/Corona-Charts-Desktop
+  homepage: null
+  stargazers_count: 14
 - description: "Este foi o c\xF3digo utilizado por tr\xE1s do especial \"As v\xED\
     timas do coronav\xEDrus\", publicado no Portal UOL."
   fork: false
   forks: 1
   full_name: juditecypreste/as-vitimas-do-coronavirus
   homepage: https://noticias.uol.com.br/reportagens-especiais/as-vitimas-do-coronavirus/index.htm
-  stargazers_count: 14
-- description: My project charts with rechtsart
-  fork: false
-  forks: 0
-  full_name: david35008/Corona-Charts-Desktop
-  homepage: null
   stargazers_count: 14
 - description: A QSB Board to help protect the fragile tiny Header Pads of the Xbox
     360 Corona 4GB NAND
@@ -12706,17 +12706,17 @@
   full_name: observethesun/coronal_holes
   homepage: ''
   stargazers_count: 13
-- description: ':bar_chart: Corona virus tracker app for IOS and Android.'
-  fork: false
-  forks: 5
-  full_name: nploi/corona_tracker
-  homepage: ''
-  stargazers_count: 13
 - description: Historical Estimates & Model Predictions for COVID-19 in Finland
   fork: false
   forks: 5
   full_name: futurice/corona-simulations
   homepage: https://corosim.attejuvonen.fi/
+  stargazers_count: 13
+- description: ':bar_chart: Corona virus tracker app for IOS and Android.'
+  fork: false
+  forks: 5
+  full_name: nploi/corona_tracker
+  homepage: ''
   stargazers_count: 13
 - description: An example of unit testing Corona using busted
   fork: false
@@ -12756,12 +12756,6 @@
   full_name: jyrkih/arkit-corona
   homepage: null
   stargazers_count: 13
-- description: Fight COVID-19 together with these discounted SaaS products
-  fork: false
-  forks: 7
-  full_name: adriaanvanrossum/saasforcovid.com
-  homepage: https://saasforcovid.com/?ref=github.com
-  stargazers_count: 13
 - description: It is a Flask Application to predict a person covid positive/negetive
     based on chest x ray of a person.This Machine Learning Web Application utilizes
     a Two-Layered Convolutional Neural Network to process the chest-x-ray Images and
@@ -12770,6 +12764,12 @@
   forks: 2
   full_name: ksdkamesh99/Corona-X-Ray-Prediction
   homepage: https://hub.docker.com/r/ksdkamesh99/covidxrayprediction
+  stargazers_count: 13
+- description: Fight COVID-19 together with these discounted SaaS products
+  fork: false
+  forks: 7
+  full_name: adriaanvanrossum/saasforcovid.com
+  homepage: https://saasforcovid.com/?ref=github.com
   stargazers_count: 13
 - description: a android framework(like Corona Framework) that let us coding app by
     LUA,it 's easier and faster than before.
@@ -12924,6 +12924,12 @@
   full_name: dordchn/corona-market
   homepage: https://dordchn.github.io/corona-market
   stargazers_count: 12
+- description: null
+  fork: false
+  forks: 1
+  full_name: sharjeelyunus/coronavirus-map
+  homepage: https://coronavirus-map.netlify.com/
+  stargazers_count: 12
 - description: "\U0001F9A0\U0001F916\U0001F9EA#WirVsVirus Corona-Crisis Hackathon\
     \ - organized by the German government. SWAG (Smart Workforce Allocator Germany)\
     \ helps to mitigate this imbalance and directly connects employer and employees,\
@@ -12933,24 +12939,18 @@
   full_name: jgoerner/corona-hackathon
   homepage: https://swag-vs-virus.herokuapp.com/
   stargazers_count: 12
-- description: null
-  fork: false
-  forks: 1
-  full_name: sharjeelyunus/coronavirus-map
-  homepage: https://coronavirus-map.netlify.com/
-  stargazers_count: 12
-- description: null
-  fork: false
-  forks: 1
-  full_name: icarofs/chatbot-corona
-  homepage: null
-  stargazers_count: 12
 - description: ':chart_with_upwards_trend: Coronavirus case statistics in the state
     of Rio Grande do Sul'
   fork: false
   forks: 0
   full_name: leonardorpr/coronavirus-rs
   homepage: http://coronavirus-rs.surge.sh/
+  stargazers_count: 12
+- description: null
+  fork: false
+  forks: 1
+  full_name: icarofs/chatbot-corona
+  homepage: null
   stargazers_count: 12
 - description: A video-to-texture plugin for the solar2D (formerly corona-sdk) game
     engine
@@ -13128,6 +13128,12 @@
   full_name: 839-Studio/Noval-Coronavirus-763-Cases
   homepage: null
   stargazers_count: 11
+- description: Coronavirus Global Statistic
+  fork: false
+  forks: 3
+  full_name: agaktr/coronavirus-meter
+  homepage: https://coronavirus-meter.com/
+  stargazers_count: 11
 - description: Corona Invader is a replica of the famous Space Invader, with a twist.
     In the game, you impersonate the Unites States, and you will have to beat the
     coronavirus by shooting syringes or vaccines, depending on your imagination.
@@ -13135,12 +13141,6 @@
   forks: 3
   full_name: DavideMerlin/Corona_Invaders
   homepage: ''
-  stargazers_count: 11
-- description: Coronavirus Global Statistic
-  fork: false
-  forks: 3
-  full_name: agaktr/coronavirus-meter
-  homepage: https://coronavirus-meter.com/
   stargazers_count: 11
 - description: Small corona-sdk project to help with particle candy effect creation
   fork: false
@@ -13468,7 +13468,7 @@
   forks: 2
   full_name: Last-Order/china-variants-report
   homepage: ''
-  stargazers_count: 40
+  stargazers_count: 39
 - description: SARS-CoV-2 genome sequence data analyses
   fork: false
   forks: 8
@@ -13563,6 +13563,13 @@
   forks: 50
   full_name: MolSSI/covid
   homepage: https://covid.molssi.org
+  stargazers_count: 25
+- description: Multi-omics profiling of peripheral immune system response to SARS-CoV-2
+    infection
+  fork: false
+  forks: 11
+  full_name: scCOVID-19/COVIDPBMC
+  homepage: null
   stargazers_count: 25
 - description: "\uC911\uAD6D \uC6B0\uD55C \uBC14\uC774\uB7EC\uC2A4 \uD55C\uAD6D \uD655\
     \uC9C4\uC790 \uD1B5\uACC4"
@@ -13982,7 +13989,7 @@
   stargazers_count: 1033
 - description: This repository contains all the code I use in my YouTube tutorials.
   fork: false
-  forks: 236
+  forks: 235
   full_name: ayushi7rawat/Youtube-Projects
   homepage: https://www.youtube.com/ayushirawat
   stargazers_count: 400
@@ -14021,7 +14028,7 @@
   forks: 261
   full_name: vinitshahdeo/Water-Monitoring-System
   homepage: https://vinitshahdeo.github.io/Water-Monitoring-System/
-  stargazers_count: 143
+  stargazers_count: 142
 - description: The app lets everyone assess their symptoms using a questionnaire.
     The app also informs users about next steps, for example, precautionary measures
     or contacting healthcare providers and health authorities.
@@ -14285,6 +14292,14 @@
   full_name: dracos/local-lockdown-lookup
   homepage: https://dracos.co.uk/made/local-lockdown-lookup/
   stargazers_count: 19
+- description: 'Contains functions for pulling publicly-available global COVID-19
+    case and testing data for analysis and populating a Power BI dashboard. ARCHIVED:
+    See ITF-Dashboard Repository for further development'
+  fork: false
+  forks: 16
+  full_name: CDCgov/ITF_Power_BI
+  homepage: ''
+  stargazers_count: 19
 - description: Coronavirus Tracker App Using REST API's
   fork: false
   forks: 0
@@ -14343,14 +14358,6 @@
   fork: false
   forks: 3
   full_name: Stockard/Shanghai-COVID-2022
-  homepage: ''
-  stargazers_count: 18
-- description: 'Contains functions for pulling publicly-available global COVID-19
-    case and testing data for analysis and populating a Power BI dashboard. ARCHIVED:
-    See ITF-Dashboard Repository for further development'
-  fork: false
-  forks: 16
-  full_name: CDCgov/ITF_Power_BI
   homepage: ''
   stargazers_count: 18
 - description: Coronavirus Tracker for Android which shows worldwide data of confirmed
@@ -14668,18 +14675,18 @@
   full_name: GoogleCloudPlatform/terraform-folding-at-home
   homepage: ''
   stargazers_count: 13
+- description: scraper for Rensselaer Polytechnic Institute (RPI)'s Covid Dashboard
+  fork: false
+  forks: 7
+  full_name: johnnyapol/RPICovidScraper
+  homepage: ''
+  stargazers_count: 13
 - description: Simulate virus pandemic in your browser. Change virus settings to visualize
     how different settings affect the spread of the disease.
   fork: false
   forks: 3
   full_name: pavlovdog/pandemic-simulator
   homepage: http://pandemic.sergeypotekhin.com/?utm_source=github&utm_medium=readme&utm_campaign=repo-link
-  stargazers_count: 13
-- description: scraper for Rensselaer Polytechnic Institute (RPI)'s Covid Dashboard
-  fork: false
-  forks: 7
-  full_name: johnnyapol/RPICovidScraper
-  homepage: ''
   stargazers_count: 13
 - description: COVID-19-Verdachtsfall-Verwaltung
   fork: false
